@@ -30,7 +30,7 @@ jobs:
           node-version: 22
 
       - name: Install Dependencies
-        run: npm ci
+        run: npm install
 
       - name: Fetch Core Plugins
         run: npx quartz plugin install --from-config
