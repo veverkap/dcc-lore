@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
-  pageTitleSuffix: ""
+  pageTitle: "DCC Lore Vault"       # <-- Change from "Quartz 5"
+  pageTitleSuffix: " | Central AI" # <-- Optional: adds clean browser tab styling
   enableSPA: true
   enablePopovers: true
   analytics:
@@ -213,8 +213,8 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        Project Home: https://github.com/veverkap/dcc-lore
+        Series Wiki: https://dungeon-crawler-carl.fandom.com
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
