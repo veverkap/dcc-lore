@@ -1,5 +1,5 @@
 ---
-title: "Fourth Floor - \The Iron Tangle\"
+title: "Fourth Floor - \"The Iron Tangle\""
 type: Mechanic
 tags: [dcc-lore-graph]
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Platinum \Hell in a Handbasket Box\"
+title: "Platinum \"Hell in a Handbasket Box\""
 type: Item
 tags: [dcc-lore-graph]
 ---
