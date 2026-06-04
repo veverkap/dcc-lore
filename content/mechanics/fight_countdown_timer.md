@@ -1,0 +1,13 @@
+---
+title: "Fight Countdown Timer"
+type: Mechanic
+tags: [dcc-lore-graph]
+---
+# Fight Countdown Timer
+
+title: "Fight Countdown Timer"
+type: Mechanic
+tags: [dcc-lore-graph]
+---
+# Fight Countdown Timer
+An active system mechanic that appears upon interaction with the trailer door or activation devices: in this chapter it displays "Warning: The fight will not commence for forty-two minutes and thirty seconds." Locks time-limited actions and signals an imminent event within the [[Spliced-in Time Rectangle]].
