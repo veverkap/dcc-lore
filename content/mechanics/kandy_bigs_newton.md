@@ -1,5 +1,5 @@
 ---
-title: "Kandy \Bigs\ Newton"
+title: "Kandy \"Bigs\" Newton"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---

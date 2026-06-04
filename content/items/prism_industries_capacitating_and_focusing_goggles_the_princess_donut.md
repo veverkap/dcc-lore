@@ -1,5 +1,5 @@
 ---
-title: "Prism Industries Capacitating and Focusing Goggles (\The Princess Donut\)"
+title: "Prism Industries Capacitating and Focusing Goggles (The Princess Donut)"
 type: Item
 tags: [dcc-lore-graph]
 ---

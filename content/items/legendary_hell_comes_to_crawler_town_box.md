@@ -1,9 +1,9 @@
 ---
-title: "Legendary \Hell Comes to Crawler Town\ box"
+title: "Legendary \"Hell Comes to Crawler Town\" box"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Legendary \Hell Comes to Crawler Town\ box
+# Legendary "Hell Comes to Crawler Town" box
 
 title: "Legendary \"Hell Comes to Crawler Town\" box"
 type: Item
