@@ -1,0 +1,13 @@
+---
+title: "Tucker"
+type: Character
+tags: [dcc-lore-graph]
+---
+# Tucker
+
+# Tucker
+Middle-aged human pundit and panelist on [[Danger Zone with Ripper Wonton]] who opines about interstellar politics (including the [[valtay]] and the [[kua-tin]]). Clashes with [[Princess Donut]] and is publicly shamed during the broadcast.
+
+## Additional Observations
+# Tucker
+Human comedian and panelist on [[Danger Zone with Ripper Wonton]] who debates Syndicate politics and the [[valtay]]'s influence; antagonizes [[Princess Donut]] before the pulse attack changes the tone of the broadcast.
