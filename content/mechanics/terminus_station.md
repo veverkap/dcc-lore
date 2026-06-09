@@ -3,19 +3,8 @@ title: "Terminus Station"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Terminus Station
 
-title: "Terminus Station"
-type: Location
-tags: [dcc-lore-graph]
----
-# Terminus Station
-Station 433; destination referenced for inbound allies like [[daniel bautista]]. Important waypoint on the train network.
+# terminus_station
 
-## Additional Observations
-title: "Terminus Station"
-type: Location
-tags: [dcc-lore-graph]
----
-# Terminus Station
-A heavily warned-against station in the system; linked to the ravenous [[Station Mimics]] and explicitly called a trap by Carl.
+• Station 433, destination for inbound allies like [[daniel bautista]], and an important waypoint on the [[train]] network.
+• Linked to the ravenous [[Station Mimics]] and considered a trap by Carl.

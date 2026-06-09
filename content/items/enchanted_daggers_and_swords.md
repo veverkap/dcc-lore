@@ -3,11 +3,8 @@ title: "Enchanted Daggers and Swords"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Enchanted Daggers and Swords
 
-title: "Enchanted Daggers and Swords"
-type: Item
-tags: [dcc-lore-graph]
----
-# Enchanted Daggers and Swords
-Loot recovered from the mangled ursine on the south shore; collectively noted as magical weapons of moderate value that [[dungeon crawler carl]] collects during the shore raid.
+# enchanted_daggers_and_swords
+
+• Loot recovered from the mangled ursine on the south shore includes magical weapons of moderate value.
+• These weapons are collected by [[dungeon crawler carl]] during the shore raid.

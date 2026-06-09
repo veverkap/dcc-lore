@@ -3,11 +3,8 @@ title: "Demolitions Workshop"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Demolitions Workshop
 
-title: "Demolitions Workshop"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Demolitions Workshop
-An interface menu that appears when analytical thresholds are met (e.g., explosive skill levels). Access is explicitly gated: "You may only access this menu when you’re standing in front of a [[Sapper’s Table]]." Treated as an explicit dungeon-system mechanic for demolition crafting.
+# demolitions_workshop
+
+• An interface menu that appears when analytical thresholds are met, such as explosive skill levels.
+• Access is explicitly gated: you must be standing in front of a [[Sapper's Table]] to access the menu.

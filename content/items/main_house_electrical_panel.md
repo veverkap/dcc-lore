@@ -3,11 +3,7 @@ title: "Main House Electrical Panel"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Main House Electrical Panel
 
-title: "Main House Electrical Panel"
-type: Item
-tags: [dcc-lore-graph]
----
-# Main House Electrical Panel
-The house’s electrical main breaker that [[dungeon crawler carl]] removed and took; the house’s power behaves oddly (outlets active when attached, inert when removed) suggesting game-world magic.
+# main_house_electrical_panel
+
+• The house's electrical main breaker was removed by [[dungeon crawler carl]], causing the house's power to behave oddly.

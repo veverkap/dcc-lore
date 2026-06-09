@@ -3,11 +3,7 @@ title: "Borant Gate System"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Borant Gate System
 
-title: "Borant Gate System"
-type: Location
-tags: [dcc-lore-graph]
----
-# [[Borant Gate System]]
-The older travel/teleport infrastructure referenced as being unable to function now that a tunnel node (or the Aryl node) is offline; used to explain limits on rescue and travel.
+# borant_gate_system
+
+• The Borant [[Gate]] System is an older travel/[[teleport]] infrastructure that is no longer functional due to a [[tunnel]] node (or the [[Aryl]] node) being offline.

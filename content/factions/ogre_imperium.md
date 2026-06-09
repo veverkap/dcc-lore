@@ -3,11 +3,7 @@ title: "Ogre Imperium"
 type: Faction
 tags: [dcc-lore-graph]
 ---
-# Ogre Imperium
 
-title: "Ogre Imperium"
-type: Faction
-tags: [dcc-lore-graph]
----
-# Ogre Imperium
-A long-forgotten plotline/organization mentioned by [[Akuma]] as having once been relevant to the [[Pineapple Cabaret]] area; described as an old faction of ogres.
+# ogre_imperium
+
+• A long-forgotten plotline/organization mentioned by [[Akuma]] as having once been relevant to the [[Pineapple Cabaret]] area; described as an old faction of ogres.

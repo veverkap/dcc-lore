@@ -3,21 +3,8 @@ title: "Anti-NPC claymore"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Anti-NPC claymore
 
-title: "Anti-NPC claymore"
-type: Item
-tags: [dcc-lore-graph]
----
-# Anti-NPC claymore
-Directional, motion-detecting claymores Carl installs opposite the closet doorway, loaded with orcish iron BBs (effective against fairies). Part of the ambush intended to kill Astrid.
+# anti-npc_claymore
 
-## Automated Merge Entry (motion-detecting_anti-npc_claymore)
-# Motion-detecting anti-NPC claymore
-
-title: "Motion-detecting anti-NPC claymore"
-type: Item
-tags: [dcc-lore-graph]
----
-# Motion-detecting anti-NPC claymore
-A directional explosive trap [[dungeon crawler carl]] plants at the closet entrance; packed with orcish iron BBs and intended specifically to harm fairies/NPCs like [[Astrid]].
+• Directional, motion-detecting claymores loaded with orcish iron BBs, effective against fairies, installed by Carl opposite the closet doorway, part of an ambush intended to kill Astrid.
+• A directional explosive trap packed with orcish iron BBs, intended to harm fairies/NPCs like Astrid, planted by Carl at the closet entrance.

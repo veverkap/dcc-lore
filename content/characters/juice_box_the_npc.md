@@ -3,7 +3,7 @@ title: "Juice Box the NPC"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Juice Box the NPC
 
-# Juice Box the NPC
-An explicitly labeled NPC shown on the broadcast among player avatars and deities; named and included in the Ascendency roster images.
+# juice_box_the_npc
+
+• [[An]] explicitly labeled NPC shown on the broadcast among player avatars and deities; named and included in the Ascendency roster images.

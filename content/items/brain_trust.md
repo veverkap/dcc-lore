@@ -3,11 +3,7 @@ title: "Brain Trust"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Brain Trust
 
-title: "Brain Trust"
-type: Item
-tags: [dcc-lore-graph]
----
-# Brain Trust
-An intelligence-focused benefit picked by [[Donut]] intended to enhance offensive spell potency (notably to empower [[Magic Missile]]).
+# brain_trust
+
+• An intelligence-focused benefit that enhances offensive spell potency, particularly for spells like [[Magic Missile]].

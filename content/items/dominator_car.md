@@ -3,19 +3,9 @@ title: "Dominator car"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Dominator car
 
-title: "Dominator car"
-type: Item
-tags: [dcc-lore-graph]
----
-# Dominator car
-The vehicle used by the [[Lady Dominators]]; noted for golden wheels that spread laterally and produce sparks. Targeted by rockets and combat during the factory run.
+# dominator_car
 
-## Additional Observations
-title: "Dominator Car"
-type: Item
-tags: [dcc-lore-graph]
----
-# Dominator Car
-A referenced vehicle model whose floor collapsed under it, causing the crash described in this chapter; contextually tied to the damaged [[GTO]].
+• The Dominator car is used by the [[Lady Dominators]] and features golden wheels that spread laterally and produce sparks.
+• It was targeted by rockets and combat during the factory run.
+• The vehicle's floor collapsed, causing a crash described in this chapter, which is contextually tied to the damaged [[GTO]].

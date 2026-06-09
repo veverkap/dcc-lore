@@ -3,11 +3,7 @@ title: "Floor Boss"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Floor Boss
 
-title: "Floor Boss"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Floor Boss
-Dungeon mechanic mentioned by [[Cascadia]]: this will be the first level that "has a floor boss," indicating a boss encounter mechanic introduced on this level.
+# floor_boss
+
+• [[Dungeon]] mechanic mentioned by [[Cascadia]]: introduces a boss encounter mechanic on this level, with a "floor boss" on the first level.

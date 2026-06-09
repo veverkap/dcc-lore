@@ -3,11 +3,9 @@ title: "Southern tribe"
 type: Faction
 tags: [dcc-lore-graph]
 ---
-# Southern tribe
 
-title: "Southern tribe"
-type: Faction
-tags: [dcc-lore-graph]
----
-# Southern tribe
-The cannibal forest settlement led by [[Great Rusty]]; part of a two-tribe conflict in the region whose destruction triggers regional power shifts and the quest [[Pasty Inferno]].
+# southern_tribe
+
+• The Southern tribe is a faction led by [[Great Rusty]].
+• They are part of a two-tribe conflict in the region.
+• Their [[destruction]] triggers regional power shifts and the quest [[Pasty Inferno]].

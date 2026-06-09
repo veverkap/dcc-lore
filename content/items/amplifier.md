@@ -3,21 +3,11 @@ title: "Amplifier"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Amplifier
 
-title: "Amplifier"
-type: Item
-tags: [dcc-lore-graph]
----
-# [[Amplifier]]
-The local structure/installation (antennae in the roof and the [[Soul Crystal]]) that captures soul energy and recharges the [[Swordsmen]]. Part of the mechanism that amplified [[Miss Quill]]'s ritual and caused the feedback that damned Remex and others.
+# amplifier
 
-## Automated Merge Entry (the_amplifier)
-# The Amplifier
-
-title: "The Amplifier"
-type: Item
-tags: [dcc-lore-graph]
----
-# The Amplifier
-A piece of high-elf infrastructure referenced as amplifying soul-magic in the building (the roof functioning as antennae). Casting too close to the [[amplifier]] caused feedback that killed [[Featherfall]] and manifested [[remex the grand]].
+• The local structure/installation captures soul energy and recharges the Swordsmen.
+• The mechanism amplified Miss Quill's ritual, causing feedback that damned Remex and others.
+• The Amplifier is a piece of high-elf infrastructure that amplifies soul-magic in the building.
+• The roof functions as antennae for the Amplifier.
+• Casting too close to the Amplifier caused feedback that killed Featherfall and manifested Remex the Grand.

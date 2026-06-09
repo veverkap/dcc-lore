@@ -3,11 +3,8 @@ title: "Nica"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Nica
 
-# Nica
-A deceased level 8 crawler looted by Carl (one of two rings removed). Part of the family group found as a trap near the circus.
+# nica
 
-## Additional Observations
-# [[Nica]]
-One of the three corpses (Grace, Nica, and Lea) discovered earlier; member of the family affected by the events surrounding Miss Quill.
+• A deceased level 8 crawler looted by [[Carl]], with one of two rings removed, found near the circus as part of a family group.
+• One of three corpses ([[Grace]], Nica, and [[Lea]]) discovered earlier, affected by the events surrounding Miss [[Quill]].

@@ -3,11 +3,9 @@ title: "Molten metal room"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Molten metal room
 
-title: "Molten metal room"
-type: Location
-tags: [dcc-lore-graph]
----
-# Molten metal room
-The large, multi-level chamber on the third floor filled with a river of molten metal. This location contains ceiling and wall tracks, spikes and bumps, molten-metal elementals ([[Slag Elemental]]), and is the scene of the inverted racing sequence.
+# molten_metal_room
+
+• The Molten Metal Room is a large, multi-level chamber on the third floor filled with a [[river]] of molten metal.
+• It contains ceiling and wall tracks, spikes and bumps, and molten-metal elementals (Slag Elemental).
+• This location is the scene of the inverted racing sequence.

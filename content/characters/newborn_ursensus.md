@@ -3,7 +3,7 @@ title: "Newborn Ursensus"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Newborn Ursensus
 
-# Newborn Ursensus
-The newborn twins sired by [[Mongo]] and born to [[Kiwi]] — described in-game as a new monster species (part raptor/part bear hybrid), labeled legendary and noted to be unusable as pets due to intelligence.
+# newborn_ursensus
+
+• The newborn twins, sired by [[Mongo]] and born to [[Kiwi]], are a new monster species, described as a hybrid of raptor and bear, labeled legendary, and considered unusable as pets due to their intelligence.

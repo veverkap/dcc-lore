@@ -3,11 +3,7 @@ title: "Lyrx Elf"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Lyrx Elf
 
-title: "Lyrx Elf"
-type: Character
-tags: [dcc-lore-graph]
----
-# [[Lyrx Elf]]
-Race option described as tall, thin, gazelle-like fighters. Listed among the variety of races available to crawlers.
+# lyrx_elf
+
+• [[Lyrx Elf]]: a race option described as tall, thin, and gazelle-like, with fighters being one of the available options for crawlers.

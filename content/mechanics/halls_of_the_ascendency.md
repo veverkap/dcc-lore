@@ -3,35 +3,11 @@ title: "Halls of the Ascendency"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Halls of the Ascendency
 
-title: "Halls of the Ascendency"
-type: Location
-tags: [dcc-lore-graph]
----
-# Halls of the Ascendency
-The central site of the Ascendency contest; the [[Cotton Fields]] surround it and the area is depicted in the AI’s broadcast of the [[Twelfth Floor]].
+# halls_of_the_ascendency
 
-## Additional Observations
-title: "Halls of the Ascendency"
-type: Location
-tags: [dcc-lore-graph]
----
-# [[Halls of the Ascendency]]
-A metaphysical location/plane referenced by system announcements where gods (e.g., [[Emberus]]) return to or depart from.
-
-## Additional Observations
-title: "Halls of the Ascendency"
-type: Location
-tags: [dcc-lore-graph]
----
-# Halls of the Ascendency
-The central facility/playground shown on the broadcast, surrounded by cotton fields and containing the Ascendency game and its enhancement zones.
-
-## Additional Observations
-title: "Halls of the Ascendency"
-type: Location
-tags: [dcc-lore-graph]
----
-# Halls of the Ascendency
-A location connected to the mechanics of [[Ascendency]] battles and listed as a potential place for artifact resolution for [[Britney Proskurina]].
+• The Halls of the [[Ascendency]] is the central site of the [[Ascendency]] contest, surrounded by the Cotton Fields.
+• The area is depicted in the AI's broadcast of the Twelfth Floor.
+• The Halls of the [[Ascendency]] is a metaphysical location/plane where gods (e.g., Emberus) return to or depart from.
+• The central facility/playground shown on the broadcast contains the [[Ascendency]] game and its enhancement zones.
+• The Halls of the [[Ascendency]] is connected to the mechanics of [[Ascendency]] battles and is listed as a potential place for artifact resolution for Britney Proskurina.

@@ -3,11 +3,8 @@ title: "Special Event Broadcast (Beta testing)"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Special Event Broadcast (Beta testing)
 
-title: "Special Event Broadcast (Beta testing)"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Special Event Broadcast (Beta testing)
-The system mechanic that streams the boss fight to subscribers, opts viewers into a beta testing program, and overlays commentators, animated graphics, and post-battle surveys during the [[Lusca]] encounter.
+# special_event_broadcast_beta_testing
+
+• The system mechanic streams the boss fight to subscribers, opting viewers into a beta testing program.
+• The mechanic overlays commentators, animated graphics, and post-battle surveys during the [[Lusca]] encounter.

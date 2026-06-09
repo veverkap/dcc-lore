@@ -3,39 +3,14 @@ title: "Minge"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Minge
 
-# Minge
-A Minor Feral Demon (level 225) that escapes into the casino from an entrance to [[The Nothing]]. A grotesque, multi-armed, clown-makeup-covered creature that causes mass casualties in the restaurant and drives the main combat of the chapter.
+# minge
 
-## Additional Observations
-# Minge
-A very large feral demon (level ~225) that tears through the Desperado Club. Her arms reach into multiple rooms; she is finally killed when [[Vorpals]] are released and attack from below.
-
-## Additional Observations
-# Minge
-A deceased individual whose corpse is being torn apart below the club; the smell and gore from [[Minge]] indicate the presence of monsters (the [[Vorpals]]).
-
-## Additional Observations
-# Minge
-A demon referenced for having demolished the [[desperado club]] during prior events; cited as the cause for heightened security and Clarabelle's fear that guards had been killed.
-
-## Additional Observations
-# Minge
-A demon referenced from the Desperado Club incident whose escape led to a slaughter of rhinoceros guards and the firing of Sai and cretin guards.
-
-## Additional Observations
-# Minge
-Another harem demon previously summoned during earlier encounters (the Desperado Club fight) used as an example of predictable demon targeting toward [[Samantha]].
-
-## Additional Observations
-# Minge
-A level-225 Minor Feral Demon that erupts from a casino portal into the [[desperado club]] restaurant. A grotesque, multi-armed, flesh-covered horror that devours NPCs and drives the combat and evacuation in the chapter.
-
-## Additional Observations
-# Minge
-A large feral demon (level 225) that invades the Desperado Club from the [[the nothing]] and tears through floors and NPCs. Targeted with spider automata traps and ultimately killed when the [[Vorpals]] are released.
-
-## Additional Observations
-# Minge
-Crawler (now dead) whose corpse forms a breach that allows monsters (the [[vorpals]]) to enter the Desperado Club; referenced during the violent scene.
+• A Minor Feral Demon (level 225) that escapes into the casino from [[an]] entrance to [[The Nothing]], causing mass casualties in the restaurant and driving the main combat of the chapter.
+• A large feral demon (level 225) that tears through the Desperado Club, killed when [[Vorpals]] are released and attack from below.
+• A deceased individual whose corpse is being torn apart below the club, indicating the presence of monsters (the [[Vorpals]]).
+• A demon that demolished the [[desperado club]] during prior events, causing heightened security and fear among guards.
+• A demon that led to a slaughter of rhinoceros guards and the firing of Sai and cretin guards.
+• A level-225 Minor Feral Demon that erupts from a casino portal into the [[desperado club]] restaurant, devouring [[NPCs]] and driving combat and evacuation.
+• A large feral demon (level 225) that invades the Desperado Club from [[The Nothing]], tearing through floors and [[NPCs]], and targeted with [[spider]] automata traps.
+• A crawler (now dead) whose corpse forms a breach that allows monsters (the [[vorpals]]) to enter the Desperado Club.

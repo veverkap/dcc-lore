@@ -3,11 +3,9 @@ title: "Warning: Your attack has activated the city defense system"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Warning: Your attack has activated the city defense system
 
-title: "Warning: Your attack has activated the city defense system"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# [[Warning: Your attack has activated the city defense system]]
-System announcement triggered when [[dungeon crawler carl]]'s bombing run destroys the theater/soul gem generator; starts timers and causes defensive towers across [[Larracos]] to engage.
+# warning_your_attack_has_activated_the_city_defense_system
+
+• The city defense system is activated when [[dungeon [[crawler]] carl]]'s bombing run destroys the [[theater]]/soul gem generator.
+• This triggers a system announcement and starts timers.
+• Defensive [[towers]] across [[Larracos]] engage in response.

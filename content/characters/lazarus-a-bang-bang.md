@@ -3,19 +3,15 @@ title: "Lazarus-A-Bang-Bang"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Lazarus-A-Bang-Bang
 
-# [[Lazarus-A-Bang-Bang]]
-A Level-140 combo-created totem card (result of combining [[Uzi Jesus]] and [[Asojano]]). Summoning duration ~200s in the displayed card. Described as a robed, crown-of-thorns-wearing, bazooka-wielding combat totem that alternates weapons (e.g., bug-shooting bazooka, RPG-like explosions), deals afflictions, functions as a healer/ranged mob, and has a suite of notable attacks (e.g., "Oh Yeah? Well, I Have a Face-Melting Bazooka", [[Apocalyptic Plague]], [[Resurrect Totem]]) and many skills.
+# lazarus-a-bang-bang
 
-## Additional Observations
-# Lazarus-a-Bang-Bang
-A robed totem/figure present in combat who wields heavy weaponry (rocket-launcher style) and can be buffed with temporary shields by allies.
-
-## Additional Observations
-# [[Lazarus-A-Bang-Bang]]
-A level-140 combo totem summoned by [[Donut]] (displayed on the [[T’Ghee Card]]). The reveal sequence is elaborate; the totem is a ranged, healer, and affliction-dealing mob that wields a magical bazooka which fires varied effects (e.g., beetle swarms), has attacks like "Oh Yeah? Well, I Have a Face-Melting Bazooka" and "Apocalyptic Plague", and can cast [[Resurrect Totem]] among many other skills.
-
-## Additional Observations
-# [[Lazarus-a-Bang-Bang]]
-A robed totem armed with heavy weaponry (rocket launcher in this scene). Provides ranged firepower and is aided by temporary shields from [[Donut]].
+• A Level-140 combo-created totem card, combining [[Uzi Jesus]] and [[Asojano]], with a summoning duration of ~200s.
+• A robed, crown-of-thorns-wearing, bazooka-wielding combat totem that alternates weapons, deals afflictions, and functions as a healer/ ranged mob.
+• Has a suite of notable attacks, including "Oh Yeah? Well, I Have a [[Face]]-Melting Bazooka", [[Apocalyptic Plague]], and [[Resurrect Totem]].
+• Can be buffed with temporary shields by allies.
+• Summoned by [[Donut]] and displayed on the [[T’Ghee Card]].
+• Wields a magical bazooka firing varied effects, including beetle swarms.
+• Can cast [[Resurrect Totem]] and other skills.
+• Armed with heavy weaponry, including a rocket launcher in some scenes.
+• Provides ranged firepower and is aided by temporary shields from [[Donut]].

@@ -3,11 +3,9 @@ title: "Audience Voting / Pending Action Item Mechanic"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Audience Voting / Pending Action Item Mechanic
 
-title: "Audience Voting / Pending Action Item Mechanic"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Audience Voting / Pending Action Item Mechanic
-The system process for resolving Warlord action items via audience votes (when enabled), including timed decisions (e.g., 30 seconds) and public tallies that determine game-rule changes (examples: playing field size, pet leveling, sponsor protections).
+# audience_voting__pending_action_item_mechanic
+
+• The system resolves Warlord action items via audience votes when enabled.
+• Timed decisions (e.g., 30 seconds) are used to determine game-rule changes.
+• Public tallies are used to determine game-rule changes (e.g., playing field size, pet leveling, sponsor protections).

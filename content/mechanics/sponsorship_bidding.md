@@ -3,19 +3,10 @@ title: "Sponsorship Bidding"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Sponsorship Bidding
 
-title: "Sponsorship Bidding"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Sponsorship Bidding
-A system mechanic announcing active sponsorship auctions (e.g., "Sponsorship bidding initiated on Crawler #4,122") with time-limited bidding windows that affect in-game sponsorship outcomes.
+# sponsorship_bidding
 
-## Additional Observations
-title: "Sponsorship Bidding"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Sponsorship Bidding
-A live system mechanic allowing external sponsors to bid for crawler slots (noted in the chapter as initiated on Crawler #4,122). Mentioned as open and time-limited during staging.
+• A system mechanic announcing active sponsorship auctions with time-limited bidding windows that affect in-game sponsorship outcomes.
+• A live system mechanic allowing external sponsors to bid for [[crawler]] slots.
+• Sponsorship bidding is initiated on specific crawlers (e.g., [[Crawler]] #4,122).
+• Bidding windows are open and time-limited during staging.

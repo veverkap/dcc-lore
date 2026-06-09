@@ -3,19 +3,9 @@ title: "Necklace of Indelible Woe"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Necklace of Indelible Woe
 
-title: "Necklace of Indelible Woe"
-type: Item
-tags: [dcc-lore-graph]
----
-# Necklace of Indelible Woe
-A controversial necklace that trades a target's spell into the wearer's list (used on crawlers historically); explained by [[Tipid]] as dangerous and abused in the past.
+# necklace_of_indelible_woe
 
-## Additional Observations
-title: "Necklace of Indelible Woe"
-type: Item
-tags: [dcc-lore-graph]
----
-# Necklace of Indelible Woe
-Unique necklace in Carl’s inventory that [[Li Na]] declined because it risked costing her several level-15 dreads; remains with Carl.
+• Trades a target's spell into the wearer's list (used on crawlers historically)
+• Considered dangerous and abused in the past, according to [[Tipid]]
+• Unique necklace in Carl's inventory that [[Li Na]] declined due to the risk of losing level-15 dreads

@@ -3,11 +3,8 @@ title: "Escape Spell"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Escape Spell
 
-title: "Escape Spell"
-type: Item
-tags: [dcc-lore-graph]
----
-# [[Escape Spell]]
-The teleportation spell used by [[Lucia]]; described as likely a once-a-floor escape that could teleport a caster to the opposite side of the map.
+# escape_spell
+
+• The Escape Spell is a teleportation spell used by Lucia.
+• It is likely a once-a-floor escape that can [[teleport]] a caster to the opposite side of the map.

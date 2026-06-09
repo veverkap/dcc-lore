@@ -3,11 +3,7 @@ title: "Eastern Nigeria"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Eastern Nigeria
 
-title: "Eastern Nigeria"
-type: Location
-tags: [dcc-lore-graph]
----
-# Eastern Nigeria
-Area where [[Florin]] was relocated and separated from [[Lucia Mar]].
+# eastern_nigeria
+
+• Eastern Nigeria: area where [[Florin]] was relocated and separated from [[Lucia Mar]].

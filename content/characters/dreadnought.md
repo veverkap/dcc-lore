@@ -3,7 +3,7 @@ title: "Dreadnought"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Dreadnought
 
-# [[Dreadnought]]
-Hunter class/variant mentioned as a powerful, heavy combatant (the level 53 rifle-wielding figure described as one).
+# dreadnought
+
+• [[Dreadnought]] is a Hunter class/variant mentioned as a powerful, heavy combatant, described as a level 53 rifle-wielding figure.

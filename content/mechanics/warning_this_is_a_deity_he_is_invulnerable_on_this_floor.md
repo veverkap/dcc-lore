@@ -3,11 +3,8 @@ title: "Warning: This is a deity. He is invulnerable on this floor."
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Warning: This is a deity. He is invulnerable on this floor.
 
-title: "Warning: This is a deity. He is invulnerable on this floor."
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Warning: This is a deity. He is invulnerable on this floor.
-A system notice attached to [[Grull]]'s announcement in the "Death Challenge!" that declares divine invulnerability for this encounter—an explicit dungeon/system rule affecting combat options.
+# warning_this_is_a_deity_he_is_invulnerable_on_this_floor
+
+• A deity is invulnerable on this floor.
+• A system notice declares divine [[invulnerability]] for this encounter, affecting combat options.

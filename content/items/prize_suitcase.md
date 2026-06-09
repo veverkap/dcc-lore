@@ -3,11 +3,9 @@ title: "Prize Suitcase"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Prize Suitcase
 
-title: "Prize Suitcase"
-type: Item
-tags: [dcc-lore-graph]
----
-# Prize Suitcase
-The physical suitcase container used as the reward mechanism in the [[Yellow Line Reward Room]]; contains randomized loot or traps and must be opened prior to inventory transfer. Examples in-chapter include a suitcase with lingerie and the trap that released [[Literal Fire Ants]].
+# prize_suitcase
+
+• The Prize Suitcase is a physical container used as a reward mechanism in the [[Yellow Line Reward Room]].
+• It contains randomized loot or traps and must be opened before inventory transfer.
+• Examples of contents include lingerie and the trap that released [[Literal Fire Ants]].

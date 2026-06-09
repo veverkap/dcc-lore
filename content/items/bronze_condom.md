@@ -3,19 +3,12 @@ title: "Bronze condom"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Bronze condom
 
-title: "Bronze condom"
-type: Item
-tags: [dcc-lore-graph]
----
-# Bronze condom
-A literal wrapped condom reward from the "It itches when I pee!" achievement; a minor, humorous non-enchanted item with bronze packaging.
+# bronze_condom
 
-## Additional Observations
-title: "Bronze Condom"
-type: Item
-tags: [dcc-lore-graph]
----
-# [[Bronze Condom]]
-A literal wrapped, bronze-tier condom rewarded by the vulgar achievement [[It itches when I pee!]]; an actual physical item rather than a box.
+• A literal wrapped condom reward from the "It itches when I pee!" achievement, with bronze packaging.
+• A minor, non-enchanted item with bronze packaging.
+• Rewarded by the "It itches when I pee!" achievement.
+• A physical item, not a box.
+• [[Bronze Condom]]
+• [[It itches when I pee!]]

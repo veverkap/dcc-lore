@@ -3,11 +3,8 @@ title: "Sarah Hayse"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Sarah Hayse
 
-# [[Sarah Hayse]]
-A hexcrafter who stands in the [[Abrams tank]]'s turret casting spells to empower the tank's main gun against [[Krakaren]].
+# sarah_hayse
 
-## Additional Observations
-# [[Sarah Hayse]]
-Hexcrafter paladin crawler partnered with [[Makana]] on the Destruction team’s float and vehicles.
+• [[Sarah Hayse]] is a hexcrafter who casts spells in the turret of [[an]] [[Abrams tank]] to empower its main gun against [[Krakaren]].
+• [[Sarah Hayse]] is a hexcrafter paladin crawler partnered with [[Makana]] on the Destruction team's float and vehicles.

@@ -3,11 +3,7 @@ title: "Landry"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Landry
 
-# Landry
-An archer among Carl’s allies who greets the group at the house. Present during salvage and evacuation operations.
+# landry
 
-## Additional Observations
-# Landry
-One of the archers in Carl’s party, present when the group inspects the landed [[Suburban Floating House]] and helps secure salvage and assets.
+• Landry: [[an]] [[archer]] among [[Carl]]'s allies, present during salvage and evacuation operations, and helps secure salvage and assets.

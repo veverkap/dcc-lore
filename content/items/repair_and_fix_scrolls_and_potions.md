@@ -3,11 +3,8 @@ title: "Repair and Fix scrolls and potions"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Repair and Fix scrolls and potions
 
-title: "Repair and Fix scrolls and potions"
-type: Item
-tags: [dcc-lore-graph]
----
-# Repair and Fix scrolls and potions
-Generic restorative items referenced in dialog; noted that proprietary arena vehicle rules prevent simple external repair items from working on arena vehicles.
+# repair_and_fix_scrolls_and_potions
+
+• Repair and [[Fix]] scrolls and [[potions]] are generic restorative items referenced in dialog.
+• They cannot be used to repair arena vehicles due to proprietary arena vehicle rules.

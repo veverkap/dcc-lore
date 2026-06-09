@@ -3,43 +3,12 @@ title: "106th Bloody Leeches"
 type: Faction
 tags: [dcc-lore-graph]
 ---
-# 106th Bloody Leeches
 
-title: "106th Bloody Leeches"
-type: Faction
-tags: [dcc-lore-graph]
----
-# 106th Bloody Leeches
-Assault-oriented battalion composed of warriors, trap mechanics, and thieves arriving as reinforcements to bolster the southern defenses and integrate with the [[102nd bulwark battalion]].
+# 106th_bloody_leeches
 
-## Additional Observations
-title: "106th Bloody Leeches"
-type: Faction
-tags: [dcc-lore-graph]
----
-# 106th Bloody Leeches
-The military unit commanded by [[Colonel Boomer]]; a frontline formation preparing for the assault into the [[Naga territory]].
-
-## Additional Observations
-title: "106th Bloody Leeches"
-type: Faction
-tags: [dcc-lore-graph]
----
-# [[106th Bloody Leeches]]
-A battalion initially positioned with [[Tran]] that later splits, with much of it sent north to assist [[Florin]] while a reduced contingent remains mopping up the first engagements.
-
-## Additional Observations
-title: "106th Bloody Leeches"
-type: Faction
-tags: [dcc-lore-graph]
----
-# [[106th Bloody Leeches]]
-An allied military unit (led by [[Boomer]] implicitly) that arrives to reinforce the camp after the assault.
-
-## Additional Observations
-title: "106th Bloody Leeches"
-type: Faction
-tags: [dcc-lore-graph]
----
-# 106th Bloody Leeches
-A reserve unit under [[Boomer]] kept hidden and ready to counter any naga movement that threatened the understaffed southern border.
+• Assault-oriented battalion composed of warriors, trap mechanics, and thieves, arriving as reinforcements to bolster southern defenses and integrate with the 102nd Bulwark Battalion.
+• Commanded by Colonel Boomer, preparing for an assault into Naga territory.
+• Initially positioned with Tran, then splits, with part sent north to assist Florin and the rest remaining to mop up initial engagements.
+• Reduced contingent remains to mop up initial engagements.
+• Allied military unit led by Colonel Boomer, arriving to reinforce the camp after the assault.
+• Reserve unit under Colonel Boomer, kept hidden and ready to counter Naga movement threatening the understaffed southern border.

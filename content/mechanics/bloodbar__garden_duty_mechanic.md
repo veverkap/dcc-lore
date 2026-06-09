@@ -3,11 +3,9 @@ title: "Bloodbar / Garden Duty Mechanic"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Bloodbar / Garden Duty Mechanic
 
-title: "Bloodbar / Garden Duty Mechanic"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# [[Bloodbar / Garden Duty Mechanic]]
-A floor system mechanic: fighting the bramble onslaught does not grant experience but fills a player's [[Bloodbar]]. Filling the [[Bloodbar]] grants temporary access/safety in a [[saferoom]] in exchange for a recurring penalty of fifteen minutes of garden duty once every ten hours.
+# bloodbar__garden_duty_mechanic
+
+• Filling the [[Bloodbar]] grants temporary access/safety in a [[saferoom]].
+• Filling the [[Bloodbar]] does not grant experience.
+• Filling the [[Bloodbar]] results in a recurring penalty of 15 minutes of [[garden]] duty every 10 hours.

@@ -3,11 +3,7 @@ title: "Gate One of Seven"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Gate One of Seven
 
-title: "Gate One of Seven"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Gate One of Seven
-A system-gated checkpoint announced when the racers pass through the first ring. "Gate One of Seven cleared" is presented as an in-chapter system notification tied to race progression.
+# gate_one_of_seven
+
+• [[Gate]] One of Seven: a system-gated checkpoint that announces when racers pass through the first ring, with a corresponding in-chapter system notification tied to race progression.

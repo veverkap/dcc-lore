@@ -3,11 +3,8 @@ title: "Battery Rectangle"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Battery Rectangle
 
-title: "Battery Rectangle"
-type: Item
-tags: [dcc-lore-graph]
----
-# Battery Rectangle
-The output unit produced by the [[Battery Fabricator]], brick-sized charged batteries used by automatons; vendor descriptions on the machine and the individual items are identical.
+# battery_rectangle
+
+• The output unit produced by the [[Battery Fabricator]] is a brick-sized charged [[battery]] used by automatons.
+• The vendor descriptions on the machine and the individual items are identical.

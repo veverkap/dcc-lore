@@ -3,11 +3,7 @@ title: "Management"
 type: Faction
 tags: [dcc-lore-graph]
 ---
-# Management
 
-title: "Management"
-type: Faction
-tags: [dcc-lore-graph]
----
-# Management
-The organizational authority running club operations and promotions (e.g., offering private security and coupons) and broadly responsible for season logistics.
+# management
+
+• The Management is the organizational authority responsible for running club operations and promotions, offering private security and coupons, and managing season logistics.

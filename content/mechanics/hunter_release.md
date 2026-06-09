@@ -3,19 +3,9 @@ title: "Hunter Release"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Hunter Release
 
-title: "Hunter Release"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Hunter Release
-A timed Dungeon event referenced by the system display ("Time until Hunter Release: 21 Hours") that triggers release of the [[Hunters]]; an active game mechanic shaping party decisions.
+# hunter_release
 
-## Additional Observations
-title: "Hunter Release"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Hunter Release
-A dungeon system event with a visible countdown ("Time until Hunter Release") that signals when external [[Hunters]] will be released on the party (21 hours remaining in the chapter).
+• A timed [[Dungeon]] event, "Time until Hunter Release", triggers the release of [[Hunters]].
+• The event is visible on the system display and counts down to the release of the [[Hunters]].
+• The release of [[Hunters]] is an active game mechanic that shapes party decisions.

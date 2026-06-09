@@ -3,35 +3,11 @@ title: "Conjoined Personal Space of Team The Royal Court of Princess Donut"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Conjoined Personal Space of Team The Royal Court of Princess Donut
 
-title: "Conjoined Personal Space of Team The Royal Court of Princess Donut"
-type: Location
-tags: [dcc-lore-graph]
----
-# [[Conjoined Personal Space of Team The Royal Court of Princess Donut]]
-The personal saferoom created by conjoining three level-three personal spaces using coupons and a joining fee; appears as a private, map-accessible space for the team and is labeled accordingly after purchase.
+# conjoined_personal_space_of_team_the_royal_court_of_princess_donut
 
-## Additional Observations
-title: "Conjoined Personal Space of Team The Royal Court of Princess Donut"
-type: Location
-tags: [dcc-lore-graph]
----
-# [[Conjoined Personal Space of Team The Royal Court of Princess Donut]]
-Newly created conjoined saferoom/home the party establishes by redeeming level-three personal space coupons and paying joining fees. Acts as the team’s base with shared upgrades (bed, shower, studio, etc.).
-
-## Additional Observations
-title: "Conjoined Personal Space of Team The Royal Court of Princess Donut"
-type: Location
-tags: [dcc-lore-graph]
----
-# Conjoined Personal Space of Team The Royal Court of Princess Donut
-The newly created conjoined personal saferoom resulting from [[dungeon crawler carl]], [[Katia]], and [[Princess Donut]] applying level-three personal-space coupons together. Opens as a closet-sized room and can be upgraded with environmental and functional modules.
-
-## Additional Observations
-title: "Conjoined Personal Space of Team The Royal Court of Princess Donut"
-type: Location
-tags: [dcc-lore-graph]
----
-# Conjoined Personal Space of Team The Royal Court of Princess Donut
-The newly opened, conjoined personal saferoom created when [[Princess Donut]], [[dungeon crawler carl]], and [[Katia]] combined their level-three personal space coupons. Appears on the map as a private room and serves as the party’s home base with shared upgrades (bed, crafting studio, training room, shower, etc.).
+• The Conjoined Personal Space of Team The Royal Court of Princess Donut is a private, map-accessible space created by combining three level-3 personal spaces using coupons and a joining fee.
+• It serves as the team's base with shared [[upgrades]] (bed, shower, [[studio]], etc.).
+• The space can be upgraded with environmental and functional modules.
+• It appears on the map as a private room.
+• The space was created by [[Princess Donut]], [[dungeon [[crawler]] carl]], and [[Katia]] combining their level-3 personal space coupons.

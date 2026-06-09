@@ -3,27 +3,12 @@ title: "Morris Sp"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Morris Sp
 
-# Morris Sp
-Named crawler (Level 23, Freelance Psychiatrist) described as the tarantula-bodied member of the group that runs into the necropolis; one of the party members with Desperado Club access mentioned during planning.
+# morris_sp
 
-## Additional Observations
-# Morris Sp
-An Arachnid crawler (half human/half tarantula) who recounts his quadrant's hazards, the failed map quest, and details about the undead threats in the Crypt of Anser; classed as a Freelance Psychiatrist.
-
-## Additional Observations
-# Morris Sp
-One of the tomb raider crawlers who participates in reconnecting the electrical connector; reports success and later dies during the electrification/assault while helping the group objective.
-
-## Additional Observations
-# [[Morris Sp]]
-Crawler (Level 23, Freelance Psychiatrist) with a spider-like lower body; part of the small crawler group that arrives in the subterranean chamber and discusses Desperado Club access.
-
-## Additional Observations
-# [[Morris Sp]]
-A level-23 Arachnid crawler (half human/half tarantula) who recounts details of his quadrant, the failed map quest, and the undead threat of [[Quetzalcoatlus]].
-
-## Additional Observations
-# Morris Sp
-Tomb raider who successfully reaches and connects the submerged electrical connector (and later dies); appears in chat as one of the possessed/rescued players.
+• Named crawler (Level 23, Freelance Psychiatrist) with tarantula-like body, described as part of the group that runs into the necropolis and has Desperado Club access.
+• Arachnid crawler (half [[human]]/half tarantula) who recounts quadrant hazards, failed map quest, and undead threats in the Crypt of [[Anser]].
+• Participates in reconnecting electrical connector, reports success, and later dies during electrification/assault.
+• Has [[spider]]-like lower body, part of small crawler group that arrives in subterranean chamber and discusses Desperado Club access.
+• Recounts details of quadrant, failed map quest, and undead threat of [[Quetzalcoatlus]].
+• Successfully reaches and connects submerged electrical connector, later dies; appears in chat as one of the possessed/rescued players.

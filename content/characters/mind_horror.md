@@ -3,11 +3,10 @@ title: "Mind Horror"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Mind Horror
 
-# [[Mind Horror]]
-A level-4 floating brain-like monster with tentacles that uses psionic attacks to inflict debilitating headaches. Physically weak and slow (bouncy jam-like bodies) but dangerous for their mental effects.
+# mind_horror
 
-## Additional Observations
-# Mind Horror
-Floating brain tutorial-guide seen in the recap footage. Delivered a rumbly, terrifying explanation to new players and instructed killers like [[frank]] and [[Maggie My]] that survival required killing other crawlers.
+• A level-4 floating brain-like monster with tentacles that uses psionic attacks to inflict debilitating headaches.
+• Physically weak and slow, but dangerous for their mental effects.
+• Can be seen in recap footage as a floating brain tutorial-guide, delivering a terrifying explanation to new players.
+• Instructs killers like [[frank]] and [[Maggie My]] that survival requires killing other [[crawlers]].

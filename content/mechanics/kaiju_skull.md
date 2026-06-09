@@ -3,19 +3,9 @@ title: "Kaiju Skull"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Kaiju Skull
 
-title: "Kaiju Skull"
-type: Location
-tags: [dcc-lore-graph]
----
-# Kaiju Skull
-A massive kaiju skull that physically blocks the finish line. The migrating [[Sugar Hermits]] are moving toward it as a potential nesting site, and it serves as a race obstacle and focal point for the migration.
+# kaiju_skull
 
-## Additional Observations
-title: "Kaiju skull"
-type: Location
-tags: [dcc-lore-graph]
----
-# Kaiju skull
-A gigantic skull object that blocks the [[Finish line]] and which the migrating [[Sugar Hermit]]s are converging on, presumably for nesting or egg-laying.
+• A massive kaiju skull blocks the finish line, serving as a race obstacle and focal point for the migration of the [[Sugar Hermits]].
+• The [[Sugar Hermits]] are converging on the skull, likely for nesting or egg-laying purposes.
+• The [[Finish line]] is blocked by the gigantic skull object.

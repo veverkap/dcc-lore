@@ -3,11 +3,9 @@ title: "Inventory Liquids Rule"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Inventory Liquids Rule
 
-title: "Inventory Liquids Rule"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# [[Inventory Liquids Rule]]
-A patched dungeon rule announced in the System Announcement stating that players may no longer store liquids in inventory unless contained, which triggers parity fixes (demonstrated when [[Katia]]’s stored blood erupts).
+# inventory_liquids_rule
+
+• Players may no longer store liquids in inventory unless contained.
+• This rule was announced in a System Announcement and triggers parity fixes.
+• An example of this rule is demonstrated by [[Katia]]'s stored blood erupting.

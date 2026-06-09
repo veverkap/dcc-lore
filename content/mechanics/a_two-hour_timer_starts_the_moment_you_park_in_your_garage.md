@@ -3,11 +3,7 @@ title: "A two-hour timer starts the moment you park in your garage."
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# A two-hour timer starts the moment you park in your garage.
 
-title: "A two-hour timer starts the moment you park in your garage."
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# A two-hour timer starts the moment you park in your garage.
-A procedural race mechanic that initiates a countdown when a vehicle is parked in a [[Garage]], restricting vehicle departure for the duration.
+# a_two-hour_timer_starts_the_moment_you_park_in_your_garage
+
+• A two-hour timer starts the moment you park in your [[garage]], initiating a procedural race mechanic that restricts vehicle departure for the duration.

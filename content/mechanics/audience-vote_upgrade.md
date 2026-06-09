@@ -3,19 +3,9 @@ title: "Audience-Vote Upgrade"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Audience-Vote Upgrade
 
-title: "Audience-Vote Upgrade"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Audience-Vote Upgrade
-A game mechanic where the viewing audience selects an upgrade (or penalty) for teams; [[dungeon crawler carl]]'s team came in last and thus received an [[Audience-Vote Upgrade]] that they do not control, causing anxiety about its nature.
+# audience-vote_upgrade
 
-## Additional Observations
-title: "Audience-vote upgrade"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Audience-vote upgrade
-Mechanic where the viewing audience votes to assign upgrades to teams; triggered because [[Carl]]'s team finished last. Determines forced upgrades and is a source of anxiety due to potential trolling by viewers.
+• The viewing audience selects an upgrade (or penalty) for teams, with [[dungeon [[crawler]] carl]]'s team receiving an uncontrolled upgrade due to finishing last.
+• The audience-vote upgrade mechanic is triggered when a team finishes last, and determines forced [[upgrades]].
+• The mechanic is a source of anxiety due to the potential for viewers to troll with their [[upgrades]].

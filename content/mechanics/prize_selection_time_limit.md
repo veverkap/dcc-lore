@@ -3,11 +3,7 @@ title: "Prize Selection Time Limit"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Prize Selection Time Limit
 
-title: "Prize Selection Time Limit"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Prize Selection Time Limit
-A system-enforced timer during the [[Prize Carousel]] fan-box event ("You have ten minutes to choose, or you will forfeit your choice") that compels immediate selection of prizes and can cause automatic forfeiture.
+# prize_selection_time_limit
+
+• A system-enforced timer during the [[Prize Carousel]] fan-box event, giving ten minutes to choose a prize or risk forfeiture.

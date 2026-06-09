@@ -3,15 +3,9 @@ title: "Children of Inpewt"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Children of Inpewt
 
-# Children of Inpewt
-The powerful revenant creatures created when a town teleported by [[Zerzura]] is destroyed. Marked villagers and the caster are hunted; killed marked become revenants themselves. Fast, strong, retain prior monster abilities, and central to the spell's chaos.
+# children_of_inpewt
 
-## Additional Observations
-# Children of Inpewt
-Undead monsters that will be created by mortals who get squished when [[Larracos]] lands; a named mob threat tied to the transfer event.
-
-## Additional Observations
-# Children of Inpewt
-The powerful revenant creatures created when towns or NPCs are killed by a [[Zerzura]] landing. They retain monsters' former abilities, actively hunt the marked (town inhabitants and the caster), and convert marked victims into more revenants if they succeed.
+• The powerful revenant creatures created when a town teleported by [[Zerzura]] is destroyed, marked villagers and the caster are hunted, and killed marked become revenants themselves.
+• Undead monsters created by mortals who get squished when [[Larracos]] lands, a named mob threat tied to the transfer event.
+• The powerful revenant creatures created when towns or [[NPCs]] are killed by a [[Zerzura]] landing, retaining monsters' former abilities, actively hunting the marked, and converting marked victims into more revenants if they succeed.

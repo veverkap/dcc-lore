@@ -3,11 +3,8 @@ title: "The Kravyad"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# The Kravyad
 
-# [[The Kravyad]]
-Named boss monster reportedly present at employee stops such as [[station 435 kravyad station]]; described as a potential threat for parties attempting employee-area solutions.
+# the_kravyad
 
-## Additional Observations
-# [[The Kravyad]]
-Named boss monster reportedly guarding employee transit portals (possible obstacle at [[station 435 kravyad station]]). Mentioned as a dangerous encounter that may punish memory/time when using certain portals.
+• [[The Kravyad]]: a named boss monster reportedly present at employee stops, including [[station 435 [[kravyad]] station]], and potentially a threat for parties attempting employee-area solutions.
+• Guards employee transit portals, including [[station 435 [[kravyad]] station]], and may punish memory/time when using certain portals.

@@ -3,15 +3,9 @@ title: "Panford"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Panford
 
-# Panford
-A tall, purple-skinned dreadnaught in the chapter identified as "Panford, Adjutant for the [[Democratic Sortion]]." He serves as an official enforcing rules and adjudicating the incident in the ballroom.
+# panford
 
-## Additional Observations
-# Panford
-An adjudicator presiding over the ceasefire hearing and rulings. [[Panford]] explains the evidence, announces penalties, and orders the teleport that returns [[dungeon crawler carl]] to his base.
-
-## Additional Observations
-# Panford
-Named figure who will be joined by [[Nihit]] on the [[eighteenth floor]]; referenced as a destination for certain NPCs.
+• A tall, purple-skinned dreadnaught, identified as "Panford, Adjutant for the [[Democratic Sortion]]", serves as [[an]] official enforcing rules and adjudicating incidents.
+• Panford presides over the ceasefire hearing and rulings, explaining evidence, announcing penalties, and ordering the teleportation of [[dungeon crawler carl]] to his base.
+• Panford is a named figure who will be joined by [[Nihit]] on the [[eighteenth floor]] and is referenced as a destination for certain [[NPCs]].

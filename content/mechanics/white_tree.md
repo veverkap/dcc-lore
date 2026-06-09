@@ -3,11 +3,8 @@ title: "White Tree"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# White Tree
 
-title: "White Tree"
-type: Location
-tags: [dcc-lore-graph]
----
-# White Tree
-The [[White Tree]] is the enormous, towering tree that dominates the center of the [[Arena]] and atop which a massive mob (presumed Krakaren Prime) sits.
+# white_tree
+
+• The White Tree is an enormous, towering tree that dominates the center of the [[Arena]].
+• A massive mob (presumed to be Krakaren Prime) sits atop the White Tree.

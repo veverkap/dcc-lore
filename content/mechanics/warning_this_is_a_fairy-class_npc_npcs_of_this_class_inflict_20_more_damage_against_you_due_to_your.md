@@ -3,11 +3,8 @@ title: "WARNING: This is a fairy-class NPC. NPCs of this class inflict 20% more 
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# WARNING: This is a fairy-class NPC. NPCs of this class inflict 20% more damage against you due to your goblin pass.
 
-title: "WARNING: This is a fairy-class NPC. NPCs of this class inflict 20% more damage against you due to your goblin pass."
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# WARNING: This is a fairy-class NPC. NPCs of this class inflict 20% more damage against you due to your goblin pass.
-A system warning tied to [[Astrid]]'s entry: fairy-class NPCs (Bloodlust Sprites) deal +20% damage to players under certain conditions (here referenced as "due to your goblin pass").
+# warning_this_is_a_fairy-class_npc_npcs_of_this_class_inflict_20_more_damage_against_you_due_to_your
+
+• NPCs of fairy-class inflict 20% more damage against you due to your [[goblin]] pass.
+• Bloodlust Sprites (fairy-class NPCs) [[deal]] 20% more damage to players under certain conditions.

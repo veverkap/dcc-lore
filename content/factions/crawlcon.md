@@ -3,27 +3,9 @@ title: "CrawlCon"
 type: Faction
 tags: [dcc-lore-graph]
 ---
-# CrawlCon
 
-title: "CrawlCon"
-type: Faction
-tags: [dcc-lore-graph]
----
-# [[CrawlCon]]
-The convention/event being hosted on the vessel. Central to the chapter's plot; organizers are running panels, autograph sessions, and staged events that involve [[dungeon crawler carl]].
+# crawlcon
 
-## Additional Observations
-title: "CrawlCon"
-type: Faction
-tags: [dcc-lore-graph]
----
-# CrawlCon
-The convention/organized event brand running the panels, autograph sessions, and fan interactions. Central to the chapter's plot as the reason [[dungeon crawler carl]] is being held aboard the [[Production Facility]] and given restricted movement.
-
-## Additional Observations
-title: "CrawlCon"
-type: Faction
-tags: [dcc-lore-graph]
----
-# CrawlCon
-The convention/event entity that hosts the panel and is influenced by sponsor decisions; [[apothecary]] is stated to be a sponsor of [[CrawlCon]] and able to direct allowances for panel speech and permissions.
+• The convention/event being hosted on the vessel, central to the chapter's plot, with organizers running panels, autograph sessions, and staged events involving [[dungeon crawler carl]].
+• The convention/organized event brand running panels, autograph sessions, and fan interactions, central to the chapter's plot as the reason [[dungeon crawler carl]] is being held aboard the [[Production Facility]] and given restricted movement.
+• The convention/event entity that hosts panels and is influenced by sponsor decisions, with [[apothecary]] stated to be a sponsor and able to direct allowances for panel speech and permissions.

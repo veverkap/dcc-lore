@@ -3,7 +3,10 @@ title: "Spider Stalkers"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Spider Stalkers
 
-# [[Spider Stalkers]]
-Common robot mob (described as robot rot stickers) whose construction requires rare parts like a main driveshaft and which inspired Carl’s automaton recipes.
+# spider_stalkers
+
+• [[Spider Stalkers]]
+• Common robot mob described as robot rot stickers
+• Construction requires rare parts like a main driveshaft
+• Inspired [[Carl]]'s automaton recipes

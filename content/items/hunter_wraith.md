@@ -3,11 +3,7 @@ title: "Hunter Wraith"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Hunter Wraith
 
-title: "Hunter Wraith"
-type: Item
-tags: [dcc-lore-graph]
----
-# Hunter Wraith
-A spectral form [[Juice Box]] can assume, described as ghost-like and used for stealthy reconnaissance.
+# hunter_wraith
+
+• A spectral form that can assume, described as ghost-like, used for stealthy reconnaissance.

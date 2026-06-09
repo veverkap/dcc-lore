@@ -3,11 +3,9 @@ title: "Prism Defeat System Message"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Prism Defeat System Message
 
-title: "Prism Defeat System Message"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Prism Defeat System Message
-System announcement stream triggered by the kill: includes messages like "Warlord D’Nadia of the [[Prism]] has fallen," asset reassignment to [[Princess Posse]], and credit attribution to [[Mongo]].
+# prism_defeat_system_message
+
+• Warlord D’Nadia of the [[Prism]] has fallen.
+• Asset reassignment to [[Princess Posse]].
+• Credit attribution to [[Mongo]].

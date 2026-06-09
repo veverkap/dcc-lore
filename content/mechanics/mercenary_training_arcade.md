@@ -3,11 +3,7 @@ title: "Mercenary Training Arcade"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Mercenary Training Arcade
 
-title: "Mercenary Training Arcade"
-type: Location
-tags: [dcc-lore-graph]
----
-# Mercenary Training Arcade
-A guildhall purchase some players may own; explicitly stated by [[Cascadia]] to be incompatible with the new practice arena card-testing feature.
+# mercenary_training_arcade
+
+• A [[guildhall]] that some players may own, incompatible with the new practice [[arena]] card-testing feature.

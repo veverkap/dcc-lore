@@ -3,11 +3,7 @@ title: "Entering Hungry Eyes Vendor Village."
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Entering Hungry Eyes Vendor Village.
 
-title: "Entering Hungry Eyes Vendor Village."
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Entering Hungry Eyes Vendor Village.
-A system announcement message that appears on arrival to [[Hungry Eyes Vendor Village]]. Functions as an in-world notification indicating location transition and often precedes other explicit local rules and warnings.
+# entering_hungry_eyes_vendor_village
+
+• A system announcement message appears on arrival to [[Hungry Eyes Vendor Village]], indicating location transition and often precedes other local rules and warnings.

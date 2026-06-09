@@ -3,11 +3,9 @@ title: "Arts District"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Arts District
 
-title: "Arts District"
-type: Location
-tags: [dcc-lore-graph]
----
-# Arts District
-The neighborhood directly outside the [[Larracos College of Magic]] with theaters, shops, and restaurants; noted as mostly civilian goods and limited adventuring supplies in the chapter.
+# arts_district
+
+• The Arts District is a neighborhood located outside the [[Larracos [[College]] of Magic]].
+• It features theaters, shops, and restaurants.
+• The area is known for mostly civilian goods and limited adventuring supplies.

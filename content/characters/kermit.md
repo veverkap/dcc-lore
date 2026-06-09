@@ -3,7 +3,7 @@ title: "Kermit"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Kermit
 
-# [[Kermit]]
-Cultural/fictional reference named by [[Donut]] as the often-abused partner of [[Miss Piggy]] in her comedic analogy.
+# kermit
+
+• Cultural/fictional reference named by [[Donut]] as the often-abused partner of [[Miss Piggy]] in her comedic analogy.

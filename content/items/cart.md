@@ -3,19 +3,9 @@ title: "Cart"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Cart
 
-title: "Cart"
-type: Item
-tags: [dcc-lore-graph]
----
-# Cart
-A heavy cart used to transport stolen materials and the rigged explosives into the [[Boss Room]]. Wheels were greased for speed and the narrator shoved it into the room to serve as an improvised delivery/explosion platform.
+# cart
 
-## Additional Observations
-title: "Cart"
-type: Item
-tags: [dcc-lore-graph]
----
-# Cart
-A movable object mentioned in passing as having struck one of the [[Goblin babies]] during the chaos; referenced as part of the combat scene.
+• A heavy cart used to transport stolen materials and rigged [[explosives]] into the [[Boss Room]], with greased wheels for speed.
+• The cart was used as an improvised delivery/explosion platform.
+• The cart struck one of the [[Goblin babies]] during a combat scene.

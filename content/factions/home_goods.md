@@ -3,51 +3,12 @@ title: "Home Goods"
 type: Faction
 tags: [dcc-lore-graph]
 ---
-# Home Goods
 
-title: "Home Goods"
-type: Faction
-tags: [dcc-lore-graph]
----
-# Home Goods
-[[Home Goods]] is named alongside other retailers in the chapter as a place where the author’s decorations or similar wall art might appear.
+# home_goods
 
-## Additional Observations
-title: "Home Goods"
-type: Faction
-tags: [dcc-lore-graph]
----
-# Home Goods
-Retail chain mentioned in the author blurb as another outlet carrying the style of wall art the author produces; connected contextually to [[Matt Dinniman]].
-
-## Additional Observations
-title: "Home Goods"
-type: Faction
-tags: [dcc-lore-graph]
----
-# Home Goods
-Retail chain referenced with [[Target]] and [[IKEA]] as an example of stores carrying mass-market wall art and decorations.
-
-## Additional Observations
-title: "Home Goods"
-type: Faction
-tags: [dcc-lore-graph]
----
-# Home Goods
-Retail store referenced alongside [[Target]] and [[IKEA]] as venues for selling [[Cat-themed greeting cards and decorations]] by [[Matt Dinniman]].
-
-## Additional Observations
-title: "Home Goods"
-type: Faction
-tags: [dcc-lore-graph]
----
-# [[Home Goods]]
-Retail chain mentioned with [[Target]] and [[IKEA]] as an example of stores selling the sort of wall art the author designs.
-
-## Additional Observations
-title: "Home Goods"
-type: Faction
-tags: [dcc-lore-graph]
----
-# Home Goods
-Retail chain mentioned by the author as another outlet for mass-market wall art, alongside [[Target]] and [[IKEA]].
+• [[Home Goods]] is a retail chain where the author's decorations or similar wall art might appear.
+• The chain is mentioned as an outlet carrying the style of wall art the author produces, connected to [[Matt Dinniman]].
+• [[Home Goods]] is an example of a store carrying mass-market wall art and decorations, alongside [[Target]] and [[IKEA]].
+• The chain sells [[Cat-themed greeting cards and decorations]] by [[Matt Dinniman]].
+• [[Home Goods]] is an example of a store selling the sort of wall art the author designs, alongside [[Target]] and [[IKEA]].
+• The author mentions [[Home Goods]] as another outlet for mass-market wall art, alongside [[Target]] and [[IKEA]].

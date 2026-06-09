@@ -3,19 +3,8 @@ title: "Squad Auto-Activation Warning"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Squad Auto-Activation Warning
 
-title: "Squad Auto-Activation Warning"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Squad Auto-Activation Warning
-A system warning embedded in the [[T'Ghee Card (Uzi Jesus)]] description: players receive an automatic squad activation if they collect the card with empty squad slots, preventing removal or trade until full (i.e., a forced-squad mechanic).
+# squad_auto-activation_warning
 
-## Additional Observations
-title: "Squad Auto-Activation Warning"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Squad Auto-Activation Warning
-System warning embedded in the [[T'Ghee Card]] explaining that collecting the totem will auto-activate and place it into the squad if there are empty slots, preventing removal or trade until the squad is full unless the card is torn.
+• A system warning in the [[T'Ghee Card (Uzi Jesus)]] description auto-activates a squad if there are empty slots, preventing removal or trade until the squad is full.
+• Collecting the [[T'Ghee Card]] with empty squad slots auto-activates and places it into the squad, preventing removal or trade until the squad is full unless the card is torn.

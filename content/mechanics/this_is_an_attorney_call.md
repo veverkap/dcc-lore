@@ -3,11 +3,8 @@ title: "This is an attorney call"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# This is an attorney call
 
-title: "This is an attorney call"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# This is an attorney call
-A system annotation/notification used in interfaces to flag incoming communications intended for legal representatives. Triggered when regulated items or attorney-priority traffic appears, influencing how recipients and enforcement sniffers react.
+# this_is_an_attorney_call
+
+• A system annotation/notification used in interfaces to flag incoming communications intended for legal representatives.
+• Triggered by regulated items or attorney-priority traffic, influencing how recipients and enforcement sniffers react.

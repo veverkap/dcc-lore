@@ -3,11 +3,7 @@ title: "Princess Chonkalot"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Princess Chonkalot
 
-# [[Princess Chonkalot]]
-A familial figure (Donut’s grandmother) whose image appears as a poorly drawn tattoo on [[Beatrice]]’s lower back, invoked as cultural/ornamental lore.
+# princess_chonkalot
 
-## Additional Observations
-# Princess Chonkalot
-Referenced via a poorly drawn tattoo on [[Beatrice]]'s lower back; identified as [[Princess Donut]]'s grandmother and part of Donut's familial lore.
+• [[Princess Chonkalot]] is a familial figure, specifically the grandmother of [[Princess Donut]], and appears as a poorly drawn tattoo on [[Beatrice]]'s lower back.

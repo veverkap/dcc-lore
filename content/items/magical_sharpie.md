@@ -3,19 +3,10 @@ title: "Magical Sharpie"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Magical Sharpie
 
-title: "Magical Sharpie"
-type: Item
-tags: [dcc-lore-graph]
----
-# Magical Sharpie
-The enchanted pen used for autographs; reacts weirdly in the scene (broken when Carl slams it into [[Nihit]]), and used on cosplayers and props throughout the signing.
+# magical_sharpie
 
-## Additional Observations
-title: "Magical Sharpie"
-type: Item
-tags: [dcc-lore-graph]
----
-# Magical Sharpie
-The pen used for autographs that mirrors signing activity across the galaxy (and later breaks when driven into [[Nihit]]). It functions as a minor magical artifact tied to the signing setup.
+• The Magical Sharpie is an enchanted pen used for autographs.
+• It reacts strangely in the scene and is used on cosplayers and props throughout the signing.
+• The pen mirrors signing activity across the galaxy.
+• It breaks when driven into [[Nihit]].

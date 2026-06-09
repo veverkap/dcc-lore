@@ -3,19 +3,8 @@ title: "Gold Makeup Sex is the Best Sex box"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Gold Makeup Sex is the Best Sex box
 
-title: "Gold Makeup Sex is the Best Sex box"
-type: Item
-tags: [dcc-lore-graph]
----
-# Gold Makeup Sex is the Best Sex box
-A Gold-tier reward box awarded with the "You're the reason why daddy drinks!" achievement; in this chapter yielded the [[Coffee Shop Author Kit]] (magical paper/quill/ink) among other items.
+# gold_makeup_sex_is_the_best_sex_box
 
-## Additional Observations
-title: "Gold Makeup Sex is the Best Sex box"
-type: Item
-tags: [dcc-lore-graph]
----
-# Gold Makeup Sex is the Best Sex box
-[[Gold Makeup Sex is the Best Sex box]] is an awarded prize from the System AI containing a scholar’s paper and inkwell (the Coffee Shop Author Kit) and is given as a sarcastic reward after the AI’s temper tantrum.
+• A [[Gold]]-tier reward box awarded with the "You're the reason why daddy drinks!" achievement, containing the [[Coffee Shop Author Kit]] (magical paper/quill/[[ink]]) among other items.
+• The box is a sarcastic reward given by the System AI after a temper tantrum, containing a scholar's paper and inkwell (the Coffee Shop Author Kit).

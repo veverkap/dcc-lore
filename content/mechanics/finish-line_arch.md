@@ -3,11 +3,9 @@ title: "Finish-Line Arch"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Finish-Line Arch
 
-title: "Finish-Line Arch"
-type: Location
-tags: [dcc-lore-graph]
----
-# [[Finish-Line Arch]]
-The checkered finish-line barrier that racers pass under to complete the track. Crossing the arch triggers interactions with the invisible finish-line barrier and, in this chapter, causes [[Lucienne]] to be forced through the windshield.
+# finish-line_arch
+
+• The Finish-Line Arch is a location that serves as the checkered finish-line barrier for racers to complete the track.
+• Crossing the arch triggers interactions with the invisible finish-line barrier.
+• In this chapter, crossing the arch causes Lucienne to be forced through the windshield.

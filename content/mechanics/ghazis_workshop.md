@@ -3,19 +3,9 @@ title: "Ghazi's Workshop"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Ghazi's Workshop
 
-title: "Ghazi's Workshop"
-type: Location
-tags: [dcc-lore-graph]
----
-# [[Ghazi's Workshop]]
-The glass-lined basement lab where [[Mrs. Ghazi]]'s core sits under a recliner. Site of the boss encounter, structural collapse, and the party's entombment and subsequent wash into the [[Water Quadrant]].
+# ghazis_workshop
 
-## Additional Observations
-title: "Ghazi's Workshop"
-type: Location
-tags: [dcc-lore-graph]
----
-# Ghazi's Workshop
-Lab space belonging to [[Ghazi]]—contains the recliner with the ooze core beneath it, the flatscreen, and other destructible set pieces referenced in the fight.
+• The glass-lined [[basement]] lab is where [[Mrs. Ghazi]]'s core sits under a recliner.
+• The site of the boss encounter, structural collapse, and the party's entombment and subsequent wash into the [[Water Quadrant]].
+• The lab space belongs to [[Ghazi]] and contains a recliner with the ooze core beneath it, a flatscreen, and other destructible set pieces.

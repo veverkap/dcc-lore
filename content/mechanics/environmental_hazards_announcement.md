@@ -3,11 +3,8 @@ title: "Environmental hazards announcement"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Environmental hazards announcement
 
-title: "Environmental hazards announcement"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# [[Environmental hazards announcement]]
-System/GPS announcements that warn racers of upcoming hazards and timers. Example messages in the chapter: "Green light in thirty seconds. Environmental hazards starting." and "Race starts in ten seconds."
+# environmental_hazards_announcement
+
+• System/GPS announcements warn racers of upcoming hazards and timers.
+• Example messages include "Green light in thirty seconds. Environmental hazards starting." and "Race starts in ten seconds."

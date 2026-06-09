@@ -3,63 +3,14 @@ title: "Temple of Khepri"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Temple of Khepri
 
-title: "Temple of Khepri"
-type: Location
-tags: [dcc-lore-graph]
----
-# [[Temple of Khepri]]
-Khepri's temple, described as a giant, never-ending buffet covered in insects where prospects (converted to beetles) are reborn after being swallowed by the female adherent. Also typically accessible via [[Travel the Path]] connections through [[Club Vanquisher]].
+# temple_of_khepri
 
-## Additional Observations
-title: "Temple of Khepri"
-type: Location
-tags: [dcc-lore-graph]
----
-# Temple of Khepri
-Interior temple housed inside [[Club Vanquisher]] that contains targets who may be boxed by the [[Prospect]] spell; key objective for Carl's operation.
-
-## Additional Observations
-title: "Temple of Khepri"
-type: Location
-tags: [dcc-lore-graph]
----
-# Temple of Khepri
-The target destination the team intends to reach beyond the chaos in [[Club Vanquisher]]; referenced as the next objective in the plan.
-
-## Additional Observations
-title: "Temple of Khepri"
-type: Location
-tags: [dcc-lore-graph]
----
-# [[Temple of Khepri]]
-The specific temple the group forces entry into (address 453). Interior described as an infinite long table; the temple enforces faith-gated entry rules and triggers deity presence effects.
-
-## Additional Observations
-title: "Temple of Khepri"
-type: Location
-tags: [dcc-lore-graph]
----
-# [[Temple of Khepri]]
-A temple location referenced as the site where some naga (including Vinata and her wife) were present and killed; central to the events surrounding the failsafe and the temple incident.
-
-## Automated Merge Entry (khepri_temple)
-# Khepri Temple
-
-title: "Khepri Temple"
-type: Location
-tags: [dcc-lore-graph]
----
-# [[temple of khepri]]
-One of the temples connected to the club complex; entry was part of the team’s plan and where Samantha attempted to access her mother’s temple.
-
-## Automated Merge Entry (entering_the_temple_of_khepri)
-# Entering the Temple of Khepri
-
-title: "Entering the Temple of Khepri"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# [[temple of khepri]]
-System announcement triggered upon crossing the portal threshold; part of the in-game notification sequence informing players they have entered the deity’s temple.
+• Khepri's [[temple]] is a giant, never-ending buffet covered in insects where prospects are reborn after being swallowed by the female adherent.
+• It is typically accessible via Travel the Path connections through Club Vanquisher.
+• The interior [[temple]] contains targets who may be boxed by the [[Prospect]] spell, making it a key objective for Carl's operation.
+• The [[temple]] is the [[target]] destination the team intends to reach beyond the chaos in Club Vanquisher.
+• The specific [[temple]] is located at address 453 and has an infinite long table interior, with faith-gated entry rules and deity presence effects.
+• The [[temple]] is also the site where some naga, including Vinata and her wife, were present and killed, central to the events surrounding the [[failsafe]] and the [[temple]] incident.
+• Entry to the [[temple]] was part of the team's plan, where Samantha attempted to access her mother's [[temple]].
+• Upon crossing the [[portal]] threshold, a system announcement is triggered, part of the in-game notification sequence informing players they have entered the deity's [[temple]].

@@ -3,7 +3,7 @@ title: "Goblin Elle"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Goblin Elle
 
-# Goblin Elle
-[[Goblin Elle]] is a crawler who engages a slot-machine mimic using ranged ice magic, assisting in clearing smaller mimics.
+# goblin_elle
+
+• [[Goblin Elle]] is a crawler who uses ranged ice magic to assist in clearing smaller slot-machine [[mimics]].

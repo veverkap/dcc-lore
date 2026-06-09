@@ -3,11 +3,8 @@ title: "Gatekeeper Passage Restriction"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Gatekeeper Passage Restriction
 
-title: "Gatekeeper Passage Restriction"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Gatekeeper Passage Restriction
-An active system announcement displayed as a red notification over the boss monsters: "Your vehicle may not pass past this point until this boss monster is dead or removed." This explicit dungeon rule enforces that racers' vehicles or mounts cannot traverse the blocked road until the guarding [[Prison Pocket]]/[[Party Foul]] bosses are defeated or removed.
+# gatekeeper_passage_restriction
+
+• An active system announcement displays a red notification over boss monsters, stating "Your vehicle may not pass past this point until this boss monster is dead or removed."
+• The Gatekeeper Passage Restriction enforces that racers' vehicles or mounts cannot traverse the blocked [[road]] until the guarding bosses (e.g., [[Prison Pocket]], [[Party Foul]]) are defeated or removed.

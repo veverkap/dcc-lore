@@ -3,11 +3,8 @@ title: "GPS unit"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# GPS unit
 
-title: "GPS unit"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# [[GPS unit]]
-A system mechanic that provides race updates and commentary; delivered a mocking announcer-style message and repeated "At least we won" to the team.
+# gps_unit
+
+• A system mechanic that provides race updates and commentary.
+• Delivers mocking announcer-style messages, including "At least we won".

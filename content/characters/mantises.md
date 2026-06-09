@@ -3,11 +3,9 @@ title: "Mantises"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Mantises
 
-# Mantises
-A hostile mob/species filling the castle: adult mantises and nymphs are attacking, sometimes disguised or integrated with enemy plans. Central to the assault and responsible for decapitating guards and overwhelming defenders.
+# mantises
 
-## Additional Observations
-# Mantises
-A species/faction implicated in legal actions and in the rumor about selling used AIs. Referred to as having been involved in lawsuits and as influential actors in crawl politics.
+• Adult mantises and nymphs are hostile mobs that fill the castle, attacking and sometimes disguising themselves or working with enemies.
+• They are responsible for decapitating guards and overwhelming defenders.
+• The species is implicated in legal actions and rumors of selling used AIs, and is referred to as influential in crawl politics.

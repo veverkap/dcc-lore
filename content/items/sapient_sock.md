@@ -3,11 +3,9 @@ title: "Sapient Sock"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Sapient Sock
 
-title: "Sapient Sock"
-type: Item
-tags: [dcc-lore-graph]
----
-# [[Sapient Sock]]
-A sapient weapon/curse item (the "sock") that belonged to [[Dong Quixote]], teleported away during the incident and is crucial for curing [[Separation Anxiety]]; originally acquired from [[Quan Ch]].
+# sapient_sock
+
+• A sapient weapon/curse item, the "Sapient [[Sock]]", belonged to [[Dong Quixote]].
+• It was teleported away during the incident and is crucial for curing [[Separation Anxiety]].
+• The Sapient [[Sock]] was originally acquired from [[Quan Ch]].

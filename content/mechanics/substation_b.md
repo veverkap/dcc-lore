@@ -3,27 +3,14 @@ title: "Substation B"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Substation B
 
-title: "Substation B"
-type: Location
-tags: [dcc-lore-graph]
----
-# Substation B
-Substation responsible for certain ghoul and disposal operations (Doris is in charge); fell before Substation E in the incident timeline.
+# substation_b
 
-## Additional Observations
-title: "Substation B"
-type: Location
-tags: [dcc-lore-graph]
----
-# [[Substation B]]
-Substation implicated in ghoul/garbage handling and the fall that preceded Substation E; [[Doris]] manages Krakaren relations here.
-
-## Additional Observations
-title: "Substation B"
-type: Location
-tags: [dcc-lore-graph]
----
-# [[Substation B]]
-Substation responsible for certain management tasks (ghoul handling) and implicated in operational failures; mentioned as having fallen before another substation.
+• Substation responsible for [[ghoul]] and disposal operations, managed by Doris.
+• Implicated in [[ghoul]]/garbage handling and the fall that preceded Substation E.
+• Managed Krakaren relations.
+• Responsible for certain management tasks, including [[ghoul]] handling.
+• Implicated in operational failures.
+• Fell before Substation E in the incident timeline.
+• [[Substation B]]
+• [[Doris]]

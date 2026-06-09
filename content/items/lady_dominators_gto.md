@@ -3,11 +3,9 @@ title: "Lady Dominators' GTO"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Lady Dominators' GTO
 
-title: "Lady Dominators' GTO"
-type: Item
-tags: [dcc-lore-graph]
----
-# Lady Dominators' GTO
-The deep-burgundy late-60s Pontiac GTO convertible used by the [[Lady Dominators]] in this scene. Surrounded by a visible protective shield that repels hail and rain.
+# lady_dominators_gto
+
+• The Lady Dominators' [[GTO]] is a deep-burgundy late-60s [[Pontiac]] [[GTO]] convertible.
+• It is surrounded by a visible protective [[shield]] that repels hail and rain.
+• The [[GTO]] is used by the [[Lady Dominators]].

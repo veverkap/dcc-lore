@@ -3,19 +3,8 @@ title: "Celestial Robe"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Celestial Robe
 
-title: "Celestial Robe"
-type: Item
-tags: [dcc-lore-graph]
----
-# Celestial Robe
-A celestial-tier garment worn by [[Quan]] that grants flight, lightning attacks, and a protective shield, and confers multiple other unknown bonuses.
+# celestial_robe
 
-## Additional Observations
-title: "Celestial Robe"
-type: Item
-tags: [dcc-lore-graph]
----
-# [[Celestial Robe]]
-High-tier equipment worn by [[Quan]] granting flight, lightning attacks, and a strong shield effect; implied to confer major stat and ability boosts.
+• A celestial-tier garment worn by [[Quan]] that grants flight, [[lightning]] attacks, and a protective [[shield]], and confers multiple other unknown bonuses.
+• Grants high-tier equipment worn by [[Quan]] that provides flight, [[lightning]] attacks, and a strong [[shield]] effect, implying major stat and ability boosts.

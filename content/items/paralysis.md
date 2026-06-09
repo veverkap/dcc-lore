@@ -3,11 +3,7 @@ title: "Paralysis"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Paralysis
 
-title: "Paralysis"
-type: Item
-tags: [dcc-lore-graph]
----
-# Paralysis
-An immobilizing spell referenced in the historical example where it was combined with [[Fireball]] via [[War Crime]], resulting in permanently paralyzed victims.
+# paralysis
+
+• An immobilizing spell that can be combined with [[Fireball]] to permanently paralyze victims, as seen in the historical example of [[War Crime]].

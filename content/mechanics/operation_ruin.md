@@ -3,11 +3,8 @@ title: "Operation Ruin"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Operation Ruin
 
-title: "Operation Ruin"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Operation Ruin
-The timed assault plan set to begin when the base timer ends; a coordinated operation described by [[justice lights team]] that [[team retribution]] and crawler forces like those of [[dungeon crawler carl]] and [[Donut]] are implicated in supporting or sabotaging.
+# operation_ruin
+
+• The timed assault plan, Operation Ruin, begins when the base timer ends.
+• The operation involves a coordinated effort, described by [[justice lights team]], with [[team retribution]] and [[crawler]] forces, including [[dungeon [[crawler]] carl]] and [[Donut]], potentially supporting or sabotaging it.

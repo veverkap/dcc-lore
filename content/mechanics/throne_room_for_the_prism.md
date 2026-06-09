@@ -3,11 +3,8 @@ title: "Throne Room for the Prism"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Throne Room for the Prism
 
-title: "Throne Room for the Prism"
-type: Location
-tags: [dcc-lore-graph]
----
-# Throne Room for the Prism
-The specific chamber Carl and companions enter to confront the Prism's leadership; described as a throne room lacking an actual throne. It is the scene of the capture objective and contains environmental restrictions (no traps allowed) and heavy defensive measures around [[Warlord Empress D’Nadia of the Prism]].
+# throne_room_for_the_prism
+
+• The Throne Room for the Prism is a location where Carl and companions confront the Prism's leadership, described as lacking an actual throne.
+• The room contains environmental restrictions (no traps allowed) and heavy defensive measures around [[Warlord Empress D’Nadia of the Prism]].

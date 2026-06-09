@@ -3,11 +3,9 @@ title: "System Announcement: 'The timer has concluded. You may now proceed insid
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# System Announcement: 'The timer has concluded. You may now proceed inside to face the keyholder.'
 
-title: "System Announcement: 'The timer has concluded. You may now proceed inside to face the keyholder.'"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# System Announcement: 'The timer has concluded. You may now proceed inside to face the keyholder.'
-Explicit system message heard after the countdown. Signals the end of the recorded viewing window and grants permission for [[dungeon crawler carl]] and companions to enter and confront the [[Keyholder]].
+# system_announcement_the_timer_has_concluded_you_may_now_proceed_inside_to_face_the_keyholder
+
+• The timer has concluded, allowing entry into the area to face the keyholder.
+• The message is an explicit system announcement heard after the countdown.
+• The announcement grants permission for [[dungeon [[crawler]] carl]] and companions to enter and confront the [[Keyholder]].

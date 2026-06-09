@@ -3,19 +3,8 @@ title: "Wrist Bracer"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Wrist Bracer
 
-title: "Wrist Bracer"
-type: Item
-tags: [dcc-lore-graph]
----
-# Wrist Bracer
-A piece of equipment [[dungeon crawler carl]] slips on his wrist as the crowd is being affected and people arm themselves.
+# wrist_bracer
 
-## Additional Observations
-title: "wrist bracer"
-type: Item
-tags: [dcc-lore-graph]
----
-# [[wrist bracer]]
-A piece of equipment the narrator slips on his wrist as the crowd becomes alert and combat-readied.
+• A piece of equipment slips on the wrist as the crowd is affected and people arm themselves.
+• A piece of equipment slips on the wrist as the crowd becomes alert and combat-readied.

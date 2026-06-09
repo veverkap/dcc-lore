@@ -3,11 +3,10 @@ title: "Treehouse Pub"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Treehouse Pub
 
-title: "Treehouse Pub"
-type: Location
-tags: [dcc-lore-graph]
----
-# Treehouse Pub
-The raised, ornate pub in the village where much of the fight occurs. Has a circular stairwell, a deck with a wide picture window, a guildhall door nearby, and the ursine proprietor. Scene of the [[Donut]] vs [[Lucia Mar]] confrontation and collapse by fire.
+# treehouse_pub
+
+• The Treehouse [[Pub]] is a raised, ornate location in the village where the fight takes place.
+• It features a circular [[stairwell]], a [[deck]] with a wide picture window, and a [[guildhall]] door nearby.
+• The [[pub]] is owned by an ursine proprietor.
+• The scene of the confrontation between [[Donut]] and [[Lucia Mar]] and the subsequent collapse by fire.

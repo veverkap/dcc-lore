@@ -3,11 +3,10 @@ title: "Train System"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Train System
 
-title: "Train System"
-type: Location
-tags: [dcc-lore-graph]
----
-# Train System
-The dungeon’s transportation network referenced in warnings by the System Announcement: lines under maintenance, active tracks risk, and the presence of mapped [[Train Station]]s on [[Mordecai's Train Station Map]].
+# train_system
+
+• The [[dungeon]] has a transportation network referenced in warnings by the System Announcement.
+• Lines are under maintenance.
+• Active tracks pose a risk.
+• Mapped [[Train Station]]s are present on [[Mordecai's [[Train]] Station Map]].

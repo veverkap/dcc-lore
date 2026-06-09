@@ -3,7 +3,7 @@ title: "Suckira"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Suckira
 
-# Suckira
-The white cleaner bot used to pick up the XL pet carrier containing [[Li Na]] and then be sold at the terminal; one of the cleaner bots employed in the group's evacuation plan.
+# suckira
+
+• The white cleaner bot was used to pick up the XL pet carrier containing [[Li Na]] and was sold at the terminal.

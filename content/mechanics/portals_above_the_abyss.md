@@ -3,11 +3,7 @@ title: "Portals above the abyss"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Portals above the abyss
 
-title: "Portals above the abyss"
-type: Location
-tags: [dcc-lore-graph]
----
-# Portals above the abyss
-Alternate portals providing passage between areas above the abyss; access limited to those with souvenir [[Souvenir hat]] items (hats grant passage).
+# portals_above_the_abyss
+
+• [[Portals]] above the [[abyss]] provide alternate passage between areas, accessible only to those with the Souvenir hat.

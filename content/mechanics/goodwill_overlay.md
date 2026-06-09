@@ -3,19 +3,10 @@ title: "Goodwill Overlay"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Goodwill Overlay
 
-title: "Goodwill Overlay"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Goodwill Overlay
-The technical overlay system linking the multiple ballroom iterations and enabling shared stage interactions (color-coded item visibility, mirrored furnishings). Managed by the [[Soul Crystal]]s and the [[Control Chamber]] and important to the group's plan for item access and smuggling.
+# goodwill_overlay
 
-## Additional Observations
-title: "Goodwill Overlay"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# [[Goodwill Overlay]]
-System overlay that links multiple ballroom iterations and controls inter‑room interactions (which items are physically present in all iterations vs. only one). Connected to the soul crystal network and can be toggled from the [[Third Floor Control Room]].
+• The Goodwill Overlay is a technical system linking multiple [[ballroom]] iterations, enabling shared [[stage]] interactions and color-coded item visibility.
+• It is managed by the [[Soul Crystal]]s and the [[Control Chamber]].
+• The system is important for the group's plan for item access and smuggling.
+• The Goodwill Overlay can be toggled from the [[Third Floor Control Room]].

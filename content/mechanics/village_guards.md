@@ -3,11 +3,9 @@ title: "Village Guards"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Village Guards
 
-title: "Village Guards"
-type: Character
-tags: [dcc-lore-graph]
----
-# Village Guards
-Armored, plate-mail sentries patrolling villages on the [[Over City]]; they do not pursue intruders into the ruins and enforce harsh penalties within settlements.
+# village_guards
+
+• Armored, plate-mail sentries patrol villages on the [[Over City]].
+• They do not pursue intruders into the ruins.
+• They enforce harsh penalties within settlements.

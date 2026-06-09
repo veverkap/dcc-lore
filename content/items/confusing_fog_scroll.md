@@ -3,19 +3,9 @@ title: "Confusing Fog scroll"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Confusing Fog scroll
 
-title: "Confusing Fog scroll"
-type: Item
-tags: [dcc-lore-graph]
----
-# [[Confusing Fog scroll]]
-Consumable scroll (three found in a silver quest box) that creates confusing fog effects — a favored alternative to basic smoke bombs for crowd control and escapes.
+# confusing_fog_scroll
 
-## Additional Observations
-title: "Confusing Fog scroll"
-type: Item
-tags: [dcc-lore-graph]
----
-# Confusing Fog scroll
-A consumable scroll found in a silver quest box. Produces a confusing fog effect useful for escape and crowd control; valued by the party and previously used multiple times.
+• Consumable scroll that creates confusing fog effects, useful for crowd control and escapes.
+• Found in a silver quest box, with three instances discovered.
+• Produces a confusing fog effect, valued by the party and previously used multiple times.

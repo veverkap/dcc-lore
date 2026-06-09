@@ -3,19 +3,7 @@ title: "Floor 9"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Floor 9
 
-title: "Floor 9"
-type: Location
-tags: [dcc-lore-graph]
----
-# Floor 9
-The upcoming floor after [[Floor 8]] with strict exit conditions (e.g., [[Donut]] and [[Katia]] cannot leave until all [[nagas]] are dead, and only one may ultimately exit).
+# floor_9
 
-## Additional Observations
-title: "Floor 9"
-type: Location
-tags: [dcc-lore-graph]
----
-# Floor 9
-The upcoming ninth floor referenced in the recap. Notable rule: [[Princess Donut]] and [[Katia]] cannot leave until all [[Naga]] are dead, and even then only one may leave.
+• The upcoming floor after [[Floor 8]] with strict exit conditions, including the requirement that all [[nagas]] be dead before [[Donut]] and [[Katia]] can leave, and only one of them may ultimately exit.

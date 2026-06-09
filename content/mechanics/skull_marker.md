@@ -3,11 +3,8 @@ title: "Skull Marker"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Skull Marker
 
-title: "Skull Marker"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Skull Marker
-A visible system/UI indicator described when "a single skull formed, appearing after [[Donut]]'s name." Presented as an immediate in-game status/marker triggered after the violent event on the dance floor and implying a tracked consequence by the System.
+# skull_marker
+
+• A visible system/UI indicator, the Skull Marker, appears after a violent event on the dance floor, triggered by the System.
+• The Skull Marker is described as a single skull forming, appearing after [[Donut]]'s name.

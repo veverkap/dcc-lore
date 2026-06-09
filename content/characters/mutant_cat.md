@@ -3,7 +3,8 @@ title: "Mutant Cat"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Mutant Cat
 
-# Mutant Cat
-Carl's pet companion, described as a mutant cat that emerges from a blob and speaks with a sultry, pompous voice; it addresses Carl directly and mentions [[beatrice]].
+# mutant_cat
+
+• [[Carl]]'s pet companion, a mutant cat that emerges from a blob and speaks with a sultry, pompous voice.
+• Addresses [[Carl]] directly and mentions [[beatrice]].

@@ -3,11 +3,7 @@ title: "Gate Seven of Seven"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Gate Seven of Seven
 
-title: "Gate Seven of Seven"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Gate Seven of Seven
-A dungeon/system announcement indicating progression: "Gate Seven of Seven cleared. You may now proceed to the exit." Governs team ability to move toward the exit.
+# gate_seven_of_seven
+
+• [[Gate]] Seven of Seven: a [[dungeon]]/system announcement indicating progression, allowing teams to move toward the exit after clearing.

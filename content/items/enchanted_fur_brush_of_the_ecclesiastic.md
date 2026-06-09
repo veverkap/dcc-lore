@@ -3,27 +3,11 @@ title: "Enchanted Fur Brush of the Ecclesiastic"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Enchanted Fur Brush of the Ecclesiastic
 
-title: "Enchanted Fur Brush of the Ecclesiastic"
-type: Item
-tags: [dcc-lore-graph]
----
-# Enchanted Fur Brush of the Ecclesiastic
-A boss-box item obtained by [[Donut]] that grants +2 Constitution for 30 hours when someone brushes her for ten minutes each night.
+# enchanted_fur_brush_of_the_ecclesiastic
 
-## Additional Observations
-title: "Enchanted Fur Brush of the Ecclesiastic"
-type: Item
-tags: [dcc-lore-graph]
----
-# Enchanted Fur Brush of the Ecclesiastic
-An equipment upgrade item received in a Scab box; provides a +10% constitution bonus in addition to the usual small constitution benefit for being brushed each morning. Awarded to [[Donut]].
-
-## Additional Observations
-title: "Enchanted Fur Brush of the Ecclesiastic"
-type: Item
-tags: [dcc-lore-graph]
----
-# Enchanted Fur Brush of the Ecclesiastic
-A piece of equipment that increases constitution when used to groom; [[Princess Donut]] received an upgraded version that adds extra constitution.
+• Grants +2 Constitution for 30 hours when brushed for 10 minutes each night.
+• Provides a +10% constitution bonus in addition to a small constitution benefit for being brushed each morning.
+• Increases constitution when used to groom.
+• Awarded to [[Donut]].
+• [[Princess Donut]] received an upgraded version that adds extra constitution.

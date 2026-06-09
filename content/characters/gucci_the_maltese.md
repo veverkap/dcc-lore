@@ -3,11 +3,8 @@ title: "Gucci the Maltese"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Gucci the Maltese
 
-# Gucci the Maltese
-Imani’s small companion observed being held during the rooftop disturbance.
+# gucci_the_maltese
 
-## Additional Observations
-# [[Gucci the Maltese]]
-A small dog being clutched by the giant Imani avatar in the lobby scene; an identifiable pet present during the exit.
+• [[Imani]]'s small companion, a Maltese [[dog]] named [[Gucci]], was observed being held during the rooftop disturbance.
+• [[Gucci]] was also seen being clutched by the giant [[Imani]] avatar in the lobby scene and was present during the exit.

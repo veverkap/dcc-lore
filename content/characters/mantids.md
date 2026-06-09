@@ -3,11 +3,9 @@ title: "Mantids"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Mantids
 
-# Mantids
-A named species/mob in the crawl: hard-to-kill insectoid hunters that are sensitive to loud noises and to certain poisons (fast-acting, uncureable), and who poach other hunters’ kills. Associated with the [[the hive]].
+# mantids
 
-## Additional Observations
-# [[mantis]]
-Species/group of insectoid hunters central to the chapter's discussion; vulnerable to certain poisons and loud noises, and associated politically with the [[the hive]] and contested hunting claims.
+• A named species/mob of hard-to-kill insectoid [[hunters]] that are sensitive to loud noises and certain poisons, and who poach other [[hunters]]' kills, associated with the [[the hive]].
+• Vulnerable to certain poisons and loud noises.
+• Politically associated with the [[the hive]] and contested hunting claims.

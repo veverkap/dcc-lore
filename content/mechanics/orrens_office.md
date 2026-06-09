@@ -3,19 +3,9 @@ title: "Orren's office"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Orren's office
 
-title: "Orren's office"
-type: Location
-tags: [dcc-lore-graph]
----
-# Orren's office
-The specific room/location where the protagonist materializes after the time-frozen encounter with [[Paulie]] and the [[Containment Interface]] installation finishes.
+# orrens_office
 
-## Additional Observations
-title: "Orren's office"
-type: Location
-tags: [dcc-lore-graph]
----
-# Orren's office
-The familiar office where [[dungeon crawler carl]] meets the Syndicate liaison [[orren the liaison]] and where the three artifact pieces (watches and winding box) are presented.
+• The protagonist materializes in Orren's office after a time-frozen encounter with Paulie and the Containment Interface installation.
+• Orren's office is where [[Dungeon]] [[Crawler]] Carl meets Syndicate liaison Orren the Liaison.
+• The three artifact pieces (watches and winding box) are presented in Orren's office.

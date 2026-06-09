@@ -3,11 +3,7 @@ title: "Cruel Sepsis"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Cruel Sepsis
 
-title: "Cruel Sepsis"
-type: Item
-tags: [dcc-lore-graph]
----
-# Cruel Sepsis
-[[Cruel Sepsis]] is described as a debuff/status effect applied to mimics mid-fight that causes rapid withering and death; named as an effect in combat.
+# cruel_sepsis
+
+• [[Cruel Sepsis]] is a debuff/status effect that causes rapid withering and death in mimics mid-fight.

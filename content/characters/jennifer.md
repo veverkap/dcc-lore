@@ -3,27 +3,12 @@ title: "Jennifer"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Jennifer
 
-# Jennifer
-Female resident of the suburban house (Master’s Degree framed in library sciences) whose belongings populate the wrecked master bedroom; paired with [[Dale]] as homeowners.
+# jennifer
 
-## Additional Observations
-# Jenn'ifer
-A premium-pass fan who approaches for a signed photo and carries a flesh-colored tentacle named [[Maggie]] protruding from the back of her head; chapter president of a local Princess Posse.
-
-## Additional Observations
-# Jennifer
-A briefly-mentioned crawler (described as "that Jennifer woman") present in the staging area and excited about meeting [[Donut]]; noted for odd appearance details.
-
-## Additional Observations
-# Jennifer
-Human woman previously residing in the suburban house (owner of the Master’s Degree found at the scene). Her name appears on a fallen diploma used to infer household occupants.
-
-## Additional Observations
-# Jenn'ifer
-A premium fan attendee who approaches the signing on behalf of [[princess posse]]. Notable for having a flesh-colored tentacle parasite named [[Maggie]] protruding from the back of her head while she delivers donations and lawsuit news for [[Princess Donut]].
-
-## Additional Observations
-# Jennifer
-A woman briefly referenced as having a "weird thing sticking out of her head," present among those excited to meet [[Donut]]. Minor background character.
+• Female resident of the suburban house with a Master's Degree in library sciences, paired with [[Dale]] as homeowners.
+• Premium fan who approaches for a signed photo, carries a flesh-colored tentacle named [[Maggie]] protruding from the back of her head, and is chapter president of a local [[Princess]] Posse.
+• Crawler present in the staging area, excited about meeting [[Donut]], with odd appearance details.
+• [[Human]] woman previously residing in the suburban house, owner of the Master's Degree found at the scene.
+• Fan attendee who approaches the signing on behalf of [[Princess Posse]], with a flesh-colored tentacle parasite named [[Maggie]] protruding from the back of her head, delivering donations and lawsuit news for [[Princess Donut]].
+• Woman with a "weird thing sticking out of her head" present among those excited to meet [[Donut]], minor background character.

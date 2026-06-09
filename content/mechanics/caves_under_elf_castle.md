@@ -3,11 +3,8 @@ title: "Caves Under Elf Castle"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Caves Under Elf Castle
 
-title: "Caves Under Elf Castle"
-type: Location
-tags: [dcc-lore-graph]
----
-# Caves Under Elf Castle
-Underground caverns around the castle filled with trolls and a secret entrance; noted as potential alternate access or quest area tied to the castle perimeter.
+# caves_under_elf_castle
+
+• Underground caverns around the Elf Castle are filled with trolls and contain a secret entrance.
+• The caves are a potential alternate access or quest area tied to the castle perimeter.

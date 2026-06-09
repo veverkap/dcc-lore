@@ -3,11 +3,8 @@ title: "Attendant Entrance"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Attendant Entrance
 
-title: "Attendant Entrance"
-type: Location
-tags: [dcc-lore-graph]
----
-# Attendant Entrance
-The required entrance through which guests and their attendants must arrive at the castle; subject to security sweeps and re-inspections per [[Theobold]].
+# attendant_entrance
+
+• The Attendant Entrance is the required entrance for guests and their attendants to arrive at the castle.
+• The entrance is subject to security sweeps and re-inspections.

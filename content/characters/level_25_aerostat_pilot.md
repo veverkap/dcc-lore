@@ -3,11 +3,8 @@ title: "Level 25 Aerostat Pilot"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Level 25 Aerostat Pilot
 
-# Level 25 Aerostat Pilot
-One of the three gnome crewmen aboard the descending balloon; identified by the minimap as a [[Level 25 Aerostat Pilot]]. Part of the [[Wasteland]]'s aerial complement.
+# level_25_aerostat_pilot
 
-## Additional Observations
-# Level 25 Aerostat Pilot
-One of the three gnomes aboard the parade-decorated balloon ([[Vahana]]). Identified by system-level tag during the encounter; part of the pilot/sniper/negotiator trio controlling the descending balloon.
+• One of the three gnome crewmen aboard the descending balloon, identified by the minimap as a [[Level 25 Aerostat Pilot]], part of the [[Wasteland]]'s aerial complement.
+• One of the three [[gnomes]] aboard the parade-decorated balloon [[Vahana]], identified by system-level tag during the encounter, part of the pilot/sniper/negotiator trio controlling the descending balloon.

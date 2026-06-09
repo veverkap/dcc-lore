@@ -3,11 +3,7 @@ title: "Soothers"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Soothers
 
-# [[Soothers]]
-A species/mob type used as a comparison to describe [[Hunter Iota]]'s appearance — common soothers are referenced to contextualize the hunter's alien physiology.
+# soothers
 
-## Additional Observations
-# [[Soothers]]
-Support staff and personnel who control crowd flow and aid in arena logistics; referenced as "soother dudes" who manage entry and seating at the small arena.
+• [[Soothers]]: a species/mob type used to describe [[Hunter Iota]]'s appearance, and also support staff and personnel who control crowd flow and aid in arena logistics, referred to as "soother dudes".

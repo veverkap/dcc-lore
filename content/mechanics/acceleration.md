@@ -3,19 +3,9 @@ title: "Acceleration"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Acceleration
 
-title: "Acceleration"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Acceleration
-An explicit System/Dungeon action referenced as a punitive escalation the AI can apply; in this chapter the "acceleration action" was suspended after conciliatory events.
+# acceleration
 
-## Additional Observations
-title: "Acceleration"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Acceleration
-[[Acceleration]] (the acceleration action) is a dungeon/System mechanic referenced as a punitive escalation the System AI can apply to the party; the chapter notes it was threatened and subsequently suspended.
+• The acceleration action is a punitive escalation the System AI can apply to the party in the [[dungeon]]/System.
+• The action was suspended after conciliatory events in this chapter.
+• [[Acceleration]]

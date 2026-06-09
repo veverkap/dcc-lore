@@ -3,11 +3,8 @@ title: "Unwashed"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Unwashed
 
-# [[Unwashed]]
-A monstrous mob-name used interchangeably with other names for the creature-personification; explicitly noted as banned from use as a mob in the game setting.
+# unwashed
 
-## Additional Observations
-# Unwashed
-A monstrous effigy used in Carl's float presentation (also called the Hag, the Stalker, the Beautiful Place in different contexts). Represented as a personification of the Nothing and inevitability of ruin; contrasted with the [[Midnight Epicure]].
+• A monstrous mob-name used interchangeably with other names for the creature-personification; explicitly noted as banned from use as a mob in the game setting.
+• A monstrous effigy used in [[Carl]]'s float presentation, representing the personification of the Nothing and inevitability of ruin, contrasting with the [[Midnight Epicure]].

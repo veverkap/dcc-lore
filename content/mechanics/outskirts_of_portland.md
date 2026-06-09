@@ -3,11 +3,7 @@ title: "Outskirts of Portland"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Outskirts of Portland
 
-title: "Outskirts of Portland"
-type: Location
-tags: [dcc-lore-graph]
----
-# [[Outskirts of Portland]]
-A local in-floor region where some characters (like [[elle mcgib]] and companions) intend to move for different mobs and quests; referenced as nearby exploration ground.
+# outskirts_of_portland
+
+• Outskirts of Portland: a local in-floor region where characters like Elle McGib and companions plan to move for different mobs and quests, serving as a nearby exploration ground.

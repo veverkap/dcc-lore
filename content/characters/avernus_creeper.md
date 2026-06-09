@@ -3,11 +3,9 @@ title: "Avernus Creeper"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Avernus Creeper
 
-# Avernus Creeper
-A biological, semi-sentient plant mount used by [[Team Sparkles]] on the tenth floor. A tangle of invasive, walking vines related to [[Gehenna Brambles]]; capable of regrowth from thorns and considered extremely invasive.
+# avernus_creeper
 
-## Additional Observations
-# [[Avernus Creeper]]
-Biological plant-mount used by Team Sparkles on the tenth floor. A tangle of semi-sentient vines that glide along the ground; related to [[Gehenna Brambles]]-type flora and highly invasive off-floor. Reacts violently to the food truck's recorded horn.
+• A biological, semi-sentient plant mount used by [[Team Sparkles]] on the tenth floor, related to [[Gehenna Brambles]].
+• Capable of regrowth from thorns and considered extremely invasive.
+• Reacts violently to the food truck's recorded horn.

@@ -3,19 +3,8 @@ title: "Damage Reflect"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Damage Reflect
 
-title: "Damage Reflect"
-type: Item
-tags: [dcc-lore-graph]
----
-# Damage Reflect
-[[Damage Reflect]] is the protagonist’s ability that caused a green slime to kill itself by reflecting damage back; it is referenced as an active combat ability used during the slime encounter.
+# damage_reflect
 
-## Additional Observations
-title: "Damage Reflect"
-type: Item
-tags: [dcc-lore-graph]
----
-# Damage Reflect
-A combat effect/status that caused a small leech attached to Carl's leg to immediately die; treated as a persistent defensive effect active on the party.
+• [[Damage Reflect]] is the protagonist's ability that reflects damage back, causing a green slime to kill itself during combat.
+• [[Damage Reflect]] is also a combat effect/status that causes a small [[leech]] to immediately die when attached to Carl's leg, treated as a persistent defensive effect active on the party.

@@ -3,7 +3,9 @@ title: "Grulke"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Grulke
 
-# Grulke
-A rare race of militaristic toad warriors; [[Mordecai]] is a Grulke Infantry (Level 50). Noted for leaping ability, tongue attacks, and a history of mercenary decline.
+# grulke
+
+• A rare race of militaristic toad warriors
+• Noted for leaping ability, tongue attacks
+• History of mercenary decline

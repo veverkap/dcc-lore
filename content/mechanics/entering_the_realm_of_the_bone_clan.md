@@ -3,11 +3,7 @@ title: "Entering the realm of the Bone Clan."
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Entering the realm of the Bone Clan.
 
-title: "Entering the realm of the Bone Clan."
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Entering the realm of the Bone Clan.
-A system notification alerting players that they have entered territory controlled by the [[Bone Clan]], with attendant hostility implications.
+# entering_the_realm_of_the_bone_clan
+
+• Entering the realm of the Bone Clan triggers a system notification, alerting players to hostile territory controlled by the [[Bone Clan]].

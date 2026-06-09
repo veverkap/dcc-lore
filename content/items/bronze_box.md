@@ -3,11 +3,7 @@ title: "Bronze box"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Bronze box
 
-title: "Bronze box"
-type: Item
-tags: [dcc-lore-graph]
----
-# Bronze box
-Low-tier loot boxes observed among [[Princess Donut]]'s initial rewards, containing basic consumables like healing potions and torches.
+# bronze_box
+
+• Low-tier loot boxes, containing basic consumables like healing [[potions]] and torches, were observed among [[Princess Donut]]'s initial rewards.

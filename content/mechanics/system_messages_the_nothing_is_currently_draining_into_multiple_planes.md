@@ -3,11 +3,7 @@ title: "System Messages: The Nothing is currently draining into multiple planes"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# System Messages: The Nothing is currently draining into multiple planes
 
-title: "System Messages: The Nothing is currently draining into multiple planes"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# System Messages: The Nothing is currently draining into multiple planes
-Collective system announcements indicating that [[The Nothing]] is draining into [[The Halls of the Ascendency]], [[Sheol]], and [[Scolopendra's Lair]], precipitating large-scale evacuations and awakenings.
+# system_messages_the_nothing_is_currently_draining_into_multiple_planes
+
+• The [[Nothing]] is currently draining into multiple planes, including [[The Halls of the Ascendency]], [[Sheol]], and [[Scolopendra's Lair]].

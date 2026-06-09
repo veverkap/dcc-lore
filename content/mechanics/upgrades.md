@@ -3,11 +3,9 @@ title: "Upgrades"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Upgrades
 
-title: "Upgrades"
-type: Location
-tags: [dcc-lore-graph]
----
-# Upgrades
-A hidden hallway and upgrade counter accessed by pushing the jukebox in [[Chicken and Waffles]]; contains posters, a binder of laminated pages, a counter with the corpse of [[Hickster]], and a secret door trapped with a [[Disintegration trap]].
+# upgrades
+
+• A hidden [[hallway]] and upgrade counter can be accessed by pushing the jukebox in [[Chicken and Waffles]].
+• The counter contains posters, a binder of laminated pages, and the corpse of [[Hickster]].
+• A secret door is trapped with a [[Disintegration trap]].

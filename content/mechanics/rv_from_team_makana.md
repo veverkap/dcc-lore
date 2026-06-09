@@ -3,11 +3,8 @@ title: "RV from Team Makana"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# RV from Team Makana
 
-title: "RV from Team Makana"
-type: Location
-tags: [dcc-lore-graph]
----
-# RV from Team Makana
-The vehicle shelter where twenty-two crawlers and mercenaries hunker down during attacks, containing the Apito memorial crystal and serving as a temporary safe haven.
+# rv_from_team_makana
+
+• The [[RV]] from Team Makana is a vehicle [[shelter]] where crawlers and mercenaries take cover during attacks.
+• It contains the Apito memorial crystal and serves as a temporary safe haven.

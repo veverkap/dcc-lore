@@ -3,59 +3,18 @@ title: "Skyfowl"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Skyfowl
 
-# Skyfowl
-The original species Mordecai claims he was born as before being transformed into other forms by dungeon relocation. Presented as a longer-lived, adaptable people contrasted with human crawlers; tied to [[Changeling]] mechanics in the chapter.
+# skyfowl
 
-## Additional Observations
-# Skyfowl
-A race/species of crawler people referenced as [[Mordecai]]'s type. [[Odette]] notes skyfowl are distinct from humans and other races encountered in the dungeon.
-
-## Additional Observations
-# Skyfowl
-A winged people/race in the Over City. Locally influential in social hierarchy; many city-elf fanatics (the [[201st Security Group – Magical Ops]] and related [[City Elves]]) obsess over protecting them. Described as often disdainful of flightless creatures.
-
-## Additional Observations
-# Skyfowl
-A divine figure worshiped by the city elves as living angels; mentioned as part of the local theology that ties into the elves' militant behavior and the presence of a dark cleric commanding undead in the town.
-
-## Additional Observations
-# Skyfowl
-Avian NPC race prominent in the settlement (including town guards and Magistrate Featherfall); also the namesake of the [[Medium Skyfowl Settlement]]. Skyfowl NPCs react to the explosion, contest access to rooftops, and some function as avatars controlled by [[remex the grand]].
-
-## Additional Observations
-# [[Skyfowl]]
-Aerial mobs previously present in the town; noted as absent at night during the chapter. Their normal daytime presence is remarked on as unusual given their disappearance.
-
-## Additional Observations
-# [[Skyfowl]]
-A dominant avian race/species in the setting and the former rulers of the [[Over City]]. The corrupted/animated Skyfowl (and related small [[Chickadee]] flyers) are central to [[Miss Quill]]'s plans.
-
-## Additional Observations
-# Skyfowl
-A race/type of NPC; [[justice lights team]] is a skyfowl. Described as naturally anxious and prone to delicate habits like rearranging shops and making fabric art.
-
-## Additional Observations
-# Skyfowl
-An insane NPC noted by [[Eris]] as the builder of the antenna beneath the castle; a suggested recipient for the [[Gate of the Feral Gods]] if recovered.
-
-## Additional Observations
-# Skyfowl
-Awinged race in the Over City whose presence and treatment of flightless peoples are central to the ideological beliefs of the [[City Elves]] and the [[201st Security Group – Magical Ops]].
-
-## Additional Observations
-# Skyfowl
-A bird-like race/species that controls settlements in the Over City; town leadership and many shoppers in the magistrate building are Skyfowl.
-
-## Additional Observations
-# Skyfowl
-A divine/angelic figure venerated by the city elves as "living angels." The local Skyfowl leadership includes a dark cleric linked to undead control and the [[201st Security Group]]’s activities.
-
-## Additional Observations
-# Skyfowl
-Species/NPC type populating the settlement (e.g., guards and townsfolk). Skyfowl NPCs hover/fly and were encountered circling after the explosion; the settlement is named after them (see [[Medium Skyfowl Settlement]]).
-
-## Additional Observations
-# Skyfowl
-A dominant avian race/species in the setting and former rulers of the [[Over City]] whose avatars and legends were used in illusions by [[Miss Quill]] to manipulate locals. Members of this group are directly tied to the goals of [[The Final War]].
+• A winged people/race in the Over City, often disdainful of flightless creatures.
+• A divine figure worshiped by city [[elves]] as living angels, tied to local theology and militant behavior.
+• A dominant avian race/species in the setting, former rulers of the Over City, and central to Miss [[Quill]]'s plans.
+• A species/NPC type populating the settlement, including guards, townsfolk, and avatars controlled by Remex the Grand.
+• A race/ species of crawler people, distinct from humans and other races, referenced as [[Mordecai]]'s type.
+• A bird-like race/species that controls settlements in the Over City, with town leadership and many shoppers being Skyfowl.
+• A naturally anxious and prone to delicate habits, with some Skyfowl being part of the [[Justice]] Lights Team.
+• A builder of the antenna beneath the castle, suggested recipient for the Gate of the Feral Gods if recovered.
+• A species/NPC type with a dark cleric linked to undead control and the 201st Security Group's activities.
+• Aerial mobs previously present in the town, absent at night during the chapter.
+• A divine/angelic figure venerated by city [[elves]] as "living angels", with local Skyfowl leadership including a dark cleric.
+• A dominant avian race/species in the setting, used in illusions by Miss [[Quill]] to manipulate locals, and tied to the goals of The Final War.

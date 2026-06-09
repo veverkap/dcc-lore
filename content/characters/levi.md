@@ -3,19 +3,10 @@ title: "Levi"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Levi
 
-# Levi
-A teammate or nearby crawler who reacts loudly and jubilantly when [[Dismember]] is killed, present during the train encounter and subsequent station departure.
+# levi
 
-## Additional Observations
-# Levi
-A fellow crawler who reacts loudly to the kill of [[Dismember]] and travelled with [[dungeon crawler carl]]'s party on the train leading up to Station 281.
-
-## Additional Observations
-# Levi
-A crawler companion who reacts loudly to the killing of [[Dismember]] and travels with the party on the Mauve line.
-
-## Additional Observations
-# Levi
-Companion present during the train fight and subsequent departure; reacts vocally to Dismember’s death.
+• A teammate or nearby crawler who reacts loudly and jubilantly when [[Dismember]] is killed, present during the train encounter and subsequent station departure.
+• Travels with [[dungeon crawler carl]]'s party on the train leading up to Station 281.
+• Travels with the party on the Mauve line.
+• Companion present during the train fight and subsequent departure; reacts vocally to [[Dismember]]'s death.

@@ -3,7 +3,8 @@ title: "Peppa"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Peppa
 
-# [[Peppa]]
-A pig referenced by [[Donut]] in an anecdotal warning (distinct from [[Penelope]]); mentioned as being in potential danger if she doesn't address a relationship issue with her cousin [[Chloé]].
+# peppa
+
+• A pig referenced by [[Donut]] in [[an]] anecdotal warning, distinct from [[Penelope]].
+• In potential danger if she doesn't address a relationship issue with her cousin [[Chloé]].

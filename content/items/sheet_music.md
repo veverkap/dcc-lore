@@ -3,27 +3,10 @@ title: "Sheet Music"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Sheet Music
 
-title: "Sheet Music"
-type: Item
-tags: [dcc-lore-graph]
----
-# Sheet Music
-A gifted item among the sponsor boxes whose purpose was considered clear by [[dungeon crawler carl]] and [[Mordecai]]; bundled with other puzzling gifts intended for [[Donut]].
+# sheet_music
 
-## Additional Observations
-title: "Sheet Music"
-type: Item
-tags: [dcc-lore-graph]
----
-# [[Sheet Music]]
-Bard-exclusive items that function like reusable scrolls/books allowing a bard to perform songs they normally couldn't. Can be used repeatedly, can tear if performed poorly, and can be learned permanently into a bard's repertoire if sung perfectly.
-
-## Additional Observations
-title: "Sheet music"
-type: Item
-tags: [dcc-lore-graph]
----
-# Sheet music
-A piece of music included among sponsor gifts; noted by [[dungeon crawler carl]] as one of the clearly purposive items (likely used in the talent show or party).
+• A gifted item among sponsor boxes, intended for [[Donut]], with a clear purpose according to [[dungeon crawler carl]] and [[Mordecai]].
+• Bard-exclusive items that function like reusable scrolls/books, allowing bards to perform songs they normally couldn't.
+• Can be used repeatedly, can tear if performed poorly, and can be learned permanently into a bard's repertoire if sung perfectly.
+• A piece of music included among sponsor gifts, likely used in the talent show or party, noted by [[dungeon crawler carl]].

@@ -3,19 +3,9 @@ title: "Signal Flare Smoke Bombs"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Signal Flare Smoke Bombs
 
-title: "Signal Flare Smoke Bombs"
-type: Item
-tags: [dcc-lore-graph]
----
-# Signal Flare Smoke Bombs
-Colored smoke bombs used onstage that create controlled smoke eddies and pyrotechnic flair; two expensive signal flare smoke bombs detonated during the act.
+# signal_flare_smoke_bombs
 
-## Additional Observations
-title: "Signal Flare Smoke Bombs"
-type: Item
-tags: [dcc-lore-graph]
----
-# [[Signal Flare Smoke Bombs]]
-Colored signal flare smoke bombs deployed during the stage performance, producing dense smoke effects and pyrotechnic-style bursts on the [[stage]].
+• Colored smoke [[bombs]] used onstage to create controlled smoke eddies and pyrotechnic flair.
+• Two expensive signal flare smoke [[bombs]] detonated during the act.
+• Deployed during the stage performance to produce dense smoke effects and pyrotechnic-style bursts on the [[stage]].

@@ -3,11 +3,8 @@ title: "Hekla's automatic magical crossbow"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Hekla's automatic magical crossbow
 
-title: "Hekla's automatic magical crossbow"
-type: Item
-tags: [dcc-lore-graph]
----
-# Hekla's automatic magical crossbow
-Signature weapon of [[Hekla]] described as an automatic, magical crossbow that functions like a ranged chainsaw; notable Crawler equipment referenced for its combat effectiveness.
+# heklas_automatic_magical_crossbow
+
+• Hekla's automatic magical [[crossbow]] is a signature weapon of [[Hekla]].
+• It functions like a ranged chainsaw and is a notable Crawler equipment for its combat effectiveness.

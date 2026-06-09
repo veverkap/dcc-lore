@@ -3,11 +3,7 @@ title: "White-tagged"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# White-tagged
 
-title: "White-tagged"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# White-tagged
-A dungeon/system status indicating NPC/settlement tagging that restricts combat engagement for those assigned as NPCs. Referenced as the state that keeps [[Dante]] and [[justice lights team]] non-hostile in a settlement setting.
+# white-tagged
+
+• A [[dungeon]]/system status that restricts combat engagement for tagged NPCs/settlements, keeping them non-hostile.

@@ -3,11 +3,7 @@ title: "Imani buffs"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Imani buffs
 
-title: "Imani buffs"
-type: Item
-tags: [dcc-lore-graph]
----
-# Imani buffs
-Drugged/enhancement buffs administered to [[Katia]] to keep her operational despite addictions; referenced as stacked temporary enhancements.
+# imani_buffs
+
+• Drugged/enhancement buffs were administered to [[Katia]] to keep her operational despite addictions, referred to as stacked temporary enhancements.

@@ -3,11 +3,8 @@ title: "Colonel Tipid"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Colonel Tipid
 
-# Colonel Tipid
-A named commander who appears briefly in the warlord chat feed during the buildup to the parlay.
+# colonel_tipid
 
-## Additional Observations
-# Colonel Tipid
-A commander in the crawler forces referenced by [[justice lights team]] as someone slugs might join (e.g., the [[Frothing Tunnel Moles]]); involved in coordination and security decisions.
+• A named commander who appears briefly in the warlord chat feed during the buildup to the parlay.
+• A commander in the crawler forces, involved in coordination and security decisions, referenced by [[justice lights team]] as someone slugs might join (e.g., the [[Frothing Tunnel Moles]]).

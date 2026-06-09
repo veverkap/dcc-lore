@@ -3,11 +3,7 @@ title: "Rental Room price: 0 gold"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Rental Room price: 0 gold
 
-title: "Rental Room price: 0 gold"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Rental Room price: 0 gold
-A system-pricing announcement shown in the [[Safe Room]] that rental rooms currently cost 0 gold, indicating temporary free accommodation mechanics on the current floor.
+# rental_room_price_0_gold
+
+• Rental Room price: 0 gold, indicated by a system-pricing announcement in the [[Safe Room]].

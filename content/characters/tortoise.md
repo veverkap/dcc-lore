@@ -3,11 +3,8 @@ title: "Tortoise"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Tortoise
 
-# Tortoise
-NPC caster observed preparing a large spell outside the [[Elf castle]] in anticipation of the final battle; described as creating a map and casting protective magics.
+# tortoise
 
-## Additional Observations
-# Tortoise
-A caster preparing a major spell outside the [[Elf Castle]] to support a final battle; described as "making big spell" and likely tied to defensive or mapping efforts against the [[Gehenna Brambles]].
+• Tortoise NPC caster prepares a large spell outside the [[Elf castle]] in anticipation of the final battle, creating a map and casting protective magics.
+• Tortoise caster prepares a major spell outside the [[Elf Castle]] to support a final battle, likely tied to defensive or mapping efforts against the [[Gehenna Brambles]].

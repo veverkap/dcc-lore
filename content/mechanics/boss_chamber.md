@@ -3,11 +3,9 @@ title: "Boss Chamber"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Boss Chamber
 
-title: "Boss Chamber"
-type: Location
-tags: [dcc-lore-graph]
----
-# Boss Chamber
-The enclosed area where the [[Neighborhood Boss]] and numerous goblins were located; access is blocked by burning coal and a [[Wall of Fire]], and it is the site of the achievement notifications after the fight.
+# boss_chamber
+
+• The Boss Chamber is a location where the Neighborhood Boss and numerous goblins are located.
+• Access is blocked by burning coal and a Wall of Fire.
+• It is the site of achievement notifications after the fight.

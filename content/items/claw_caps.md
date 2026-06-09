@@ -3,19 +3,11 @@ title: "Claw caps"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Claw caps
 
-title: "Claw caps"
-type: Item
-tags: [dcc-lore-graph]
----
-# [[Claw caps]]
-Small equipment items designed to cover and mute the glow of augmented claws. In the chapter [[Donut]] equips translucent colored [[Claw caps]] to hide the radiant blue glow and reduce risk of accidental cutting.
+# claw_caps
 
-## Additional Observations
-title: "Claw Caps"
-type: Item
-tags: [dcc-lore-graph]
----
-# Claw Caps
-Equippable items designed to mute or cover [[Donut]]’s newly radiant claws, available in different colors (Rosetta obtains red ones that render the glow purple); can be armed/removed via inventory.
+• Small equipment items designed to cover and [[mute]] the glow of augmented claws.
+• Available in different colors, including red (which renders the glow purple).
+• Can be armed/removed via inventory.
+• Equipped in the chapter [[Donut]] to hide the radiant blue glow and reduce risk of accidental cutting.
+• [[Claw caps]] are equippable items designed to [[mute]] or cover [[Donut]]'s newly radiant claws.

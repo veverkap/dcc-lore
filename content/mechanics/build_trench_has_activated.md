@@ -3,11 +3,7 @@ title: "Build Trench has activated"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Build Trench has activated
 
-title: "Build Trench has activated"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Build Trench has activated
-A system notification indicating that the [[Build Trench (Scroll)]] has begun constructing a channel; tied to UI prompts (e.g., enjoin confirmation) and observable battlefield effects.
+# build_trench_has_activated
+
+• Build [[Trench]] has activated, a system notification indicating the start of the [[Build [[Trench]] (Scroll)]]'s construction of a channel, accompanied by UI prompts and observable [[battlefield]] effects.

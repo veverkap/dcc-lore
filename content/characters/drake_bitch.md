@@ -3,19 +3,10 @@ title: "Drake Bitch"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Drake Bitch
 
-# [[Drake Bitch]]
-A named monster seen on the tracks that electrocutes itself and turned into an X on the map. Example of the kinds of beasts populating the line.
+# drake_bitch
 
-## Additional Observations
-# Drake Bitch
-Named mob species seen on the tracks; one was shown touching the electrified rail and being destroyed. Appears among the red dots on the [[Ochre Line]] map.
-
-## Additional Observations
-# Drake Bitch
-A named monster encountered on the tracks ahead of the party; seen hitting the electrified rail and being marked as an X (killed). Part of the train-line mob traffic described on the Ochre line map.
-
-## Additional Observations
-# Drake Bitch
-A named mob example observed by [[dungeon crawler carl]] that died on the electrified line; representative of the types of monsters populating stations on the Ochre line.
+• A named monster, [[Drake Bitch]], seen on the tracks, electrocutes itself and is marked as [[an]] X on the map.
+• Named mob species, [[Drake Bitch]], appears among the red dots on the [[Ochre Line]] map.
+• A named monster, [[Drake Bitch]], is encountered on the tracks, hits the electrified rail, and is marked as [[an]] X (killed).
+• [[Drake Bitch]] is a named mob example observed by [[dungeon crawler carl]] that died on the electrified line, representing the types of monsters populating stations on the Ochre line.

@@ -3,11 +3,8 @@ title: "Goodwill Interface"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Goodwill Interface
 
-title: "Goodwill Interface"
-type: Item
-tags: [dcc-lore-graph]
----
-# Goodwill Interface
-The interface tied to the goodwill ballrooms that relies on a [[Soul Crystal]] and a [[Capacitor]]; referenced when the soul crystal for the interface was removed but the interface still functioned due to a backup capacitor.
+# goodwill_interface
+
+• The Goodwill [[Interface]] relies on a [[Soul Crystal]] and a [[Capacitor]].
+• The [[interface]] can function even without the soul crystal, as seen when a backup [[capacitor]] was used.

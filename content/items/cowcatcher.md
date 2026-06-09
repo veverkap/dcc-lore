@@ -3,19 +3,12 @@ title: "Cowcatcher"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Cowcatcher
 
-title: "Cowcatcher"
-type: Item
-tags: [dcc-lore-graph]
----
-# Cowcatcher
-The train-front apparatus meant to clear obstacles from the tracks; the seized subway car has a small, ineffective device and the team debates creating a proper cowcatcher or using [[Katia]] as a living shield.
+# cowcatcher
 
-## Additional Observations
-title: "Cowcatcher"
-type: Item
-tags: [dcc-lore-graph]
----
-# Cowcatcher
-Front-mounted clearing device discussed as necessary to push through hordes on subway tracks; [[dungeon crawler carl]] is asked to design or fabricate a version for the subway train, and [[Katia]] volunteers as a living alternative.
+• The Cowcatcher is a [[train]]-front apparatus meant to clear obstacles from the tracks.
+• The seized subway car has a small, ineffective device.
+• The team debates creating a proper Cowcatcher or using [[Katia]] as a living [[shield]].
+• A front-mounted clearing device is discussed as necessary to push through hordes on subway tracks.
+• [[Dungeon Crawler Carl]] is asked to design or fabricate a version for the subway [[train]].
+• [[Katia]] volunteers as a living alternative.

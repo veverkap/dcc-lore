@@ -3,11 +3,8 @@ title: "You have been poisoned!"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# You have been poisoned!
 
-title: "You have been poisoned!"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# You have been poisoned!
-A system announcement/status effect triggered when [[dungeon crawler carl]] drinks a potion and deliberately applies poison to himself as part of the tactic against [[Ringmaster Grimaldi – Pestiferous Vine]]. Represents an active dungeon rule/status in play.
+# you_have_been_poisoned
+
+• You have been poisoned!
+• Triggered by [[dungeon [[crawler]] carl]] drinking a potion and applying poison to himself against [[Ringmaster Grimaldi – Pestiferous Vine]].

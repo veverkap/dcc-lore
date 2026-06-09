@@ -3,11 +3,8 @@ title: "Cinnamon stick"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Cinnamon stick
 
-title: "Cinnamon stick"
-type: Item
-tags: [dcc-lore-graph]
----
-# Cinnamon stick
-An ingredient in the improvised recipe provided by [[Mordecai]]; combined with [[Thistle rot]] in a [[healing potion]] to successfully cure [[Mongo]].
+# cinnamon_stick
+
+• An ingredient in the improvised recipe provided by [[Mordecai]].
+• Used in a healing potion with [[Thistle rot]] to cure [[Mongo]].

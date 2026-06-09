@@ -3,11 +3,9 @@ title: "Scatterer"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Scatterer
 
-# Scatterer
-Common dungeon cockroach-like mob encountered in the halls and rooms; appears in level tiers (level 1–4) and drops materials like [[Scatterer Hemolymph]]. Often killed by stomps or stunned by [[Magic Missile]].
+# scatterer
 
-## Additional Observations
-# Scatterer
-Named bug-type minions ejected by [[The Hoarder]] (appearing as level two variants). Act as small, aggressive mobs that attack Carl and Donut during the boss battle.
+• Common dungeon mob encountered in levels 1-4, dropping materials like [[Scatterer Hemolymph]].
+• Can be killed by stomps or stunned by [[Magic Missile]].
+• Named bug-type minions ejected by [[The Hoarder]], appearing as level two variants, and attack [[Carl]] and [[Donut]] during the boss battle.

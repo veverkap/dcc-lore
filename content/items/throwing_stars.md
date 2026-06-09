@@ -3,19 +3,9 @@ title: "Throwing Stars"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Throwing Stars
 
-title: "Throwing Stars"
-type: Item
-tags: [dcc-lore-graph]
----
-# Throwing Stars
-Ranged weapons mentioned as a common choice for Razor Foxes; referenced visually via bandoliers on the ninja-suited creatures encountered in the [[Team Roundabout]].
+# throwing_stars
 
-## Additional Observations
-title: "Throwing Stars"
-type: Item
-tags: [dcc-lore-graph]
----
-# Throwing Stars
-Ranged weapon proficiency commonly chosen by the Razor Fox ninjas (and referenced as a trained ranged weapon in the chapter); mentioned as a typical equipment choice for the species.
+• Ranged weapons, specifically throwing stars, are a common choice for Razor Foxes.
+• Throwing stars are referenced visually on the ninja-suited Razor Foxes in the [[Team Roundabout]].
+• Razor Fox ninjas often choose ranged weapon proficiency, including throwing stars, as a trained skill.

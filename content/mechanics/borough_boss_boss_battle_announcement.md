@@ -3,11 +3,8 @@ title: "Borough Boss Boss Battle Announcement"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Borough Boss Boss Battle Announcement
 
-title: "Borough Boss Boss Battle Announcement"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Borough Boss Boss Battle Announcement
-The in-game system message that triggers the timed boss encounter: "B-B-B-Boss Battle! ... You have discovered the lair of a Borough Boss!" It sets the timed knock-out fight rules and initiates the special music, timer, and restrictions for the [[Denise]] encounter.
+# borough_boss_boss_battle_announcement
+
+• The in-game system message that triggers the timed boss encounter is "B-BOSS Battle! ... You have discovered the lair of a Borough Boss!"
+• This message sets the timed knock-out fight rules and initiates the special music, timer, and restrictions for the [[Denise]] encounter.

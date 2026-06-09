@@ -3,11 +3,9 @@ title: "Shango"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Shango
 
-# Shango
-Orisha whose [[Shrine of Shango]] is present in the thorn room. Repairing it teaches a level-15 [[Lightning]] spell and allows training it to level 20; Shango will ascend if restored.
+# shango
 
-## Additional Observations
-# Shango
-An Orisha whose shrine, if repaired, grants a level-15 [[Lightning]] spell with trainable progression to level 20. Described as shy and will ascend if fixed.
+• Orisha whose shrine, if repaired, grants a level-15 [[Lightning]] spell with trainable progression to level 20.
+• Shrine is present in the thorn room and teaches a level-15 [[Lightning]] spell and allows training it to level 20.
+• Shango is described as shy and will ascend if the shrine is fixed.

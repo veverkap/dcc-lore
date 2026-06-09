@@ -3,11 +3,7 @@ title: "Di-Wi. Memory Golem"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Di-Wi. Memory Golem
 
-# Di-Wi. Memory Golem
-A three-headed nodling ogre memory construct summoned from [[Signet]]'s tattoos; a temporary warrior that attacks in the ballroom.
+# di-wi_memory_golem
 
-## Additional Observations
-# Di-Wi. Memory Golem
-A three-headed nodling ogre (memory-golem) manifested from reanimated tattoos; struck the ground and attacked during [[Imogen]]’s tattoo-based assaults.
+• A three-headed [[nodling]] ogre memory construct summoned from [[Signet]]'s tattoos, or manifested from reanimated tattoos, that attacks in the ballroom or during [[Imogen]]'s tattoo-based assaults.

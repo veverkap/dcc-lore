@@ -3,7 +3,7 @@ title: "Sluggalo"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Sluggalo
 
-# Sluggalo
-Aggressive slug-like NPC creatures used tactically by crawlers (e.g., being tossed at demons). Mentioned as attacking demons and being energetic; part of local combat dynamics and diversion tactics.
+# sluggalo
+
+• Sluggalo: aggressive, slug-like NPC creatures used by [[crawlers]], often tossed at [[demons]], and known for attacking [[demons]] and being energetic.

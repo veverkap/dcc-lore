@@ -3,11 +3,12 @@ title: "Shrine of Asojano"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Shrine of Asojano
 
-title: "Shrine of Asojano"
-type: Location
-tags: [dcc-lore-graph]
----
-# Shrine of Asojano
-The shrine of the Lord of Smallpox. Restoring it completes the thorn-room quest and returns ghommids to normal, but [[Asojano]] will not ascend; leaving it unrepaired forces a boss fight to kill him and cure the ghommids.
+# shrine_of_asojano
+
+• The Shrine of Asojano is a location.
+• It is the shrine of the Lord of Smallpox.
+• Restoring it completes the thorn-room quest and returns ghommids to normal.
+• However, Asojano will not ascend if the shrine is restored.
+• Leaving the shrine unrepaired forces a boss fight to kill Asojano and cure the ghommids.
+• [[Asojano]]

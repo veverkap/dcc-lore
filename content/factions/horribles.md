@@ -3,11 +3,9 @@ title: "Horribles"
 type: Faction
 tags: [dcc-lore-graph]
 ---
-# Horribles
 
-title: "Horribles"
-type: Faction
-tags: [dcc-lore-graph]
----
-# Horribles
-The masked crowd/spectators present in the arena (the "horribles") who watch the battle and later vanish; they wear distinctive [[Horribles mask]] items.
+# horribles
+
+• The Horribles are a faction in the DCC Lore Graph.
+• They are a masked crowd/spectators who watch battles in the arena and later vanish.
+• They wear distinctive [[Horribles mask]] items.

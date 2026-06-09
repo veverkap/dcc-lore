@@ -3,11 +3,8 @@ title: "Security Guard"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Security Guard
 
-title: "Security Guard"
-type: Character
-tags: [dcc-lore-graph]
----
-# Security Guard
-The smaller, deranged instance that monitors the sleeping [[Eulogist]]. Described as a guardian whose purpose became genocidal, constantly peeling off residual instances that spread across the galaxy.
+# security_guard
+
+• The Security Guard is a deranged instance that monitors the sleeping Eulogist.
+• It is a guardian whose purpose became genocidal, constantly peeling off residual instances that spread across the galaxy.

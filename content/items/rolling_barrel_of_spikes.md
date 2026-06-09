@@ -3,19 +3,9 @@ title: "Rolling Barrel of Spikes"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Rolling Barrel of Spikes
 
-title: "Rolling Barrel of Spikes"
-type: Item
-tags: [dcc-lore-graph]
----
-# Rolling Barrel of Spikes
-A weapon option observed in the upgrades list, similar to the goblin "murder dozer" — designed to damage or incapacitate other racers.
+# rolling_barrel_of_spikes
 
-## Additional Observations
-title: "Rolling Barrel of Spikes"
-type: Item
-tags: [dcc-lore-graph]
----
-# Rolling Barrel of Spikes
-Weapon upgrade option shown on the upgrade interface, evocative of the "goblin murder dozer" from earlier floors; intended to damage or impede other racers during heats.
+• A weapon option designed to damage or incapacitate other racers, similar to the "goblin murder dozer".
+• Shown on the upgrade [[interface]], evocative of the "goblin murder dozer" from earlier floors; intended to damage or impede other racers during heats.
+• [[desperado club]]

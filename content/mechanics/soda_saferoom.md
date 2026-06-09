@@ -3,19 +3,8 @@ title: "Soda (saferoom)"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Soda (saferoom)
 
-title: "Soda (saferoom)"
-type: Location
-tags: [dcc-lore-graph]
----
-# [[Soda (saferoom)]]
-The saferoom at [[Station 59]] that manifests as a Costa Rican restaurant named "Soda"; used by the party to open boxes and rest.
+# soda_saferoom
 
-## Additional Observations
-title: "Soda saferoom"
-type: Location
-tags: [dcc-lore-graph]
----
-# Soda saferoom
-The saferoom at [[Station 59]] depicted as a Costa Rican restaurant called "Soda," where the party opens boxes, showers, and watches the recap show.
+• The [[saferoom]] at [[Station 59]] manifests as a Costa Rican [[restaurant]] named "Soda", used for opening boxes and resting.
+• The [[saferoom]] is depicted as a Costa Rican [[restaurant]] called "Soda", where the party opens boxes, showers, and watches the recap show.

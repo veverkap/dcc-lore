@@ -3,7 +3,7 @@ title: "Splatter Penguin"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Splatter Penguin
 
-# [[Splatter Penguin]]
-Level-40 penguin mobs encountered in the water-park section that act as water mages and assail racers alongside the gingers.
+# splatter_penguin
+
+• [[Splatter Penguin]]: Level-40 penguin mobs that act as water mages and assail racers in the water-park section alongside [[gingers]].

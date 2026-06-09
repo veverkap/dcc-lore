@@ -3,19 +3,8 @@ title: "Penitence"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Penitence
 
-title: "Penitence"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# [[Penitence]]
-Divine/system status effect applied after killing an [[Emberus]] worshipper that increases tithing requirements and places the player under probation.
+# penitence
 
-## Additional Observations
-title: "Penitence"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Penitence
-System/status mechanic imposed by the god [[Emberus]] when worshipers are killed; places actors in a time-limited penalty state (e.g., fifteen hours) that increases tithing requirements and tracks potential escalation to a [[Smite]] if further violations occur.
+• Divine/ system status effect applied after killing an [[Emberus]] worshipper, increasing tithing requirements and placing the player under probation.
+• Imposed by [[Emberus]] when worshipers are killed, placing actors in a time-limited penalty state (e.g., 15 hours) that increases tithing requirements and tracks potential escalation to a [[Smite]] if further violations occur.

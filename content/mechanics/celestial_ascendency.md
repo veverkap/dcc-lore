@@ -3,27 +3,9 @@ title: "Celestial Ascendency"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Celestial Ascendency
 
-title: "Celestial Ascendency"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Celestial Ascendency
-A high-level dungeon event/achievement referenced as the goal Odette will attempt upon sponsoring [[Nekhebit]]. Treated as a formal contest or ascension mechanic within the crawl.
+# celestial_ascendency
 
-## Additional Observations
-title: "Celestial Ascendency"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Celestial Ascendency
-A named dungeon event/challenge referenced as the objective [[Odette]] will attempt after sponsoring [[Nekhebit]]. Presented as a major contest or ascension mechanic within the floor's ruleset.
-
-## Additional Observations
-title: "Celestial Ascendency"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Celestial Ascendency
-A high-level competitive mechanic/contest in which winners can gain seats at the Syndicate crawl council. The [[nebulars]] aggressively pursues this prize as a pathway to influence over crawl governance.
+• A high-level [[dungeon]] event/achievement where Odette will attempt to ascend after sponsoring Nekhebit.
+• A named [[dungeon]] event/challenge presented as a major contest or ascension mechanic within the floor's ruleset.
+• A competitive mechanic/contest where winners can gain seats at the Syndicate crawl council, pursued aggressively by the Nebulars as a pathway to influence over crawl governance.

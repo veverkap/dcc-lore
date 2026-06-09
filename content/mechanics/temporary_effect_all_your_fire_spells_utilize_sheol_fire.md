@@ -3,11 +3,7 @@ title: "Temporary effect: All Your Fire Spells Utilize Sheol Fire"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Temporary effect: All Your Fire Spells Utilize Sheol Fire
 
-title: "Temporary effect: All Your Fire Spells Utilize Sheol Fire"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# [[Temporary effect: All Your Fire Spells Utilize Sheol Fire]]
-A time-limited system buff applied when [[Amayon]] appears, changing the behavior or type of fire spells to "Sheol Fire" for affected players.
+# temporary_effect_all_your_fire_spells_utilize_sheol_fire
+
+• All Your Fire Spells Utilize Sheol Fire

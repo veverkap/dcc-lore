@@ -3,35 +3,10 @@ title: "Monk Seals"
 type: Faction
 tags: [dcc-lore-graph]
 ---
-# Monk Seals
 
-title: "Monk Seals"
-type: Faction
-tags: [dcc-lore-graph]
----
-# [[Monk Seals]]
-The collective faction/species of the monk-seal mobs on the island. Portrayed as a religious, martial group (trained in "Caribbean Kung Fu") that defends coastal waters and fights seasonal conflicts with the [[Red Maníseros Land Crabs]].
+# monk_seals
 
-## Additional Observations
-title: "Monk Seals"
-type: Faction
-tags: [dcc-lore-graph]
----
-# [[Monk Seals]]
-Opposing martial group described as Caribbean Kung Fu masters and the crabs' sworn enemies in the island conflict.
-
-## Additional Observations
-title: "Monk Seals"
-type: Faction
-tags: [dcc-lore-graph]
----
-# Monk Seals
-One of the two combatant species in the local conflict (the Chowder War); described as singing and suffering heavy losses on the beach near the shore.
-
-## Additional Observations
-title: "Monk Seals"
-type: Faction
-tags: [dcc-lore-graph]
----
-# Monk Seals
-The opposing faction to the [[land crabs]] in the [[Chowder War]]; described as kung-fu masters with Caribbean-style martial arts and the primary targets of the crabs' migration and offensive strategy.
+• The Monk Seals are a faction/species of martial-trained mobs on the island, defending coastal waters and fighting seasonal conflicts with the [[Red Maníseros Land Crabs]].
+• They are portrayed as Caribbean Kung Fu masters and sworn enemies of the crabs in the island conflict.
+• One of the two combatant species in the local conflict (the Chowder War), they are described as singing and suffering heavy losses on the beach near the shore.
+• They are the opposing faction to the [[land crabs]] in the [[Chowder War]], using Caribbean-style martial arts as their primary tactic.

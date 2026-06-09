@@ -3,19 +3,10 @@ title: "Backstage"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Backstage
 
-title: "Backstage"
-type: Location
-tags: [dcc-lore-graph]
----
-# Backstage
-The offstage area where performers like [[Britney]] and members of the supporting cast prepare and where some of [[dungeon crawler carl]]'s instructions are directed.
+# backstage
 
-## Additional Observations
-title: "Backstage"
-type: Location
-tags: [dcc-lore-graph]
----
-# Backstage
-The area behind the [[Stage]] where performers (e.g., [[Donut]], [[Britney]], [[Tina]]) gather and where the team stages elements of the talent-show escape plan.
+• The offstage area where performers prepare, including  [[Britney]] and members of the supporting cast.
+• Some of  [[dungeon [[crawler]] carl]]'s instructions are directed here.
+• The area behind the  [[Stage]] where performers gather, including  [[Donut]],  [[Britney]], and  [[Tina]].
+• The team stages elements of the talent-show escape plan here.

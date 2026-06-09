@@ -3,11 +3,8 @@ title: "Der Kornwolf"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Der Kornwolf
 
-# Der Kornwolf
-One of two level-100 ethereal wolves summoned by an opposing deck during the deck-vs-deck practice fight. Aggressive totem that attacks summoners and totems on the [[Verdant hills]].
+# der_kornwolf
 
-## Additional Observations
-# Der Kornwolf
-A level-100 spectral wolf totem summoned by [[Der Schachmeister]] during the deck-vs-deck practice; was instantly killed by [[raul the crab]]'s [[Bris]] in the fight.
+• One of two level-100 ethereal wolves summoned by [[an]] opposing deck during the deck-vs-deck practice fight, attacking summoners and totems on the [[Verdant hills]].
+• A level-100 spectral wolf totem summoned by [[Der Schachmeister]] during the deck-vs-deck practice, killed by [[raul the crab]]'s [[Bris]].

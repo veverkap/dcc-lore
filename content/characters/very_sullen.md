@@ -3,59 +3,18 @@ title: "Very Sullen"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Very Sullen
 
-# Very Sullen
-A newly added rock-creature bodyguard for Katia and Carl's team, described as a cretinous but stalwart protector.
+# very_sullen
 
-## Additional Observations
-# Very Sullen
-A thinner-faced rock monster mercenary with small, emotionless eyes. Assigned as Katia's guard from the collateral mercenary group.
-
-## Additional Observations
-# Very Sullen
-Named companion who exits the safe room with [[Katia]], [[Chris]], and [[Clay-ton]] to take the caravan.
-
-## Additional Observations
-# Very Sullen
-Companion who accompanies [[Katia]] and is present in the saferoom with the core group.
-
-## Additional Observations
-# [[Very Sullen]]
-Another named minion referenced as an example of switching minion ownership away from the party, used to illustrate how a clockwork conversion might work.
-
-## Additional Observations
-# Very Sullen
-Another attendant in the props cart; presented as one of the non-crawler cretins helping with costumes and supplies.
-
-## Additional Observations
-# Very Sullen
-The other cretin working the stage with [[Clay-ton]] who helps reveal the velociraptor line and stage props during the performance.
-
-## Additional Observations
-# Very Sullen
-Another cretin in [[dungeon crawler carl]]'s Personal Guard referenced among the small platoon that accompanies the narrator.
-
-## Additional Observations
-# [[Very Sullen]]
-A rock creature hired as an additional bodyguard after Katia acquired the Desperado Pass; described as surly.
-
-## Additional Observations
-# [[Very Sullen]]
-A thinner-faced rock monster mercenary with tiny emotionless eyes assigned as Katia’s bodyguard; one of the four collateral mercenaries and recommended to take on adventures where permitted.
-
-## Additional Observations
-# Very Sullen
-A named party member described as part of the group leaving the safe room with [[Katia]] and others.
-
-## Additional Observations
-# Very Sullen
-A team member accompanied by [[Katia]] and involved in the group's saferoom gathering.
-
-## Additional Observations
-# [[Very Sullen]]
-Another example minion used as precedent for ownership-transfer tricks within the party system, mentioned alongside [[Clay-ton]].
-
-## Additional Observations
-# [[Very Sullen]]
-Partner to [[Clay-ton]] holding the stage backdrop poles; a named cretin assisting with the performance staging.
+• A cretinous but [[stalwart]] protector and rock-creature bodyguard for [[Katia]] and [[Carl]]'s team.
+• A thinner-faced rock monster mercenary with small, emotionless eyes, assigned as [[Katia]]'s guard from a collateral mercenary group.
+• A named companion who exits the safe room with [[Katia]], [[Chris]], and Clayton to take the caravan.
+• A companion who accompanies [[Katia]] and is present in the saferoom with the core group.
+• A named minion referenced as [[an]] example of switching minion ownership away from the party, used to illustrate how a clockwork conversion might work.
+• [[An]] attendant in the props cart, presented as one of the non-crawler [[cretins]] helping with costumes and supplies.
+• A cretin working the stage with Clayton, who helps reveal the velociraptor line and stage props during the performance.
+• A rock creature hired as [[an]] additional bodyguard after [[Katia]] acquired the Desperado Pass, described as surly.
+• A thinner-faced rock monster mercenary with tiny emotionless eyes, assigned as [[Katia]]'s bodyguard, one of the four collateral [[mercenaries]] and recommended to take on adventures where permitted.
+• A named party member described as part of the group leaving the safe room with [[Katia]] and others.
+• A team member accompanied by [[Katia]] and involved in the group's saferoom gathering.
+• A partner to Clayton holding the stage backdrop poles, a named cretin assisting with the performance staging.

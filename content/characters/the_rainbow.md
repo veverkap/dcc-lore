@@ -3,7 +3,7 @@ title: "The Rainbow"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# The Rainbow
 
-# The Rainbow
-Distinct, capitalized presence shining out of the pile of witnesses and acting as a light source that affects gods' behavior; notable enough that gods like [[Harpocrates]] react fearfully to it.
+# the_rainbow
+
+• The Rainbow: a distinct, capitalized presence that shines out of the pile of witnesses, affecting gods' behavior, and notable enough to elicit fear from gods like [[Harpocrates]].

@@ -3,19 +3,9 @@ title: "Massage coupon"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Massage coupon
 
-title: "Massage coupon"
-type: Item
-tags: [dcc-lore-graph]
----
-# Massage coupon
-A redeemable fan-box prize granting a one-hour massage for the holder plus one companion at either the [[Penis Parade]] or the [[penis parade]], including optional aromatherapy and chemical peel. Social/vanity consumable item.
+# massage_coupon
 
-## Additional Observations
-title: "Massage coupon"
-type: Item
-tags: [dcc-lore-graph]
----
-# [[Massage coupon]]
-A consumable coupon prize granting a one-hour massage for the holder plus one companion at either the [[Penis Parade]] or the [[penis parade]] in the [[desperado club]].
+• A redeemable fan-box prize granting a one-hour massage for the holder plus one companion at either the [[Penis Parade]] or the [[penis parade]], including optional aromatherapy and chemical peel.
+• Social/vanity consumable item.
+• Consumable [[coupon]] prize granting a one-hour massage for the holder plus one companion at either the [[Penis Parade]] or the [[penis parade]] in the [[desperado club]].

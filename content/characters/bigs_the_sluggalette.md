@@ -3,11 +3,8 @@ title: "Bigs the sluggalette"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Bigs the sluggalette
 
-# Bigs the sluggalette
-A slug combatant who appears mounted on [[Gonk]] and immediately charges into the woods shouting for combat; she previously killed [[Vinata]].
+# bigs_the_sluggalette
 
-## Additional Observations
-# Bigs the sluggalette
-A slug-like party member (referred to as Bigs) who confronts [[Mordecai]] verbally and reports frightening prophecies he received. Physically present in the safe room during the incident.
+• A slug combatant, [[Bigs]] the sluggalette, appears mounted on [[Gonk]] and charges into combat, having previously killed [[Vinata]].
+• [[Bigs]], a slug-like party member, confronts [[Mordecai]] verbally, reporting frightening prophecies he received, and is physically present in the safe room during the incident.

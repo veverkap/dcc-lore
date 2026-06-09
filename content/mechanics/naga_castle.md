@@ -3,27 +3,12 @@ title: "Naga castle"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Naga castle
 
-title: "Naga castle"
-type: Location
-tags: [dcc-lore-graph]
----
-# Naga castle
-The heavily defended enemy headquarters built on rocky ground near [[Shanty Town]] and historically the first structure to fall in invasions, though its leader (the Sultana) has never been captured.
+# naga_castle
 
-## Additional Observations
-title: "Naga Castle"
-type: Location
-tags: [dcc-lore-graph]
----
-# [[Naga Castle]]
-Target location for an infiltration and assault plan discussed by [[dungeon crawler carl]] and allies; central to the subterfuge and offensive strategy.
-
-## Additional Observations
-title: "Naga Castle"
-type: Location
-tags: [dcc-lore-graph]
----
-# Naga Castle
-The primary target stronghold of the operation—referred to as the [[Naga Castle]] where the Sultana/Vinata resides and where defenses are reportedly light because most soldiers are dead.
+• The Naga Castle is a heavily defended enemy [[headquarters]] built on rocky ground near [[Shanty Town]].
+• It has never been captured, despite being the first structure to fall in invasions.
+• The Sultana, its leader, has never been captured.
+• The castle is a [[target]] location for an infiltration and assault plan discussed by [[dungeon [[crawler]] carl]] and allies.
+• The castle is central to the subterfuge and offensive strategy.
+• The primary [[target]] [[stronghold]] of the operation is the Naga Castle, where the Sultana/Vinata resides and where defenses are reportedly light because most soldiers are dead.

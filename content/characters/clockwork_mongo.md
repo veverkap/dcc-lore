@@ -3,35 +3,14 @@ title: "Clockwork Mongo"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Clockwork Mongo
 
-# [[Clockwork Mongo]]
-Robot duplicates of [[Mongo]] created by the [[Clockwork Triplicate]] spell; used as test mounts and expendable probes on the tracks, one explodes when contacting the third rail.
+# clockwork_mongo
 
-## Additional Observations
-# Clockwork Mongo
-Small clockwork dinosaur automatons summoned by [[Donut]] (and later duplicated) used for scouting and attacking mobs; expendable and capable of exploding when destroyed.
-
-## Additional Observations
-# Clockwork Mongo
-Clockwork combat constructs summoned by Donut (via [[Clockwork Triplicate]]) that bite, claw, and tear through the empress's shields and dress. They inflict the crucial damage and expose the empress's true form and vulnerabilities.
-
-## Additional Observations
-# Clockwork Mongo
-A clockwork variant of [[Mongo]] seen in the scene, active in close combat and chewing at mobs on the platform.
-
-## Additional Observations
-# Clockwork Mongo
-Automaton creatures deployed by Donut; function as sacrificial fighting helpers and can explode when destroyed. Distinct from the named companion [[Mongo]].
-
-## Additional Observations
-# Clockwork Mongo
-Small clockwork constructs (referred to as mongos) used as distractions; several are thrown down the stairs and are shredded by the ooze. Represent minor clockwork mobs in the encounter.
-
-## Additional Observations
-# Clockwork Mongo
-Mechanical monkey mobs seen in the treetops and used in the fight; referred to in plural as "clockwork Mongos" and assist during the encounter with [[Sierra - Northropi Vampire]].
-
-## Additional Observations
-# [[Clockwork Mongo]]
-Clockwork copies of [[Mongo]] summoned during combat (two clockwork Mongos). Act as autonomous totems/automata in the battlefield and can be destroyed.
+• [[Clockwork Mongo]]: robot duplicates created by [[Clockwork Triplicate]] spell, used as test mounts and expendable probes; can explode when contacting the third rail.
+• Small clockwork dinosaur [[automatons]] summoned by [[Donut]], used for scouting and attacking mobs; can explode when destroyed.
+• Clockwork combat constructs summoned by [[Donut]] (via [[Clockwork Triplicate]]), bite, claw, and tear through the empress's shields and dress, exposing her true form and vulnerabilities.
+• A clockwork variant of [[Mongo]] seen in close combat, chewing at mobs on the platform.
+• Automaton creatures deployed by [[Donut]], function as sacrificial fighting helpers and can explode when destroyed; distinct from the named companion [[Mongo]].
+• Small clockwork constructs (referred to as [[mongos]]) used as distractions, thrown down the stairs and shredded by the ooze; represent minor clockwork mobs in the encounter.
+• Mechanical monkey mobs seen in the treetops, referred to in plural as "clockwork [[Mongos]]", assist during the encounter with [[Sierra - Northropi Vampire]].
+• Clockwork copies of [[Mongo]] summoned during combat (two clockwork [[Mongos]]), act as autonomous totems/automata in the battlefield and can be destroyed.

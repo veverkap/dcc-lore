@@ -3,11 +3,8 @@ title: "Quadruped weapon mount"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Quadruped weapon mount
 
-title: "Quadruped weapon mount"
-type: Item
-tags: [dcc-lore-graph]
----
-# Quadruped weapon mount
-A device received from a benefactor box (Apothecary) that allows mounting of multiple ranged weapons (e.g., the large crossbow on [[Donut]]'s back); described as a non-magical bandolier accessory.
+# quadruped_weapon_mount
+
+• A device that allows mounting of multiple ranged weapons, received from a benefactor box (Apothecary), described as a non-magical [[bandolier]] accessory.
+• Allows mounting of ranged weapons, such as the large [[crossbow]] on [[Donut]]'s back.

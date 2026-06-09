@@ -3,51 +3,12 @@ title: "Cosmic Lounge"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Cosmic Lounge
 
-title: "Cosmic Lounge"
-type: Location
-tags: [dcc-lore-graph]
----
-# Cosmic Lounge
-The [[Cosmic Lounge]] is a special, access-controlled room in the [[desperado club]] with different entry rules than the general bar; it requires specific conditions for entry.
+# cosmic_lounge
 
-## Additional Observations
-title: "Cosmic Lounge"
-type: Location
-tags: [dcc-lore-graph]
----
-# [[Cosmic Lounge]]
-Area inside the [[desperado club]] used by players for certain transfers (e.g., jumping to the 18th floor) but restricted for warlords and team-associated players.
-
-## Additional Observations
-title: "Cosmic Lounge"
-type: Location
-tags: [dcc-lore-graph]
----
-# Cosmic Lounge
-A basement area of the [[desperado club]] mentioned as heavily trafficked and therefore an unlikely secure hideout for the sultana.
-
-## Additional Observations
-title: "Cosmic Lounge"
-type: Location
-tags: [dcc-lore-graph]
----
-# Cosmic Lounge
-A location that allows certain outworlders to return to the [[eighteenth floor]]; the harem survivors used this route to escape [[Li Na]]'s reach.
-
-## Additional Observations
-title: "Cosmic Lounge"
-type: Location
-tags: [dcc-lore-graph]
----
-# Cosmic Lounge
-A specific, higher-end area within the [[desperado club]] with its own access rules distinct from the top-floor entry rules; mentioned in the context of different entry requirements tied to blood bars and membership.
-
-## Additional Observations
-title: "Cosmic Lounge"
-type: Location
-tags: [dcc-lore-graph]
----
-# [[Cosmic Lounge]]
-Sub-location inside the [[Desperado Club]] where non-warlord players can transfer directly to the 18th floor during the ceasefire window.
+• The [[Cosmic Lounge]] is a special room in the [[desperado club]] with different entry rules than the general [[bar]], requiring specific conditions for entry.
+• The area is used by players for certain transfers, such as jumping to the 18th floor, but is restricted for warlords and team-associate players.
+• The [[Cosmic Lounge]] is a [[basement]] area of the [[desperado club]] that is heavily trafficked and unlikely to be a secure hideout for the sultana.
+• The location allows certain outworlders to return to the 18th floor, and was used by harem survivors to escape [[Li Na]]'s reach.
+• The [[Cosmic Lounge]] is a higher-end area within the [[desperado club]] with its own access rules distinct from the top-floor entry rules, tied to blood bars and membership.
+• Non-warlord players can transfer directly to the 18th floor during the [[ceasefire]] window from the [[Cosmic Lounge]] sub-location inside the [[Desperado Club]].

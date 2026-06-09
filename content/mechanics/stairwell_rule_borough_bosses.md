@@ -3,11 +3,7 @@ title: "Stairwell rule (borough bosses)"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Stairwell rule (borough bosses)
 
-title: "Stairwell rule (borough bosses)"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Stairwell rule (borough bosses)
-Explicit dungeon rule relayed by [[Mistress Tiatha]]: borough and city bosses will have stairwells for the first four or five levels. Affects navigation strategy and level progression within the [[Round maze]].
+# stairwell_rule_borough_bosses
+
+• [[Stairwell]] rule: borough and city bosses have [[stairwells]] for the first four or five levels, affecting navigation strategy and level progression within the [[Round maze]].

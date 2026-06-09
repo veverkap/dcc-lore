@@ -3,75 +3,20 @@ title: "Sledgie"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Sledgie
 
-# Sledgie
-A crawler who stays at a bar and who provided information about [[Frank]] and the subsequent altercation. Donut claims to have taught Sledgie how to use in-chat features.
+# sledgie
 
-## Additional Observations
-# Sledgie
-A crawler contact in Donut’s chat who provided information about the club incident involving [[Frank]]; also taught Donut some chat techniques.
-
-## Additional Observations
-# Sledgie
-Named bodyguard/presence waiting outside [[orren the liaison]]’s office who will escort [[dungeon crawler carl]] and [[Donut]] away after the meeting. Mentioned in passing as part of the security detail.
-
-## Additional Observations
-# Sledgie
-Sledgie is one of the bouncers/hired security mentioned in passing; a crawler associate who likes gangster movies. Referenced by [[Clarabelle]] and [[Donut]] as part of the group of private security the crawlers once hired.
-
-## Additional Observations
-# Sledgie
-Named cretin rock bodyguard who, with three other cretin rock bodyguards, escorted the party for multiple floors and assisted [[dungeon crawler carl]] and allies during the run.
-
-## Additional Observations
-# [[Sledgie]]
-A named figure referenced in Donut's past conversations (alongside Anaconda); part of social lore rather than dungeon mechanics in this chapter.
-
-## Additional Observations
-# Sledgie
-A hired mercenary previously recruited by [[dungeon crawler carl]] and referenced by [[Donut]] as a positive hire; [[Sledgie]] is used as a benchmark for recruiting new mercenaries.
-
-## Additional Observations
-# [[Sledgie]]
-Also referenced as Sledge/Sledgie; a companion allied with [[Bomo]] and part of the defensive detail assigned to secure the saferoom corridor.
-
-## Additional Observations
-# Sledgie
-A character noted as the best friend of [[Bomo]] and expected to be upset at Bomo's death.
-
-## Additional Observations
-# Sledgie
-A crawler who is in Donut's chat; provided information about Frank's situation and later relayed that the killer left. Mentioned as the contact who messaged Donut.
-
-## Additional Observations
-# Sledgie
-Crawler contact used by [[Donut]] for chat; relays information about the bar fight and identifications of participants, including that [[Chris]] killed [[Frank]] and that the killer has been banned from the club.
-
-## Additional Observations
-# Sledgie
-Named bodyguard mentioned as waiting outside the liaison's office to escort [[dungeon crawler carl]] and [[Donut]] after their dismissal.
-
-## Additional Observations
-# Sledgie
-An NPC/mercenary name shouted by [[Donut]] in excitement about hiring options. Mentioned as a potential hireable combatant if the party expands NPC slots.
-
-## Additional Observations
-# Sledgie
-Mentioned crawler associate who enjoys video games and gangster movies; referenced as one of the private security/crawler acquaintances living it up back at base.
-
-## Additional Observations
-# Sledgie
-A crawler ally who, along with three cretin rock bodyguards, escorted the party for multiple floors and helped secure Signet’s former helpers into the elf castle.
-
-## Additional Observations
-# [[Sledgie]]
-Named individual referenced in [[Donut]]'s anecdotes (mentioned alongside [[Anaconda]]); part of background gossip used as evidence against [[Donut]].
-
-## Additional Observations
-# Sledgie
-A mercenary previously hired by [[dungeon crawler carl]]; mentioned by [[Donut]] as a notable hire.
-
-## Additional Observations
-# Sledgie
-A named NPC referenced as having had an expert touch for grooming; invoked by [[Donut]] in conversation.
+• Sledgie is a crawler who provided information about [[Frank]] and the subsequent altercation, and taught [[Donut]] how to use in-chat features.
+• Sledgie is a named bodyguard/presence waiting outside [[Orren the Liaison]]'s office, who will escort [[Dungeon Crawler Carl]] and [[Donut]] away after the meeting.
+• Sledgie is one of the bouncers/hired security mentioned in passing, a crawler associate who likes gangster movies.
+• Sledgie is a named cretin rock bodyguard who, with three other cretin rock bodyguards, escorted the party for multiple floors and assisted [[Dungeon Crawler Carl]] and allies during the run.
+• Sledgie is a hired mercenary previously recruited by [[Dungeon Crawler Carl]] and referenced by [[Donut]] as a positive hire.
+• Sledgie is a companion allied with [[Bomo]] and part of the defensive detail assigned to secure the saferoom corridor.
+• Sledgie is the best friend of [[Bomo]] and expected to be upset at [[Bomo]]'s death.
+• Sledgie is a crawler who provided information about [[Frank]]'s situation and later relayed that the killer left, and is a contact used by [[Donut]] for chat.
+• Sledgie is a named bodyguard mentioned as waiting outside the liaison's office to escort [[Dungeon Crawler Carl]] and [[Donut]] after their dismissal.
+• Sledgie is a potential hireable combatant if the party expands NPC slots.
+• Sledgie is a crawler associate who enjoys video games and gangster movies, and is mentioned as one of the private security/crawler acquaintances living it up back at base.
+• Sledgie is a crawler ally who, along with three cretin rock bodyguards, escorted the party for multiple floors and helped secure [[Signet]]'s former helpers into the elf castle.
+• Sledgie is a mercenary previously hired by [[Dungeon Crawler Carl]] and mentioned by [[Donut]] as a notable hire.
+• Sledgie is a named NPC referenced as having had [[an]] expert touch for grooming.

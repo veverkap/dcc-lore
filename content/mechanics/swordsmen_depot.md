@@ -3,19 +3,12 @@ title: "Swordsmen depot"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Swordsmen depot
 
-title: "Swordsmen depot"
-type: Location
-tags: [dcc-lore-graph]
----
-# [[Swordsmen depot]]
-The two-level warehouse/warehouse-depot across the street that houses the Swordsmen guardians. The lich [[remex the grand]] is suspected to be hiding in or above this building; site of the chapter's planned assault and demolition.
+# swordsmen_depot
 
-## Additional Observations
-title: "Swordsmen Depot"
-type: Location
-tags: [dcc-lore-graph]
----
-# [[Swordsmen Depot]]
-The square, two-level warehouse/armory in town where the suits of [[Swordsmen]] armor are stored and where [[remex the grand]] is believed to be hiding above the second floor. The primary location of Carl and Donut’s confrontation.
+• The Swordsmen depot is a two-level [[warehouse]]/[[warehouse]]-depot across the street, housing the Swordsmen guardians.
+• The lich Remex the Grand is suspected to be hiding in or above this building.
+• The depot is the site of the chapter's planned assault and demolition.
+• The Swordsmen depot is a square, two-level [[warehouse]]/armory in [[town]] where the suits of Swordsmen armor are stored.
+• Remex the Grand is believed to be hiding above the second floor.
+• This is the primary location of Carl and Donut's confrontation.

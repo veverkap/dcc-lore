@@ -3,11 +3,7 @@ title: "Assassin"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Assassin
 
-title: "Assassin"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Assassin
-An achievement System Announcement triggered when Carl killed a ranking NPC town official. Grants rewards (e.g., the [[Bronze Assassin’s Box]]) and provides in-menu narration of the achievement.
+# assassin
+
+• An achievement system announcement triggered when Carl kills a ranking NPC [[town]] official, granting rewards (e.g., the [[Bronze Assassin's Box]]) and providing in-menu narration of the achievement.

@@ -3,7 +3,7 @@ title: "Maria"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Maria
 
-# Maria
-A character allied with [[Samantha]] who is said to be able to cast the spell that will give [[Samantha]] a physical body.
+# maria
+
+• Maria: a character allied with [[Samantha]] who can cast a spell to give [[Samantha]] a physical body.

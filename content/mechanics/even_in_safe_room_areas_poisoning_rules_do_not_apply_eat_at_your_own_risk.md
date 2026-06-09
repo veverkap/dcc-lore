@@ -3,11 +3,8 @@ title: "Even in safe room areas, poisoning rules do not apply. Eat at your own r
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Even in safe room areas, poisoning rules do not apply. Eat at your own risk.
 
-title: "Even in safe room areas, poisoning rules do not apply. Eat at your own risk."
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Even in safe room areas, poisoning rules do not apply. Eat at your own risk.
-A system rule warning that poisoning mechanics override safe-room immunity in this zone; consumption of food in [[Hungry Eyes Vendor Village]] (and possibly surrounding areas) can cause harmful effects regardless of safe-room status.
+# even_in_safe_room_areas_poisoning_rules_do_not_apply_eat_at_your_own_risk
+
+• Even in safe room areas, poisoning rules do not apply. Eat at your own risk.
+• Poisoning mechanics override safe-room immunity in the [[Hungry Eyes Vendor Village]] and surrounding areas, causing harmful effects when consuming food.

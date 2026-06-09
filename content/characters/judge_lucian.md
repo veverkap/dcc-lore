@@ -3,11 +3,8 @@ title: "Judge Lucian"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Judge Lucian
 
-# Judge Lucian
-Deckmaster and one of the nine heads of the [[Reminiscence Hydra of Malicious Compliance]]; controls cards and totems, including anti-magic/snare plays, and serves as a primary strategic threat in the fight.
+# judge_lucian
 
-## Additional Observations
-# [[Judge Lucian]]
-Deckmaster and leader-head of the Reminiscence Hydra. Controls cards, totems, and anti-magic/utility effects during the battle; responsible for key disruptive plays.
+• Deckmaster and one of the nine heads of the [[Reminiscence Hydra of Malicious Compliance]]; controls cards and totems, including anti-magic/snare plays, and serves as a primary strategic threat in the fight.
+• Controls cards, totems, and anti-magic/utility effects during the battle; responsible for key disruptive plays.

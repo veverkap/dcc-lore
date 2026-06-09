@@ -3,19 +3,8 @@ title: "Heal Pet"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Heal Pet
 
-title: "Heal Pet"
-type: Item
-tags: [dcc-lore-graph]
----
-# [[Heal Pet]]
-Generic pet-healing potion type referenced in inventory; related to the [[Revitalize Pet]] variant and less commonly used now that Donut has [[heal critter scroll]].
+# heal_pet
 
-## Additional Observations
-title: "Heal Pet"
-type: Item
-tags: [dcc-lore-graph]
----
-# Heal Pet
-A healing spell cast by [[Donut]] on [[Mongo]] during the [[Literal Fire Ants]] incident; classified as a spell-type item in the system.
+• [[Heal Pet]]: a generic pet-healing potion type, now less commonly used since Donut has the [[heal critter scroll]].
+• A healing spell cast by [[Donut]] on [[Mongo]] during the [[Literal Fire Ants]] incident, classified as a spell-type item.

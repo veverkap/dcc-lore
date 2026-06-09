@@ -3,19 +3,10 @@ title: "Moxo"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Moxo
 
-# Moxo
-The other gnoll guard escorting the protagonist. [[Moxo]] accompanies [[Frito]], waits during training, and smokes illicit substances while on duty.
+# moxo
 
-## Additional Observations
-# Moxo
-A gnoll guard paired with [[Frito]] who is less formal, makes quips, and briefly leaves a vape pen behind in the studio. Helps escort Carl from the panel.
-
-## Additional Observations
-# Moxo
-A gnoll guard paired with [[Frito]] who escorts [[dungeon crawler carl]], smokes a vape-like substance while on duty, and helps move him between studios.
-
-## Additional Observations
-# Moxo
-The other gnoll guard/mercenary accompanying [[Frito]] who is more flippant in tone (teasing about show business jingles) but ultimately serious when exiting the studio with [[dungeon crawler carl]].
+• Moxo, a gnoll guard, accompanies [[Frito]] and waits during training, smoking illicit substances while on duty.
+• Moxo is a less formal gnoll guard paired with [[Frito]], making quips and briefly leaving a vape pen behind in the studio.
+• Moxo helps escort [[Carl]] from the panel and smokes a vape-like substance while on duty.
+• Moxo is a gnoll guard/mercenary accompanying [[Frito]], who is more flippant in tone but ultimately serious when exiting the studio with [[Carl]].

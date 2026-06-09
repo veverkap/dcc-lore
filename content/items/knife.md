@@ -3,19 +3,9 @@ title: "Knife"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Knife
 
-title: "Knife"
-type: Item
-tags: [dcc-lore-graph]
----
-# [[Knife]]
-Small blade that [[Louis]] held and dropped during the confrontation with [[Ysalte]].
+# knife
 
-## Additional Observations
-title: "knife"
-type: Item
-tags: [dcc-lore-graph]
----
-# [[knife]]
-A small blade the narrator pulls from inventory and hands to [[Signet]]; described as the same knife once used in an attempt to assassinate [[Donut]].
+• Small blade held and dropped by [[Louis]] during a confrontation with [[Ysalte]].
+• Same knife used in an attempt to assassinate [[Donut]].
+• Knife handed to [[Signet]] by the narrator.

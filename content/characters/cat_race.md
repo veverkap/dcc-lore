@@ -3,7 +3,7 @@ title: "Cat Race"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Cat Race
 
-# [[Cat Race]]
-Donut’s chosen racial template (referred to as cat). Grants cat-themed skills and benefits such as Night Vision, Slash Attack, Cat-like Reflexes, and the "9 Lives" benefit that halves damage for the first nine physical attacks per day.
+# cat_race
+
+• [[Cat Race]]: Grants cat- themed skills and benefits, including Night Vision, Slash Attack, Cat-like Reflexes, and "9 Lives" (halves damage for the first nine physical attacks per day).

@@ -3,11 +3,8 @@ title: "Glass Wizard"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Glass Wizard
 
-title: "Glass Wizard"
-type: Character
-tags: [dcc-lore-graph]
----
-# Glass Wizard
-Referenced by the looted item [[Letter from the Glass Wizard]]; an implied figure with correspondence to [[Commandant Kane]] and a presence in the broader plot (name appears on the looted letter).
+# glass_wizard
+
+• The Glass Wizard is a character referenced in the looted item [[Letter from the Glass Wizard]].
+• The Glass Wizard has a connection to [[Commandant Kane]] and is mentioned in the broader plot.

@@ -3,11 +3,7 @@ title: "Achievement: The early bird gets to squirm!"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Achievement: The early bird gets to squirm!
 
-title: "Achievement: The early bird gets to squirm!"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Achievement: The early bird gets to squirm!
-Achievement for going down a set of stairs more than six hours prior to a level's collapse; described as having no reward.
+# achievement_the_early_bird_gets_to_squirm
+
+• Achievement: The early bird gets to squirm! (Mechanic, DCC-lore-graph)

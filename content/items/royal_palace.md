@@ -3,11 +3,8 @@ title: "Royal Palace"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Royal Palace
 
-title: "Royal Palace"
-type: Item
-tags: [dcc-lore-graph]
----
-# Royal Palace
-Guild upgrade/purchase item referenced as an acquisition the party can bring into the guild for shared use and to meet more participants; purchasable via the [[Bopca]].
+# royal_palace
+
+• The Royal Palace is a guild upgrade/purchase item that can be brought into the guild for shared use and to meet more participants.
+• It can be purchased via the [[Bopca]].

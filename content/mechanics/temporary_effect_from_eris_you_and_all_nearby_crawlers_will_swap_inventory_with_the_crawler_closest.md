@@ -3,19 +3,10 @@ title: "Temporary effect from Eris: You and all nearby crawlers will swap invent
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Temporary effect from Eris: You and all nearby crawlers will swap inventory with the crawler closest to you.
 
-title: "Temporary effect from Eris: You and all nearby crawlers will swap inventory with the crawler closest to you."
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# [[Temporary effect from Eris: You and all nearby crawlers will swap inventory with the crawler closest to you.]]
-Explicit temporary system effect triggered by [[Eris]] (a Random Effect). Causes widespread inventory swapping among nearby crawlers in the chapter, generating chaos and forcing hurried item management.
+# temporary_effect_from_eris_you_and_all_nearby_crawlers_will_swap_inventory_with_the_crawler_closest
 
-## Additional Observations
-title: "Temporary effect from Eris: You and all nearby crawlers will swap inventory with the crawler closest to you."
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Temporary effect from Eris: You and all nearby crawlers will swap inventory with the crawler closest to you.
-Explicit system effect caused by [[Eris]] in this chapter that instantaneously swaps inventories among nearby crawlers, triggering chaos in equipment, hotlists, and usable items.
+• You and all nearby crawlers will swap inventory with the [[crawler]] closest to you.
+• Triggered by [[Eris]] (a Random Effect).
+• Causes widespread inventory swapping among nearby crawlers in the chapter.
+• Generates chaos and forces hurried item management.

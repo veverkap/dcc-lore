@@ -3,11 +3,7 @@ title: "Eleventh Floor Three-Hour Time Limit"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Eleventh Floor Three-Hour Time Limit
 
-title: "Eleventh Floor Three-Hour Time Limit"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Eleventh Floor Three-Hour Time Limit
-Specific dungeon constraint referenced by [[Cascadia]] about the eleventh floor: the entire floor will have a hard time limit of three hours for completion.
+# eleventh_floor_three-hour_time_limit
+
+• The eleventh floor has a three-hour time limit for completion.

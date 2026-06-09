@@ -3,31 +3,11 @@ title: "Lika"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Lika
 
-# Lika
-A half-naiad trobairitz character from the play [[Troubadour’s Bounty]]. In the chapter she appears as the subject of Ghazi’s obsession, is depicted by the glass statue/head the party recovers, and is central to Ghazi’s failed summoning.
+# lika
 
-## Additional Observations
-# Lika
-Beloved of the [[Mad Dune Mage]] who remains frozen/banished in another realm; mentioned as motivation for dangerous actions involving the [[Winding Box]] and portals.
-
-## Additional Observations
-# Lika
-A fictional character referenced as the model for the original sex-doll; mentioned by [[Samantha]] when trying to ingratiate herself with [[Signet]].
-
-## Additional Observations
-# Lika
-Referenced as part of a prior storyline connected to [[Samantha]]; referenced in the broadcast background to explain why several crawlers are co-located.
-
-## Additional Observations
-# [[Lika]]
-Half-naiad trobairitz (fictional stage character from the play [[Troubadour’s Bounty]]) whose likeness is found as a glass statue/sex-doll and whose fragmented head is taken as loot ([[Decapitated Glass Head (Lika)]]). Central to [[Ghazi]]'s failed summoning and obsession.
-
-## Additional Observations
-# Lika
-Beloved of the Mad Dune Mage whose fate motivates the mage’s dangerous experiments with the [[Winding Box]] and portals to the Nothing.
-
-## Additional Observations
-# [[Lika]]
-Referenced in the "Lika/Samantha" storyline. Mentioned as part of prior events that influenced current teleportation and charm interactions; connected to [[Samantha]].
+• A half-naiad trobairitz character from the play [[Troubadour’'s Bounty]], central to [[Ghazi]]'s failed summoning and obsession.
+• Beloved of the Mad Dune Mage, whose fate motivates the mage's dangerous experiments with the [[Winding Box]] and portals to the Nothing.
+• Model for the original sex-doll, mentioned by [[Samantha]] when trying to ingratiate herself with [[Signet]].
+• Part of a prior storyline connected to [[Samantha]], referenced in the broadcast background to explain why several [[crawlers]] are co-located.
+• Referenced in the "Lika/[[Samantha]]" storyline, connected to [[Samantha]] and influencing current teleportation and charm interactions.

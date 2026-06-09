@@ -3,7 +3,9 @@ title: "Panford the dreadnaught"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Panford the dreadnaught
 
-# [[Panford the dreadnaught]]
-Adjutant presiding over the small quorum hearing in Queen Imogen’s private kitchen. Displayed floating screens, narrated events about the teleport and the [[Summon Ally]] usage, and adjudicated facts for the gathered warlords and adjutants.
+# panford_the_dreadnaught
+
+• [[Panford]] the dreadnaught, Adjutant, presided over a small quorum hearing in Queen [[Imogen]]'s private kitchen.
+• Displayed floating screens and narrated events about the teleport and [[Summon Ally]] usage.
+• Adjudicated facts for gathered warlords and adjutants.

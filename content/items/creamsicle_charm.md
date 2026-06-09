@@ -3,19 +3,8 @@ title: "Creamsicle Charm"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Creamsicle Charm
 
-title: "Creamsicle Charm"
-type: Item
-tags: [dcc-lore-graph]
----
-# Creamsicle Charm
-[[Creamsicle Charm]] is a consumable drug made from ground fairy wings—psychedelic and escapist (like shrooms) that helps forget worries; less addictive but treated cautiously.
+# creamsicle_charm
 
-## Additional Observations
-title: "Creamsicle Charm"
-type: Item
-tags: [dcc-lore-graph]
----
-# Creamsicle Charm
-[[Creamsicle Charm]] is a drug made from ground fairy wings, producing shroom-like effects and worry-forgetting hallucinations; it’s less addictive but still treated with cures in the scene.
+• [[Creamsicle Charm]] is a consumable drug made from ground fairy wings, producing psychedelic and escapist effects like shrooms, helping to forget worries.
+• It is less addictive but still treated cautiously and with cures in the scene.

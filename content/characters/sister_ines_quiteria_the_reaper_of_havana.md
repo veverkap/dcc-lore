@@ -3,11 +3,9 @@ title: "Sister Ines Quiteria, The Reaper of Havana"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Sister Ines Quiteria, The Reaper of Havana
 
-# [[Sister Ines Quiteria, The Reaper of Havana]]
-A glowing, chanting city boss / nun encountered on the 32nd floor hallway. She is stunned by a [[wand of nighty-night]] and subsequently killed by [[Louis]], an act that provokes a divine-system response.
+# sister_ines_quiteria_the_reaper_of_havana
 
-## Additional Observations
-# [[Sister Ines Quiteria, The Reaper of Havana]]
-A glowing, chanting city boss / vessel encountered on the residential top floors. She is incapacitated by the player using a [[wand of nighty-night]] and then killed by [[Louis]], an action that provokes a celestial response.
+• [[Sister Ines Quiteria, The Reaper of Havana]]: a glowing, chanting city boss/nun encountered on the 32nd floor hallway or residential top floors.
+• Can be stunned by a [[wand of nighty-night]].
+• Can be killed by [[Louis]], which provokes a divine/celestial response.

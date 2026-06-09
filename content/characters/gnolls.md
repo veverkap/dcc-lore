@@ -3,27 +3,12 @@ title: "Gnolls"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Gnolls
 
-# Gnolls
-[[Gnolls]] are one of the intelligent monster groups mentioned as sharing dominance in certain boroughs alongside goblins and [[rat-kin]] on the first floor.
+# gnolls
 
-## Additional Observations
-# Gnolls
-Dog-faced goblin-like mobs shown on the broadcast being cut down by [[Lucia Mar]]. Represent common corridor enemies encountered by crawlers.
-
-## Additional Observations
-# Gnolls
-Savage humanoid mobs that fought ghouls and hobgoblins in Station 75; responsible for many kills and scavenged corpses in the chamber.
-
-## Additional Observations
-# Gnolls
-Humanoid-mob figures briefly manifested in the chamber (appeared with guns) and then vanished due to AI negation of effects; treated as typical dungeon mobs in this scene.
-
-## Additional Observations
-# Gnolls
-A species of hostile mob observed in the enemy trench formations during the battle.
-
-## Additional Observations
-# Gnolls
-Pack/tribal mob species encountered in industrial chambers and bars; responsible for many kills in the station cavern and shown as frequently devouring corpses.
+• Gnolls are one of the intelligent monster groups sharing dominance in certain boroughs alongside goblins and [[rat-kin]] on the first floor.
+• They are [[dog]]-faced goblin-like mobs, common corridor enemies encountered by [[crawlers]], and were shown being cut down by [[Lucia Mar]].
+• They fought [[ghouls]] and [[hobgoblins]] in Station 75, responsible for many kills and scavenged corpses in the chamber.
+• They briefly manifested in the chamber, treated as typical dungeon mobs, and then vanished due to [[AI]] negation of effects.
+• They are a species of hostile mob observed in enemy trench formations during the battle.
+• They are a pack/tribal mob species encountered in industrial chambers and bars, responsible for many kills in the station cavern and frequently devouring corpses.

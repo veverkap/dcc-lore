@@ -3,19 +3,9 @@ title: "Nothing Special Party Companion (Enriched Pet Biscuit)"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Nothing Special Party Companion (Enriched Pet Biscuit)
 
-title: "Nothing Special Party Companion (Enriched Pet Biscuit)"
-type: Item
-tags: [dcc-lore-graph]
----
-# Nothing Special Party Companion (Enriched Pet Biscuit)
-A consumable that, when fed to an animal, grants sapience and automatic party membership with the feeder. It converted a regular pig into [[penelope]].
+# nothing_special_party_companion_enriched_pet_biscuit
 
-## Additional Observations
-title: "Nothing Special Party Companion (Enriched Pet Biscuit)"
-type: Item
-tags: [dcc-lore-graph]
----
-# Nothing Special Party Companion (Enriched Pet Biscuit)
-One of the three Enriched Pet Biscuits from the celestial box. Similar to [[The Paramour]] but under the Party Companion subtree one: it preserves the creature’s existing anatomy (no talk ability) and grants Party Companion-style benefits without the love‑charm effect.
+• Grants sapience and automatic party membership when fed to an animal, converting it into a companion like [[penelope]].
+• One of the three Enriched Pet Biscuits from the celestial box.
+• Preserves the creature's existing anatomy (no talk ability) and grants Party Companion-style benefits without the love-charm effect, similar to [[The Paramour]].

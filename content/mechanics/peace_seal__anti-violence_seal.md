@@ -3,11 +3,7 @@ title: "Peace seal / anti-violence seal"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Peace seal / anti-violence seal
 
-title: "Peace seal / anti-violence seal"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Peace seal / anti-violence seal
-An explicit dungeon rule protecting the goodwill ballrooms: it prevents normal violence, restricts leaving, and ties movement/escape to the status of the seal; breaking it has large consequences and is central to the chapter's stakes.
+# peace_seal__anti-violence_seal
+
+• Peace [[seal]] / anti-violence [[seal]]: an explicit [[dungeon]] rule protecting goodwill ballrooms, preventing normal violence, restricting leaving, and tying movement/escape to the [[seal]]'s status; breaking it has large consequences and is central to the chapter's stakes.

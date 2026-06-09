@@ -3,7 +3,7 @@ title: "Lizard Monster"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Lizard Monster
 
-# [[Lizard Monster]]
-Generic reptilian mob generated inside the pit/abyss, complicating escape and search efforts for exits to stop 436.
+# lizard_monster
+
+• [[Lizard Monster]]: a generic reptilian mob generated inside the pit/abyss, complicating escape and search efforts for exits to stop 436.

@@ -3,19 +3,8 @@ title: "Mist Armor (spell)"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Mist Armor (spell)
 
-title: "Mist Armor (spell)"
-type: Item
-tags: [dcc-lore-graph]
----
-# [[Mist Armor (spell)]]
-A protective spell [[dungeon crawler carl]] prepares during the Fleshers' attack to defend against magical impacts.
+# mist_armor_spell
 
-## Additional Observations
-title: "Mist Armor (spell)"
-type: Item
-tags: [dcc-lore-graph]
----
-# Mist Armor (spell)
-A defensive spell prepared by [[dungeon crawler carl]] during the barrier defense sequence to protect against magical impacts from the other side.
+• A protective spell that  [[dungeon crawler carl]] prepares to defend against magical impacts.
+• Prepared during the Fleshers' attack or the barrier defense sequence.

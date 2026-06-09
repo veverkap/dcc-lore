@@ -3,11 +3,11 @@ title: "War Chief Stalwart of the Bone Clan has fallen (System Message)"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# War Chief Stalwart of the Bone Clan has fallen (System Message)
 
-title: "War Chief Stalwart of the Bone Clan has fallen (System Message)"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# [[War Chief Stalwart of the Bone Clan has fallen (System Message)]]
-A system announcement reporting the death of [[Stalwart]] and awarding credit for the kill to members of the [[war mages]]; functions as an active in-world System Message affecting asset distribution.
+# war_chief_stalwart_of_the_bone_clan_has_fallen_system_message
+
+• War Chief Stalwart of the Bone Clan has fallen.
+• The kill is credited to members of the war mages.
+• [[War Chief Stalwart of the Bone Clan has fallen (System Message)]]
+• [[Stalwart]]
+• [[war mages]]

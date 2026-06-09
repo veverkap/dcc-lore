@@ -3,11 +3,8 @@ title: "Troglodyte Basher"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Troglodyte Basher
 
-# Troglodyte Basher
-A larger, level-three troglodyte variant—about human-sized and called a Basher. Lacks special abilities beyond increased size and strength compared to the pygmies.
+# troglodyte_basher
 
-## Additional Observations
-# Troglodyte Basher
-Support-level troglodyte mobs (level two/three variants) present in the [[Gym]] boss fight. Physically aggressive bashers that Carl focuses on to remove support while [[Donut]] targets the boss.
+• A larger, level-three troglodyte variant, called a Basher, is [[human]]-sized and lacks special abilities beyond increased size and strength.
+• Support-level troglodyte mobs (level two/three variants) appear in the [[Gym]] boss fight, being physically aggressive bashers that [[Carl]] targets to remove support while [[Donut]] targets the boss.

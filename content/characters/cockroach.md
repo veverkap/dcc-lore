@@ -3,7 +3,7 @@ title: "Cockroach"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Cockroach
 
-# Cockroach
-Generic term used for the smaller insect mobs Carl stomps and kills in the garbage heap. Representative of the lower-tier enemies present in the boss chamber and produced by [[The Hoarder]].
+# cockroach
+
+• Generic term used for smaller insect mobs [[Carl]] stomps and kills in the garbage heap, representative of lower-tier enemies in the boss chamber, produced by [[The Hoarder]].

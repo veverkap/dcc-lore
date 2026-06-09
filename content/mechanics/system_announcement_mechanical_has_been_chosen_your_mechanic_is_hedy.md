@@ -3,11 +3,8 @@ title: "System announcement: Mechanical has been chosen. Your Mechanic is Hedy."
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# System announcement: Mechanical has been chosen. Your Mechanic is Hedy.
 
-title: "System announcement: Mechanical has been chosen. Your Mechanic is Hedy."
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# System announcement: Mechanical has been chosen. Your Mechanic is Hedy.
-An in-scene system message confirming Donut's vehicle choice and assigning Hedy as the mechanic. Represents an active system announcement that binds game-state (choice outcome and NPC assignment).
+# system_announcement_mechanical_has_been_chosen_your_mechanic_is_hedy
+
+• Your Mechanic is Hedy.
+• Mechanical has been chosen.

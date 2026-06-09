@@ -3,11 +3,10 @@ title: "Station 48 Province Boss"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Station 48 Province Boss
 
-# [[Station 48 Province Boss]]
-A large province boss located at station 48 that roars audibly from a distance; too dangerous for current parties to tackle in the chapter.
+# station_48_province_boss
 
-## Additional Observations
-# Station 48 Province Boss
-An inferred province-level boss located at [[Station 48]] (described as screaming and too strong for current groups). [[elle mcgib]] and others discourage attacking it; similar mechanics to the large [[station mimics]] are implied.
+• [[Station 48 Province Boss]]: a large province boss located at station 48, roaring audibly from a distance, too dangerous for current parties to tackle in the chapter.
+• Located at [[Station 48]], described as screaming and too strong for current groups.
+• Similar mechanics to the large [[station mimics]] are implied.
+• [[elle mcgib]] and others discourage attacking it.

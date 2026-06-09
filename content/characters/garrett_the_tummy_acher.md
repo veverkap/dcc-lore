@@ -3,14 +3,9 @@ title: "Garrett the Tummy Acher"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Garrett the Tummy Acher
 
-# Garrett the Tummy Acher
-A crawler noted for giggling menacingly and jokingly labeled "Pet Show Champion" in the aftermath; present atop a dog soldier during Carl’s rally.
+# garrett_the_tummy_acher
 
-## Automated Merge Entry (garret_the_tummy_acher)
-# Garret the Tummy Acher
-
-
-# [[garrett the tummy acher]]
-A pet mentioned as not yet adopted by [[dungeon crawler carl]]; referenced by the AI in an achievement context about used pets and adoption.
+• A crawler noted for giggling menacingly and jokingly labeled "Pet Show Champion" in the aftermath; present atop a [[dog]] soldier during [[Carl]]'s rally.
+• Not yet adopted by [[Dungeon Crawler Carl]].
+• Mentioned in [[an]] achievement context about used pets and adoption by the [[AI]].

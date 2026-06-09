@@ -3,27 +3,9 @@ title: "Kobold Fighting Pits"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Kobold Fighting Pits
 
-title: "Kobold Fighting Pits"
-type: Location
-tags: [dcc-lore-graph]
----
-# Kobold Fighting Pits
-The arena where kobold battles were staged. The [[Kobold Fighting Pits]] contain cages along the back wall, a dirt floor stained with blood, and rows of spectator chairs.
+# kobold_fighting_pits
 
-## Additional Observations
-title: "Kobold fighting pits"
-type: Location
-tags: [dcc-lore-graph]
----
-# [[Kobold fighting pits]]
-Referenced comparison location used to describe the barn-style metallic double doors similar to other dungeon boss/arena entrances.
-
-## Additional Observations
-title: "Kobold fighting pits"
-type: Location
-tags: [dcc-lore-graph]
----
-# Kobold fighting pits
-A referenced location used as a comparison for the metallic double doors and entrance style to the warehouse/boss-area at [[Banshee Station 116]].
+• The [[Kobold]] Fighting Pits contain cages along the back wall, a dirt floor stained with blood, and rows of spectator chairs.
+• The location is referenced as a comparison for the barn-style metallic double doors similar to other [[dungeon]] boss/[[arena]] entrances.
+• The [[Kobold]] Fighting Pits are also used as a comparison for the entrance style to the [[warehouse]]/boss-area at [[Banshee Station 116]].

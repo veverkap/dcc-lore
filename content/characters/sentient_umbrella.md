@@ -3,7 +3,7 @@ title: "Sentient Umbrella"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Sentient Umbrella
 
-# [[Sentient Umbrella]]
-Unusual mob shown on the recap that chased crawlers in Tokyo before they were killed by a bus; part of the bizarre set pieces in the show's highlights.
+# sentient_umbrella
+
+• [[Sentient Umbrella]]: Unusual mob that chased [[crawlers]] in Tokyo before being killed by a bus.

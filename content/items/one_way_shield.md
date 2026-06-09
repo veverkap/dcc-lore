@@ -3,19 +3,9 @@ title: "One Way shield"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# One Way shield
 
-title: "One Way shield"
-type: Item
-tags: [dcc-lore-graph]
----
-# One Way shield
-A fan-shaped, tech-resistant shield deployed at the castle entrance that blocks thrown grenades (which can detonate in front of it) but can be damaged by sustained fire. Central to the defensive chokepoint.
+# one_way_shield
 
-## Additional Observations
-title: "One Way shield"
-type: Item
-tags: [dcc-lore-graph]
----
-# [[One Way shield]]
-A defensive shield deployed in the field that can intercept grenades and explosives (the [[hob-lobber]] detonated against one), similar to shields used by the defenders.
+• A fan-shaped, tech-resistant [[shield]] deployed at the castle entrance or in the field that blocks thrown grenades but can be damaged by sustained fire.
+• Can intercept grenades and [[explosives]], similar to shields used by defenders.
+• Central to the defensive chokepoint.

@@ -3,11 +3,9 @@ title: "T'Ghee Flag Summoning Rule"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# T'Ghee Flag Summoning Rule
 
-title: "T'Ghee Flag Summoning Rule"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# T'Ghee Flag Summoning Rule
-Specific rule explaining how planting a [[Squad Flag]] in an entity at <5% health converts it into a [[T'Ghee Totem]] which then becomes a minion of the summoner; covers limits (20 flags), trading, dismissal, and phase-transition persistence.
+# tghee_flag_summoning_rule
+
+• Planting a [[Squad Flag]] in an entity at <5% health converts it into a [[T'Ghee Totem]], which becomes a minion of the summoner.
+• The limit for planting flags is 20.
+• Trading, dismissal, and phase-transition persistence are covered by this rule.

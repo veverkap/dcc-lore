@@ -3,11 +3,9 @@ title: "zarogoth"
 type: Character
 tags: [dcc-lore-graph]
 ---
+
 # zarogoth
 
-# [[zarogoth]]
-A generated mob described as fat, moving shadows leaking oil; identified as being mass-produced by the war mages via a generator/antenna.
-
-## Additional Observations
-# Zarogoth
-A generated mob (also called Sludge Ghouls or Sausage Golems) that attacks in swarms. Described as obese black creatures with a painful ray attack and liquid interiors that must leak past 51% to die. Encountered in the courtyard assault against the [[Semeru]] defenders.
+• A generated mob described as fat, moving shadows leaking oil, mass-produced by war mages via a generator/antenna.
+• Also known as Sludge [[Ghouls]] or [[Sausage]] Golems, attacks in swarms.
+• Obese black creatures with a painful ray attack and liquid interiors that must leak past 51% to die.

@@ -3,11 +3,7 @@ title: "Crawler Batbilge"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Crawler Batbilge
 
-# Crawler Batbilge
-Former contributor to [[The Dungeon Anarchist’s Cookbook]] whose note warns about marketplace valuation of heirloom items; cited in the Cookbook's edition notes.
+# crawler_batbilge
 
-## Additional Observations
-# Crawler Batbilge
-Former crawler credited in an edition note inside [[The Dungeon Anarchist’s Cookbook]]; warns about using the marketplace interface with high-value heirloom items.
+• Former contributor to [[The Dungeon Anarchist’’s Cookbook]] who warns about marketplace valuation of heirloom items; cited in the Cookbook's edition notes.

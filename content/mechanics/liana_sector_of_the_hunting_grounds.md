@@ -3,11 +3,7 @@ title: "Liana Sector of the Hunting Grounds"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Liana Sector of the Hunting Grounds
 
-title: "Liana Sector of the Hunting Grounds"
-type: Location
-tags: [dcc-lore-graph]
----
-# Liana Sector of the Hunting Grounds
-The political/geographical domain ruled by [[High-Elf King Finian]] referenced in [[Tsarina Signet]]’s heritage and backstory.
+# liana_sector_of_the_hunting_grounds
+
+• The Liana Sector of the Hunting Grounds is a political/geographical domain ruled by [[High-Elf King Finian]].

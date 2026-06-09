@@ -3,11 +3,8 @@ title: "Trauco Triplets"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Trauco Triplets
 
-# Trauco Triplets
-A named team referenced as already eliminated (“The Trauco Triplets have been eliminated due to the expiration of their mount.”). [[Trauco Triplets]] function as NPC competitors whose elimination illustrates the [[Expiration of Mount]] rule.
+# trauco_triplets
 
-## Additional Observations
-# [[Trauco Triplets]]
-A named team mentioned at chapter start; they have been eliminated due to the expiration of their mount. Their elimination establishes the stakes and the operation of the [[Mount Expiration]] mechanic in the heat.
+• [[Trauco Triplets]]: a named team eliminated due to the expiration of their mount, illustrating the [[Expiration of Mount]] rule.
+• Mentioned at chapter start, their elimination establishes the stakes and operation of the [[Mount Expiration]] mechanic.
