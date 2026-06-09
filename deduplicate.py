@@ -1,4 +1,3 @@
-import re
 from pathlib import Path
 
 def flatten_and_deduplicate(file_path):

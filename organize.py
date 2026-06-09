@@ -5,9 +5,9 @@ from tqdm import tqdm
 from llama_cpp import Llama
 
 # --- SETUP CONFIGURATION ---
-VAULT_DIR = Path("./content/mechanics")       # Directory where your source md files are
-OUTPUT_DIR = Path("./cleaned/mechanics")    # Directory where cleaned files will go
-BACKUP_DIR = Path("./backup/mechanics")    # Directory to store original files as backup
+VAULT_DIR = Path("./content/items")       # Directory where your source md files are
+OUTPUT_DIR = Path("./cleaned/items")    # Directory where cleaned files will go
+BACKUP_DIR = Path("./backup/items")    # Directory to store original files as backup
 MODEL_PATH = "./models/Meta-Llama-3-8B-Instruct.Q4_K_M.gguf" # Path to your local GGUF
 
 OUTPUT_DIR.mkdir(exist_ok=True)
@@ -68,9 +68,14 @@ def inject_wiki_links(text, objects, current_file_stem):
     return text
 
 # 3. PHASE 2: PROCESSING LOOP
+counter = 0
+total_files = len(list(VAULT_DIR.glob("*.md")))
+
 print(f"Beginning optimization on {len(sorted_objects)} files...")
+
 for file_path in tqdm(VAULT_DIR.glob("*.md"), desc="Processing Files"):
-    print(f"\nProcessing: {file_path.name}")
+    print(f"\nProcessing: {file_path.name} ({counter + 1}/{total_files})")
+    counter += 1
 
     # skip if the cleaned file already exists to avoid redundant work
     if (OUTPUT_DIR / file_path.name).exists():
