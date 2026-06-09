@@ -3,19 +3,9 @@ title: "Orcish Supremacy"
 type: Faction
 tags: [dcc-lore-graph]
 ---
-# Orcish Supremacy
 
-title: "Orcish Supremacy"
-type: Faction
-tags: [dcc-lore-graph]
----
-# Orcish Supremacy
-The larger political/historical entity from which the [[Tuskling]] aristocracy arose. The [[Ball of Swine]] is described as drawn from Tuskling nobility within this world.
+# orcish_supremacy
 
-## Additional Observations
-title: "Orcish Supremacy"
-type: Faction
-tags: [dcc-lore-graph]
----
-# Orcish Supremacy
-Another major orcish political entity contrasted with the [[skull clan]]; ruled by the tusklings and described as different in scale and approach.
+• The  [[Tuskling]]  aristocracy arose from the Orcish Supremacy.
+• The  [[Ball of Swine]] is drawn from [[Tuskling]] nobility within this world.
+• The Orcish Supremacy is a major orcish political entity, distinct from the  [[Skull Clan]] , and is ruled by the Tusklings.

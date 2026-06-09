@@ -3,19 +3,8 @@ title: "Eyber faction"
 type: Faction
 tags: [dcc-lore-graph]
 ---
-# Eyber faction
 
-title: "Eyber faction"
-type: Faction
-tags: [dcc-lore-graph]
----
-# [[Eyber faction]]
-A fan faction mentioned in relation to the art contest and fandom reaction; expected to be upset by the contest’s winner and described as likely to make a scene at the ceremony.
+# eyber_faction
 
-## Additional Observations
-title: "Eyber faction"
-type: Faction
-tags: [dcc-lore-graph]
----
-# Eyber faction
-A fandom/faction closely associated with the recurring winner of the daycare art contest (the kid who drew [[Donut]]). Expected to react angrily to the contest outcome and cause a scene at [[CrawlCon]].
+• A fan faction mentioned in relation to the art contest and fandom reaction, expected to be upset by the contest's winner and described as likely to make a scene at the ceremony.
+• A fandom/faction closely associated with the recurring winner of the daycare art contest (the kid who drew [[Donut]]), expected to react angrily to the contest outcome and cause a scene at [[CrawlCon]].

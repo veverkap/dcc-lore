@@ -3,19 +3,9 @@ title: "Team Quiteria"
 type: Faction
 tags: [dcc-lore-graph]
 ---
-# Team Quiteria
 
-title: "Team Quiteria"
-type: Faction
-tags: [dcc-lore-graph]
----
-# Team Quiteria
-A squad/faction that the protagonist's group allies with during the match. The team later flees the fight, resulting in their loss of a key.
+# team_quiteria
 
-## Additional Observations
-title: "Team Quiteria"
-type: Faction
-tags: [dcc-lore-graph]
----
-# [[Team Quiteria]]
-A combat team/squad alignment chosen by [[dungeon crawler carl]]’s squad during the match. They flee the fight after key loss and are later teleported away.
+• A [[squad]]/faction that the protagonist's group allies with during the match.
+• They later flee the fight, resulting in their loss of a key.
+• They are later teleported away.

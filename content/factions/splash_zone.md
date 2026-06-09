@@ -3,35 +3,10 @@ title: "Splash Zone"
 type: Faction
 tags: [dcc-lore-graph]
 ---
-# Splash Zone
 
-title: "Splash Zone"
-type: Faction
-tags: [dcc-lore-graph]
----
-# [[Splash Zone]]
-A friendly group/team the narrator calls upon to provide ranged support and keep the party protected from flanking demons during the assault.
+# splash_zone
 
-## Additional Observations
-title: "Splash Zone"
-type: Faction
-tags: [dcc-lore-graph]
----
-# [[Splash Zone]]
-A named squad/group relied upon during the alley engagement to provide ranged cover and protect casters like [[Donut]] during their vulnerable casting windows.
-
-## Additional Observations
-title: "Splash Zone"
-type: Faction
-tags: [dcc-lore-graph]
----
-# [[Splash Zone]]
-A mercenary/stripper group referenced as having been in the Desperado Club; some members are now uncontactable and triggered a system warning about being off‑floor.
-
-## Additional Observations
-title: "Splash Zone"
-type: Faction
-tags: [dcc-lore-graph]
----
-# [[Splash Zone]]
-A named group/team referenced as friends of the party; their safety is a concern and they are unaware of certain events (like Dong Quixote’s death).
+• A friendly group/team that provides ranged support and keeps the party protected from flanking demons during the assault.
+• A named [[squad]]/group that provides ranged cover and protects casters like [[Donut]] during their vulnerable casting windows.
+• A mercenary/stripper group that was in the [[Desperado]] Club, with some members being uncontactable and triggering a system warning about being off-floor.
+• A named group/team that are friends of the party, with their safety being a concern and them being unaware of certain events (like Dong Quixote's death).

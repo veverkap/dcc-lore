@@ -3,11 +3,8 @@ title: "Celestial Attendant"
 type: Faction
 tags: [dcc-lore-graph]
 ---
-# Celestial Attendant
 
-title: "Celestial Attendant"
-type: Faction
-tags: [dcc-lore-graph]
----
-# Celestial Attendant
-An adjutant/sponsor role referenced by [[Odette]] and chosen by [[Armita]]; depicted as a prestigious, safer position for released crawlers.
+# celestial_attendant
+
+• An adjutant/sponsor role chosen by [[Armita]] and referenced by [[Odette]].
+• Depicted as a prestigious and safer position for released [[crawlers]].

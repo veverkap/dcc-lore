@@ -3,27 +3,9 @@ title: "The Jugglers"
 type: Faction
 tags: [dcc-lore-graph]
 ---
-# The Jugglers
 
-title: "The Jugglers"
-type: Faction
-tags: [dcc-lore-graph]
----
-# [[The Jugglers]]
-Faction that finished second in Heat One. Their mount [[Old Shuck]] is implicated in killing a Level 90 manatee corpse found en route.
+# the_jugglers
 
-## Additional Observations
-title: "The Jugglers"
-type: Faction
-tags: [dcc-lore-graph]
----
-# The Jugglers
-The team that placed second in "Heat Two" according to the chapter's reported results.
-
-## Additional Observations
-title: "The Jugglers"
-type: Faction
-tags: [dcc-lore-graph]
----
-# [[The Jugglers]]
-Faction/team eliminated during Heat Three after all members were killed; noted in the System elimination messages and removed from the heat standings.
+• Faction that finished second in Heat One, with their mount [[Old Shuck]] implicated in killing a Level 90 manatee corpse.
+• Finished second in Heat Two.
+• Eliminated during Heat Three after all members were killed.

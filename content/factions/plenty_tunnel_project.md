@@ -3,19 +3,8 @@ title: "Plenty Tunnel Project"
 type: Faction
 tags: [dcc-lore-graph]
 ---
-# Plenty Tunnel Project
 
-title: "Plenty Tunnel Project"
-type: Faction
-tags: [dcc-lore-graph]
----
-# [[Plenty Tunnel Project]]
-The engineering project/organization credited with opening the veins of the galaxy; [[Bathin]] is named as one of its chief engineers and it oversees the tunneling infrastructure.
+# plenty_tunnel_project
 
-## Additional Observations
-title: "Plenty Tunnel Project"
-type: Faction
-tags: [dcc-lore-graph]
----
-# Plenty Tunnel Project
-An engineering project associated with [[Gamori]]; tied to control of tunnels and infrastructure the goats claim to manage. Mentioned as the project Gamori led.
+• The [[Plenty]] Tunnel Project is an engineering project/organization credited with opening the veins of the galaxy, with [[Bathin]] as one of its chief engineers, overseeing tunneling infrastructure.
+• The project is also associated with [[Gamori]], who led the project and is tied to control of tunnels and infrastructure claimed to be managed by the goats.

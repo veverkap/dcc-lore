@@ -3,11 +3,9 @@ title: "Saccathians (Sacs)"
 type: Faction
 tags: [dcc-lore-graph]
 ---
-# Saccathians (Sacs)
 
-title: "Saccathians (Sacs)"
-type: Faction
-tags: [dcc-lore-graph]
----
-# Saccathians (Sacs)
-Race/faction of tentacled beings represented on the panel by [[Princess D'nadia]]. Identified as a trading power with civic and diplomatic interests in the [[Syndicate]].
+# saccathians_sacs
+
+• Saccathians (Sacs) are a race/faction of tentacled beings.
+• They are represented on the panel by [[Princess D'nadia]].
+• They are a trading power with civic and diplomatic interests in the [[Syndicate]].
