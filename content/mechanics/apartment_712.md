@@ -3,19 +3,9 @@ title: "Apartment 712"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Apartment 712
 
-title: "Apartment 712"
-type: Location
-tags: [dcc-lore-graph]
----
-# [[Apartment 712]]
-The starting-floor apartment within the [[L'Engle Building]] where teams begin (seventh floor start point).
+# apartment_712
 
-## Additional Observations
-title: "Apartment 712"
-type: Location
-tags: [dcc-lore-graph]
----
-# Apartment 712
-A simulated apartment on the race course representing a predictive what-if scenario (centered on [[Tran]]). Contains sewn-shut-eyed "human shells" like [[Hoa]] and [[An]] and the ring gate leading to the sixth floor.
+• The starting point for teams is [[Apartment]] 712, located on the seventh floor of the [[L'Engle Building]].
+• [[Apartment]] 712 is a simulated [[apartment]] on the race course, representing a predictive what-if scenario centered on [[Tran]].
+• The [[apartment]] contains "human shells" like [[Hoa]] and [[An]] with sewn-shut eyes, and a ring [[gate]] leading to the sixth floor.

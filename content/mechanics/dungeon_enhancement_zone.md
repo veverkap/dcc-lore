@@ -3,11 +3,9 @@ title: "Dungeon Enhancement Zone"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Dungeon Enhancement Zone
 
-title: "Dungeon Enhancement Zone"
-type: Location
-tags: [dcc-lore-graph]
----
-# Dungeon Enhancement Zone
-The fantasy playground where the Ascendency contest takes place; described as granting god-like powers to player-driven deities and central to the AI’s narration about the game’s mechanics.
+# dungeon_enhancement_zone
+
+• The [[Dungeon]] Enhancement Zone is a fantasy playground where the [[Ascendency]] contest takes place.
+• It grants god-like powers to player-driven deities.
+• It is central to the AI's narration about the game's mechanics.

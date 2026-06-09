@@ -3,19 +3,9 @@ title: "Main Ballroom"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Main Ballroom
 
-title: "Main Ballroom"
-type: Location
-tags: [dcc-lore-graph]
----
-# Main Ballroom
-The primary event space for performances and the venue where invited guests will be escorted to during [[The Butcher’s Masquerade]]; separate from the queen’s private chamber.
+# main_ballroom
 
-## Additional Observations
-title: "Main Ballroom"
-type: Location
-tags: [dcc-lore-graph]
----
-# Main Ballroom
-The primary event space for the masquerade’s presentations (pets and talent). Performers will be escorted from the servant areas to this room and performers get access to the backstage anteroom.
+• The Main [[Ballroom]] is the primary event space for performances and presentations during [[The Butcher’'s Masquerade]].
+• It is separate from the queen's private chamber.
+• Performers are escorted from servant areas to this room and have access to a [[backstage]] anteroom.

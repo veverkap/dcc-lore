@@ -3,11 +3,8 @@ title: "Engine Car"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Engine Car
 
-title: "Engine Car"
-type: Location
-tags: [dcc-lore-graph]
----
-# Engine Car
-The front train car where [[dungeon crawler carl]], [[Katia]], [[Donut]], and others hold off attackers, drive the train, and secure [[Hekla]]’s corpse. It contains the driver controls and attached small rooms (mantaur and Engineer’s apartments).
+# engine_car
+
+• The Engine Car is a location where characters like [[dungeon [[crawler]] carl]], [[Katia]], and [[Donut]] hold off attackers, drive the [[train]], and secure [[Hekla]]’s corpse.
+• It contains the driver controls and attached small rooms, including the mantaur and Engineer’s apartments.

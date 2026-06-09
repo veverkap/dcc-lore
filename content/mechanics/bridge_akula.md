@@ -3,27 +3,9 @@ title: "Bridge (Akula)"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Bridge (Akula)
 
-title: "Bridge (Akula)"
-type: Location
-tags: [dcc-lore-graph]
----
-# [[Bridge (Akula)]]
-Fore section of the [[Akula]] (game-called the bridge) near the stairwell and escape tube exits; area with patrols/ghost activity and the source of Quetzalcoatlus's intrusions.
+# bridge_akula
 
-## Additional Observations
-title: "Bridge (Akula)"
-type: Location
-tags: [dcc-lore-graph]
----
-# Bridge (Akula)
-The main room on the [[Akula]] where [[dungeon crawler carl]] and teammates gather, featuring the captain's chair, a large porthole, a mural, and portals to the captain's stateroom and stairwell; site of the corpse looting and the boss encounter.
-
-## Additional Observations
-title: "Bridge (Akula)"
-type: Location
-tags: [dcc-lore-graph]
----
-# Bridge (Akula)
-Control area of the [[Akula]] where the giant display window faced the mouths of [[Lusca]]'s juveniles, where the timer and commentators' floating window were visible, and where the makeshift bomb was planted.
+• Fore section of the [[Akula]] near the [[stairwell]] and escape tube exits, with patrols/ghost activity and Quetzalcoatlus' intrusions.
+• Main room on the [[Akula]] where [[dungeon [[crawler]] carl]] and teammates gather, featuring the captain's chair, a large porthole, a mural, and [[portals]] to the captain's stateroom and [[stairwell]], with corpse looting and a boss encounter.
+• Control area of the [[Akula]] with a giant display window facing the mouths of [[Lusca]]'s juveniles, featuring a timer and commentators' floating window, and where a makeshift bomb was planted.

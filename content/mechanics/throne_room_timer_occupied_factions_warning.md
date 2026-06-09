@@ -3,11 +3,7 @@ title: "Throne Room Timer: occupied factions warning"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Throne Room Timer: occupied factions warning
 
-title: "Throne Room Timer: occupied factions warning"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Throne Room Timer: occupied factions warning
-System warning appearing in-chapter: the capture timer has not started because the room is occupied by multiple factions. This rule affects when the capture objective will begin.
+# throne_room_timer_occupied_factions_warning
+
+• The Throne Room Timer is delayed when the room is occupied by multiple factions, causing the capture objective to start later.

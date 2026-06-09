@@ -3,11 +3,8 @@ title: "Bubble (dome ceiling)"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Bubble (dome ceiling)
 
-title: "Bubble (dome ceiling)"
-type: Location
-tags: [dcc-lore-graph]
----
-# Bubble (dome ceiling)
-The glass-like, ceiling dome over the bowl that holds the flying balloons and floating houses. Carl and Donut ride the [[Nightmare II]] along the ceiling to reach the floating house; the dome is five kilometers above the bowl in this scene.
+# bubble_dome_ceiling
+
+• The glass-ike ceiling dome over the bowl, holding flying balloons and floating houses.
+• Five kilometers above the bowl, as seen in the scene where Carl and Donut ride the [[Nightmare II]] to reach the floating house.

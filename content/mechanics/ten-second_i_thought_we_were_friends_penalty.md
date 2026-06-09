@@ -3,19 +3,9 @@ title: "Ten-second 'I thought we were friends' penalty"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Ten-second 'I thought we were friends' penalty
 
-title: "Ten-second 'I thought we were friends' penalty"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Ten-second 'I thought we were friends' penalty
-A short, explicit dungeon/system penalty applied during combat that temporarily restricts movement/actions (in this scene it prevents the protagonist from moving a leg and delays card actions).
+# ten-second_i_thought_we_were_friends_penalty
 
-## Additional Observations
-title: "Ten-Second 'I thought we were friends' Penalty"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# [[Ten-Second 'I thought we were friends' Penalty]]
-A system-imposed short-duration penalty applied during the match when an ally interaction goes awry; in this chapter it prevents movement for ten seconds and affects timing-sensitive plays.
+• A short, explicit penalty applied during combat that temporarily restricts movement/actions.
+• Prevents movement/leg action and delays card actions.
+• Prevents movement for ten seconds and affects timing-sensitive plays.

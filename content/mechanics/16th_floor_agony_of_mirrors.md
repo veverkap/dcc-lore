@@ -3,11 +3,7 @@ title: "16th Floor (Agony of Mirrors)"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# 16th Floor (Agony of Mirrors)
 
-title: "16th Floor (Agony of Mirrors)"
-type: Location
-tags: [dcc-lore-graph]
----
-# 16th Floor (Agony of Mirrors)
-A floor identified in a planetwide message as a giant empty room with a single non-magical mirror; offered as an evacuation waypoint in the system advisory.
+# 16th_floor_agony_of_mirrors
+
+• A floor identified as a giant empty room with a single non-magical mirror, serving as an evacuation waypoint.

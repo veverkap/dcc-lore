@@ -3,11 +3,9 @@ title: "Class Specialization Booth"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Class Specialization Booth
 
-title: "Class Specialization Booth"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Class Specialization Booth
-Single-occupant system booth in the [[Registration Arena]] that presents permanent specialization choices (ten-minute timer) to crawlers' existing classes (e.g., [[dungeon crawler carl]]'s choice ended with Agent Provocateur); enforces inventory and chat restrictions while selection is made.
+# class_specialization_booth
+
+• Single-occupant system booth in the [[Registration Arena]] that presents permanent specialization choices to crawlers' existing classes.
+• The booth enforces inventory and chat restrictions while selection is made.
+• The choice is presented on a ten-minute timer.

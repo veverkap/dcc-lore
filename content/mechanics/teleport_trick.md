@@ -3,19 +3,8 @@ title: "Teleport Trick"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Teleport Trick
 
-title: "Teleport Trick"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Teleport Trick
-Generic named dungeon/saferoom exploitation referenced by [[Mordecai]] as a method (used by others like [[Lucia]]) to remove crawlers from saferooms in non-standard rooms.
+# teleport_trick
 
-## Additional Observations
-title: "Teleport Trick"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# [[Teleport Trick]]
-Generic dungeon mechanic referenced as a method certain entities (e.g., [[Lucia]]) use to remove players from saferooms; contrasted with protections covering the tavern.
+• Generic named [[dungeon]]/[[saferoom]] exploitation method used by entities like [[Mordecai]] and [[Lucia]] to remove crawlers from saferooms in non-standard rooms.
+• Used to remove players from saferooms, contrasting with protections covering the tavern.

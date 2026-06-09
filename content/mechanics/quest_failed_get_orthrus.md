@@ -3,19 +3,8 @@ title: "Quest Failed: Get Orthrus"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Quest Failed: Get Orthrus
 
-title: "Quest Failed: Get Orthrus"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Quest Failed: Get Orthrus
-Floor system announcement penalizing the party after failing to protect [[Orthrus]] in time; includes in-world flavor penalties (e.g., menu changes).
+# quest_failed_get_orthrus
 
-## Additional Observations
-title: "Quest Failed! Get Orthrus."
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# [[Quest Failed! Get Orthrus.]]
-System announcement presented when the party fails the puppy-save objective. Includes taunting flavor text and punitive effects (e.g., safe room menu changes) and drives immediate player penalties.
+• Floor system announcement penalizing the party after failing to protect [[Orthrus]] in time; includes in-world flavor penalties (e.g., menu changes).
+• System announcement presented when the party fails the puppy-save objective; includes taunting flavor text, punitive effects (e.g., safe room menu changes), and drives immediate player penalties.

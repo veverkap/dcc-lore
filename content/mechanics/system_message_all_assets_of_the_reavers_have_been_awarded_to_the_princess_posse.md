@@ -3,11 +3,7 @@ title: "System Message: All assets of the Reavers have been awarded to the Princ
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# System Message: All assets of the Reavers have been awarded to the Princess Posse
 
-title: "System Message: All assets of the Reavers have been awarded to the Princess Posse"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# System Message: All assets of the Reavers have been awarded to the Princess Posse
-A system announcement transferring ownership of the [[Reavers]]' assets to the [[Princess Posse]] after the faction's defeat.
+# system_message_all_assets_of_the_reavers_have_been_awarded_to_the_princess_posse
+
+• All assets of the [[Reavers]] have been awarded to the [[Princess Posse]].

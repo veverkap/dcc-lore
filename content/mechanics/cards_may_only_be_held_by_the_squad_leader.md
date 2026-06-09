@@ -3,11 +3,8 @@ title: "Cards may only be held by the Squad Leader."
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Cards may only be held by the Squad Leader.
 
-title: "Cards may only be held by the Squad Leader."
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# [[Cards may only be held by the Squad Leader.]]
-Explicit system rule/warning encountered when attempting to store the [[T'Ghee Card]]: a constraint that prevents non-leaders from holding certain card items.
+# cards_may_only_be_held_by_the_squad_leader
+
+• Cards may only be held by the Squad Leader.
+• The [[T'Ghee Card]] cannot be stored due to a constraint preventing non-leaders from holding certain card items.

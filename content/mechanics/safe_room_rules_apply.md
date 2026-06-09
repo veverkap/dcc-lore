@@ -3,19 +3,8 @@ title: "Safe room rules apply."
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Safe room rules apply.
 
-title: "Safe room rules apply."
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Safe room rules apply.
-An explicit Dungeon Rule/System message stating that the [[Team Roundabout]] is governed by safe-room mechanics (combat-restriction and other safety behaviors).
+# safe_room_rules_apply
 
-## Additional Observations
-title: "Safe room rules apply"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Safe room rules apply
-Explicit dungeon rule announced upon entering the [[Team Roundabout]]/[[Hungry Eyes Village]] that prevents attacks and enforces safe-area behavior.
+• Safe room rules apply, governed by combat-restriction and safety behaviors, as stated in an explicit [[Dungeon]] Rule/System message.
+• The [[Team Roundabout]] and [[Hungry Eyes Village]] are governed by safe-room mechanics, with an explicit announcement upon entering that prevents attacks and enforces safe-area behavior.

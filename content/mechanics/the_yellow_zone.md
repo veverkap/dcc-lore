@@ -3,19 +3,9 @@ title: "The Yellow Zone"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# The Yellow Zone
 
-title: "The Yellow Zone"
-type: Location
-tags: [dcc-lore-graph]
----
-# [[The Yellow Zone]]
-The saferoom/pub the party reaches inside the corrupted town. A neon sign labels the crumbling tomb-crypt-turned-pub, and the interior is larger than its exterior suggests.
+# the_yellow_zone
 
-## Additional Observations
-title: "The Yellow Zone"
-type: Location
-tags: [dcc-lore-graph]
----
-# The Yellow Zone
-The saferoom pub inside the corrupted settlement; described as a crumbling marble crypt with a neon sign reading "The Yellow Zone" and a larger interior than it appears from outside.
+• The Yellow Zone is a [[saferoom]]/[[pub]] located inside a corrupted [[town]].
+• It is a crumbling tomb-crypt-turned-[[pub]] with a neon sign reading "The Yellow Zone".
+• The interior is larger than its exterior suggests.

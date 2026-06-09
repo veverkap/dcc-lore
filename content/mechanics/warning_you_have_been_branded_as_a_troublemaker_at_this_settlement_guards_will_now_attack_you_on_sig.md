@@ -3,27 +3,11 @@ title: "Warning: You have been branded as a troublemaker at this settlement. Gua
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Warning: You have been branded as a troublemaker at this settlement. Guards will now attack you on sight.
 
-title: "Warning: You have been branded as a troublemaker at this settlement. Guards will now attack you on sight."
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Warning: You have been branded as a troublemaker at this settlement. Guards will now attack you on sight.
-A system announcement triggered when [[dungeon crawler carl]] attacks a village swordsman guard. It marks the player as a local criminal and causes guards in the settlement to become hostile and engage on sight — an explicit dungeon/town rule announcement shown in the chapter.
+# warning_you_have_been_branded_as_a_troublemaker_at_this_settlement_guards_will_now_attack_you_on_sig
 
-## Additional Observations
-title: "Warning: You have been branded as a troublemaker at this settlement. Guards will now attack you on sight."
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# [[Warning: You have been branded as a troublemaker at this settlement. Guards will now attack you on sight.]]
-A game-system status effect applied to [[dungeon crawler carl]]'s party after the confrontation and death of [[Elmer]]; causes settlement guards to become hostile and attack on sight.
-
-## Additional Observations
-title: "Warning: You have been branded as a troublemaker at this settlement. Guards will now attack you on sight."
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Warning: You have been branded as a troublemaker at this settlement. Guards will now attack you on sight.
-An explicit system announcement appearing in the chapter that modifies NPC behavior: being branded causes local guards to become hostile and attack [[dungeon crawler carl]] on sight. Classified as an active Dungeon/System mechanic.
+• Guards will now attack you on sight after being branded as a troublemaker at this settlement.
+• This is triggered by [[dungeon [[crawler]] carl]] attacking a village swordsman guard.
+• The system announcement is shown in the chapter and modifies NPC behavior.
+• Being branded causes local guards to become hostile and attack [[dungeon [[crawler]] carl]] on sight.
+• This is a game- system status effect applied to [[dungeon [[crawler]] carl]]'s party after the confrontation and death of [[Elmer]].

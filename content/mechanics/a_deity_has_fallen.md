@@ -3,19 +3,8 @@ title: "A deity has fallen."
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# A deity has fallen.
 
-title: "A deity has fallen."
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# [[A deity has fallen.]]
-System announcement triggered when [[Dodola]] dies inside the containment; signals major game-state events and provokes narrative/systemic repercussions ("the heavens tremble with rage").
+# a_deity_has_fallen
 
-## Additional Observations
-title: "A deity has fallen"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# [[A deity has fallen]]
-System Announcement triggered when [[Emberus]] explodes: "A deity has fallen. The heavens tremble with rage." Global/system-level notification of major event.
+• System announcement triggered when [[Dodola]] dies inside the containment, signaling major game-state events and provoking narrative/systemic repercussions ("the heavens tremble with rage").
+• System announcement triggered when [[Emberus]] explodes, also signaling a major event with the same notification ("A deity has fallen. The heavens tremble with rage").

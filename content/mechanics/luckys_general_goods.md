@@ -3,11 +3,9 @@ title: "Lucky's General Goods"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Lucky's General Goods
 
-title: "Lucky's General Goods"
-type: Location
-tags: [dcc-lore-graph]
----
-# Lucky's General Goods
-A general goods shop in town (a convenience-style vendor). The party sells unwanted items here and interacts with the Skyfowl shopkeeper [[Edge Dancer]].
+# luckys_general_goods
+
+• A general goods shop in [[town]], offering a convenience-style vendor experience.
+• The party can sell unwanted items here.
+• The shop is run by the Skyfowl shopkeeper, [[Edge Dancer]].

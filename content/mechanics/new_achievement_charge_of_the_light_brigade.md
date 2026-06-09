@@ -3,11 +3,10 @@ title: "New Achievement! Charge of the Light Brigade"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# New Achievement! Charge of the Light Brigade
 
-title: "New Achievement! Charge of the Light Brigade"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# [[New Achievement! Charge of the Light Brigade]]
-Achievement unlocked notification displayed upon entering the temple; signals recognition of the high-risk action taken by the party.
+# new_achievement_charge_of_the_light_brigade
+
+• Achievement: Charge of the Light Brigade
+• Type: Mechanic
+• Tags: dcc-lore-graph
+• Unlocks notification upon entering the [[temple]], recognizing high-risk party action

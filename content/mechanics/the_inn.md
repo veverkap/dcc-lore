@@ -3,11 +3,9 @@ title: "The Inn"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# The Inn
 
-title: "The Inn"
-type: Location
-tags: [dcc-lore-graph]
----
-# The Inn
-The lodging and safe-room where [[dungeon crawler carl]], [[Princess Donut]], [[Mordecai]], and [[Mongo]] rest between investigations. Contains a saferoom door, a small table, a cat tree, and the bar tended by [[Fitz]]. Site of fan-box openings and the morning discovery of a new corpse outside.
+# the_inn
+
+• The [[Inn]] is a location where characters rest between investigations, containing a [[saferoom]] door, a small table, a cat tree, and a [[bar]] tended by Fitz.
+• Characters who have stayed at the [[Inn]] include [[dungeon [[crawler]] carl]], [[Princess Donut]], [[Mordecai]], and [[Mongo]].
+• The [[Inn]] is the site of fan-box openings and the morning discovery of a new corpse outside.

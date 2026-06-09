@@ -3,19 +3,8 @@ title: "Substation E"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Substation E
 
-title: "Substation E"
-type: Location
-tags: [dcc-lore-graph]
----
-# Substation E
-Another substation referenced in the chain of fall events; contextually near Substation B.
+# substation_e
 
-## Additional Observations
-title: "Substation E"
-type: Location
-tags: [dcc-lore-graph]
----
-# [[Substation E]]
-Referenced as a substation that fell after Substation B; part of the same transit network context.
+• Substation E is a location referenced in the chain of fall events, situated near Substation B.
+• It is part of the same transit network context and fell after Substation B.

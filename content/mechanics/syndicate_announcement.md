@@ -3,11 +3,9 @@ title: "Syndicate Announcement"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Syndicate Announcement
 
-title: "Syndicate Announcement"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Syndicate Announcement
-The system broadcast delivered by the [[Syndicate neutral observer AI]] that explains seizure of the planet under the [[Precious Elemental Reserves Code]], describes the 18-Level [[World Dungeon]] reclamation option administered by the [[borant corporation]], specifies entrance counts and timing, and outlines tutorial-guild recommendations and other rules for crawlers.
+# syndicate_announcement
+
+• The system broadcast explains the seizure of the planet under the Precious Elemental Reserves Code.
+• The 18-Level World [[Dungeon]] reclamation option is administered by the Borant Corporation.
+• The broadcast outlines entrance counts, timing, and tutorial-guild recommendations for crawlers.

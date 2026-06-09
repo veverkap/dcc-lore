@@ -3,19 +3,8 @@ title: "Grimaldi's circus"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Grimaldi's circus
 
-title: "Grimaldi's circus"
-type: Location
-tags: [dcc-lore-graph]
----
-# Grimaldi's circus
-A referenced location used as a comparison point for monster types (mold lions); invoked in monster-descriptive lore.
+# grimaldis_circus
 
-## Additional Observations
-title: "Grimaldi’s circus"
-type: Location
-tags: [dcc-lore-graph]
----
-# Grimaldi’s circus
-A referenced location used to describe the look of transformed monsters (comparison point for tentacled creatures).
+• Grimaldi's [[circus]] is a referenced location used as a comparison point for monster types, such as mold lions.
+• It is also used to describe the look of transformed monsters, serving as a comparison point for tentacled creatures.

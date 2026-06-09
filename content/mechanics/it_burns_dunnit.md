@@ -3,11 +3,7 @@ title: "It burns, dunnit?"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# It burns, dunnit?
 
-title: "It burns, dunnit?"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# It burns, dunnit?
-[[It burns, dunnit?]] is an achievement the protagonist receives after the encounter with the green slime that dissolved part of his jacket and gloves.
+# it_burns_dunnit
+
+• [[It burns, dunnit?]] is an achievement received after encountering the green slime that dissolved part of the protagonist's jacket and gloves.

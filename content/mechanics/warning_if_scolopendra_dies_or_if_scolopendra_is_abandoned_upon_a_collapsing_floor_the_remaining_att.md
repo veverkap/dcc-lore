@@ -3,11 +3,10 @@ title: "WARNING: If Scolopendra dies or if Scolopendra is abandoned upon a colla
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# WARNING: If Scolopendra dies or if Scolopendra is abandoned upon a collapsing floor, the remaining attacks will trigger all at once. There is nothing you can do to stop it. You kill her, the remaining attacks trigger. You escape, the remaining attacks trigger.
 
-title: "WARNING: If Scolopendra dies or if Scolopendra is abandoned upon a collapsing floor, the remaining attacks will trigger all at once. There is nothing you can do to stop it. You kill her, the remaining attacks trigger. You escape, the remaining attacks trigger."
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# WARNING: If Scolopendra dies or if Scolopendra is abandoned upon a collapsing floor, the remaining attacks will trigger all at once. There is nothing you can do to stop it. You kill her, the remaining attacks trigger. You escape, the remaining attacks trigger.
-An explicit dungeon rule announced by the system describing the fail-state tied to [[Scolopendra]]: killing or abandoning her causes all remaining attacks (of nine) to execute simultaneously with no counterplay. The warning drives [[Carl]]'s contingency planning and is central to the chapter's stakes.
+# warning_if_scolopendra_dies_or_if_scolopendra_is_abandoned_upon_a_collapsing_floor_the_remaining_att
+
+• If Scolopendra dies or is abandoned upon a collapsing floor, the remaining attacks will trigger all at once, with no counterplay.
+• Killing or abandoning Scolopendra causes all remaining attacks to execute simultaneously.
+• [[Scolopendra]]
+• [[Carl]]

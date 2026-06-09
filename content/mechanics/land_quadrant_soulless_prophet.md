@@ -3,11 +3,9 @@ title: "Land Quadrant (Soulless Prophet)"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Land Quadrant (Soulless Prophet)
 
-title: "Land Quadrant (Soulless Prophet)"
-type: Location
-tags: [dcc-lore-graph]
----
-# Land Quadrant (Soulless Prophet)
-The specific quadrant of the [[Soulless Prophet]] world where [[dungeon crawler carl]] and [[Donut]] crash and where the stairwell light is visible.
+# land_quadrant_soulless_prophet
+
+• The [[Land]] [[Quadrant]] (Soulless Prophet) is a specific [[quadrant]] of the [[Soulless Prophet]] world.
+• It is where [[dungeon [[crawler]] carl]] and [[Donut]] crash.
+• The [[stairwell]] light is visible in this [[quadrant]].

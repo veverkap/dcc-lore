@@ -3,11 +3,7 @@ title: "Yellow Line Station 277"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Yellow Line Station 277
 
-title: "Yellow Line Station 277"
-type: Location
-tags: [dcc-lore-graph]
----
-# [[Yellow Line Station 277]]
-Station on the Yellow Line pointed out by [[Imani]] as intersecting with the Camel line and relevant to the party's transfer-station pattern investigation.
+# yellow_line_station_277
+
+• Station on the Yellow Line, intersecting with the Camel line, and relevant to the party's transfer-station pattern investigation, as pointed out by [[Imani]].

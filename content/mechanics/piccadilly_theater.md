@@ -3,19 +3,10 @@ title: "Piccadilly Theater"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Piccadilly Theater
 
-title: "Piccadilly Theater"
-type: Location
-tags: [dcc-lore-graph]
----
-# [[Piccadilly Theater]]
-The massive theater on [[Level 9]] under the waterfall; heavily damaged by flooding but actively being cleaned by numerous NPCs and features statues and a marquee reading performance notices.
+# piccadilly_theater
 
-## Additional Observations
-title: "Piccadilly Theater"
-type: Location
-tags: [dcc-lore-graph]
----
-# Piccadilly Theater
-A site on the 9th level of [[Larracos]] containing the antenna/antenna-thing that [[Donut]] locates via reflection; the party intends to bomb the generator near this theater.
+• The [[Piccadilly]] [[Theater]] is a massive [[theater]] located on Level 9 under a waterfall, heavily damaged by flooding.
+• The [[theater]] is being cleaned by NPCs and features statues and a marquee with performance notices.
+• The [[Piccadilly]] [[Theater]] is also a site on the 9th level of Larracos, containing an antenna/antenna-thing that Donut locates via reflection.
+• The party intends to bomb the generator near this [[theater]].

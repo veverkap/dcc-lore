@@ -3,19 +3,9 @@ title: "Peace Bonding"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Peace Bonding
 
-title: "Peace Bonding"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Peace Bonding
-A debuff/constraint mechanic announced by the system ("You have been Peace-Bonded!") that in this scene is repeatedly negated by AI resolution.
+# peace_bonding
 
-## Additional Observations
-title: "Peace Bonding"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# [[Peace Bonding]]
-System debuff/mechanic announced and immediately negated by AI resolution during pre-race; presented as an active system status message in the pod sequence.
+• A debuff/constraint mechanic announced by the system ("You have been Peace-Bonded!") that is repeatedly negated by AI resolution.
+• Presented as an active system status message in the pod sequence.
+• Announced and immediately negated by AI resolution during pre-race.

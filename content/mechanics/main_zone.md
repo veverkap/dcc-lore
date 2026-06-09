@@ -3,11 +3,8 @@ title: "Main Zone"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Main Zone
 
-title: "Main Zone"
-type: Location
-tags: [dcc-lore-graph]
----
-# Main Zone
-The primary planetary system zone described by [[Mexx-6000]] that extends from the planet’s core to sea level; being inside the [[Main Zone]] affects system AI purview and available interface access.
+# main_zone
+
+• The Main Zone is the primary planetary system zone described by [[Mexx-6000]], extending from the planet's core to [[sea]] level.
+• Being inside the Main Zone affects system AI purview and available interface access.

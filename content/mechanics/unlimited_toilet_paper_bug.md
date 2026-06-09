@@ -3,11 +3,7 @@ title: "Unlimited Toilet Paper Bug"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Unlimited Toilet Paper Bug
 
-title: "Unlimited Toilet Paper Bug"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Unlimited Toilet Paper Bug
-A system exploit that previously allowed infinite toilet paper; the patch notes state it has been fixed so players now receive only one roll per floor.
+# unlimited_toilet_paper_bug
+
+• [[Unlimited Toilet Paper Bug]]: A system exploit that allowed infinite toilet paper, but was fixed in patch notes to now provide only one roll per floor.

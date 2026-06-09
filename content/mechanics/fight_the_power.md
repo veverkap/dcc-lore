@@ -3,19 +3,8 @@ title: "Fight the Power!"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Fight the Power!
 
-title: "Fight the Power!"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Fight the Power!
-An achievement (received multiple times in the chapter) denoting victory in a Syndicate Court action; in this chapter it yielded multiple "Silver Summary Judgement" boxes to [[dungeon crawler carl]].
+# fight_the_power
 
-## Additional Observations
-title: "Fight the Power!"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Fight the Power!
-Achievement (received x7 in the chapter): awarded for being co-defendants in and winning a Syndicate Court action; reward: [[Silver Summary Judgement box]]. Can be awarded multiple times.
+• An achievement received multiple times in the chapter, denoting victory in a Syndicate Court action, yielding "Silver Summary Judgement" boxes to [[dungeon [[crawler]] carl]].
+• Awarded for being co-defendants in and winning a Syndicate Court action, with a reward of [[Silver Summary Judgement box]], and can be awarded multiple times.

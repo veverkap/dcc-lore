@@ -3,19 +3,8 @@ title: "Floating Chunk of Iowa"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Floating Chunk of Iowa
 
-title: "Floating Chunk of Iowa"
-type: Location
-tags: [dcc-lore-graph]
----
-# Floating Chunk of Iowa
-The north-side floating region where Carl and Donut travel; populated by undead farm animals and adjacent to a strip of [[Florida]] mentioned as receiving falling zombies.
+# floating_chunk_of_iowa
 
-## Additional Observations
-title: "Floating Chunk of Iowa"
-type: Location
-tags: [dcc-lore-graph]
----
-# Floating Chunk of Iowa
-The chunk of land on which the trailer and junkyard sit. Described as floating, with monsters sliding off its north edge into the ocean. The chunk is adjacent to the [[Thin Strip of Florida]] on the same floor.
+• The north-side floating region is populated by undead farm animals and is adjacent to a strip of [[Florida]] receiving falling zombies.
+• The chunk of [[land]] is described as floating, with monsters sliding off its north edge into the ocean, and is adjacent to the [[Thin Strip of Florida]] on the same floor.

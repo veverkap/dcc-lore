@@ -3,11 +3,7 @@ title: "System Message: Team Retribution has been defeated."
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# System Message: Team Retribution has been defeated.
 
-title: "System Message: Team Retribution has been defeated."
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# System Message: Team Retribution has been defeated.
-A formal system announcement declaring the defeat of the faction [[team retribution]] following the events around [[Larracos]].
+# system_message_team_retribution_has_been_defeated
+
+• A formal system announcement declares the defeat of [[team retribution]] following events around [[Larracos]].

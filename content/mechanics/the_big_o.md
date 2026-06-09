@@ -3,11 +3,10 @@ title: "The Big O"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# The Big O
 
-title: "The Big O"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# [[The Big O]]
-Part one of [[The Missing Piece]] quest. Only participants in the [[Cuba region]] may take part in this first part; success triggers part two for everyone else.
+# the_big_o
+
+• The Big O is a mechanic.
+• It is part one of the [[The Missing Piece]] quest.
+• Only participants in the [[Cuba region]] may take part in this first part.
+• Success triggers part two for everyone else.

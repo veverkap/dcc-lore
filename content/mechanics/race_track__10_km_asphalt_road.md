@@ -3,11 +3,9 @@ title: "Race Track — 10 km Asphalt Road"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Race Track — 10 km Asphalt Road
 
-title: "Race Track — 10 km Asphalt Road"
-type: Location
-tags: [dcc-lore-graph]
----
-# Race Track — 10 km Asphalt Road
-The announced course for the upcoming heat: a ten-kilometer asphalt-paved road with rolling hills, torrential rain, and giant hail. Mentioned by the [[GPS Race Announcement - Heat Two]].
+# race_track__10_km_asphalt_road
+
+• 10 km asphalt [[road]] with rolling hills
+• Torrential rain
+• Giant hail

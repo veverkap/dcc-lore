@@ -3,11 +3,10 @@ title: "The Show Must Go On"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# The Show Must Go On
 
-title: "The Show Must Go On"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# The Show Must Go On
-A new quest system announcement encountered by [[dungeon crawler carl]] detailing the discovery of the cursed circus remnants (the Grimaldi troupe) and tasking the player to investigate and stop the circus, with the reward of a [[Gold Quest Box]].
+# the_show_must_go_on
+
+• A new quest system announcement was made by [[dungeon [[crawler]] carl]].
+• The announcement details the discovery of the cursed [[circus]] remnants (the Grimaldi troupe).
+• The player is tasked with investigating and stopping the [[circus]].
+• The reward for completing the quest is a [[Gold Quest Box]].

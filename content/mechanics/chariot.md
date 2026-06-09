@@ -3,11 +3,9 @@ title: "Chariot"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Chariot
 
-title: "Chariot"
-type: Location
-tags: [dcc-lore-graph]
----
-# Chariot
-The party's wheeled vehicle used during the approach and negotiation: includes a driver station (where [[Louis]] sits), a back cart (with [[Henrik]] and [[Firas]]), and is used as cover and platform for the staged performance.
+# chariot
+
+• The party's wheeled vehicle, known as the Chariot, includes a driver station, a back cart, and is used as cover and [[platform]] for the staged performance.
+• The driver station is where [[Louis]] sits.
+• The back cart is where [[Henrik]] and [[Firas]] are located.

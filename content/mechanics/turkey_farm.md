@@ -3,19 +3,9 @@ title: "Turkey farm"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Turkey farm
 
-title: "Turkey farm"
-type: Location
-tags: [dcc-lore-graph]
----
-# Turkey farm
-Previously mentioned dungeon location used as a sensory reference (smell) by characters; compared unfavorably to the washed-up shore in the chapter.
+# turkey_farm
 
-## Additional Observations
-title: "Turkey farm"
-type: Location
-tags: [dcc-lore-graph]
----
-# Turkey farm
-Previously referenced dungeon location with a notable stench; used in conversation as a comparison to the shoreline smell.
+• A previously mentioned [[dungeon]] location with a strong, unpleasant smell, used as a sensory reference by characters.
+• Compared unfavorably to the washed-up shore in the chapter.
+• Noted for its notable stench, used in conversation as a comparison to the shoreline smell.

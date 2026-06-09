@@ -3,11 +3,11 @@ title: "The Headlamp Colonnade"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# The Headlamp Colonnade
 
-title: "The Headlamp Colonnade"
-type: Location
-tags: [dcc-lore-graph]
----
-# [[The Headlamp Colonnade]]
-The named entrance bar of the [[desperado club]] where the party pauses; managed internally by [[Hunger Hammy]] and announced by the system when entering.
+# the_headlamp_colonnade
+
+• The Headlamp Colonnade is a location.
+• It is the named entrance [[bar]] of the [[desperado club]].
+• The party pauses here.
+• It is managed internally by [[Hunger Hammy]].
+• The system announces when entering.

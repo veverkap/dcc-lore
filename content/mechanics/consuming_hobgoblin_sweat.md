@@ -3,19 +3,8 @@ title: "Consuming hobgoblin sweat"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Consuming hobgoblin sweat
 
-title: "Consuming hobgoblin sweat"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Consuming hobgoblin sweat
-A listed weakness assigned to the resurrected pet in the System Announcement.
+# consuming_hobgoblin_sweat
 
-## Additional Observations
-title: "Consuming hobgoblin sweat"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Consuming hobgoblin sweat
-A listed random weakness affecting [[Rend]]: ingesting this substance is detrimental due to the pet's new vulnerability.
+• Consuming [[hobgoblin]] sweat is a weakness assigned to the resurrected pet.
+• It is a listed random weakness affecting [[Rend]]: ingesting this substance is detrimental due to the pet's new vulnerability.

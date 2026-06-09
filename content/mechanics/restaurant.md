@@ -3,27 +3,9 @@ title: "Restaurant"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Restaurant
 
-title: "Restaurant"
-type: Location
-tags: [dcc-lore-graph]
----
-# Restaurant
-The specific safe-room area the party occupied while building the [[Mother of All Bombs]]; served as the staging point for their hallway assault.
+# restaurant
 
-## Additional Observations
-title: "Restaurant"
-type: Location
-tags: [dcc-lore-graph]
----
-# Restaurant
-A dining space inside the [[desperado club]] that is devastated as [[Minge]] rips through the building; many NPCs are grabbed from here.
-
-## Additional Observations
-title: "Restaurant"
-type: Location
-tags: [dcc-lore-graph]
----
-# Restaurant
-The Desperado dining area that is devastated by [[Minge]]'s invasion and where bodies and destruction are vividly described.
+• The party occupied this safe-room area while building the [[Mother of All Bombs]] and used it as a staging point for their [[hallway]] assault.
+• This dining space inside the [[desperado club]] is devastated by [[Minge]]'s invasion, with many NPCs grabbed from here.
+• The Desperado dining area is devastated by [[Minge]]'s invasion, with vivid descriptions of bodies and destruction.

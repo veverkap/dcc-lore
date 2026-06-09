@@ -3,19 +3,8 @@ title: "Celestial Halls"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Celestial Halls
 
-title: "Celestial Halls"
-type: Location
-tags: [dcc-lore-graph]
----
-# Celestial Halls
-The divine domain to which [[Emberus]] and [[Orthrus]] would return once the puppy is reunited with his master, referenced in the group-quest description.
+# celestial_halls
 
-## Additional Observations
-title: "Celestial Halls"
-type: Location
-tags: [dcc-lore-graph]
----
-# Celestial Halls
-Divine realm to which gods like [[Emberus]] and their kin return if goals (such as reuniting with [[Orthrus]]) are satisfied, referenced in the quest text.
+• The Celestial Halls are the divine domain to which Emberus and Orthrus would return once the puppy is reunited with its master, referenced in the group-quest description.
+• The Celestial Halls are a divine realm to which gods like Emberus and their kin return if their goals (such as reuniting with Orthrus) are satisfied, referenced in the quest text.

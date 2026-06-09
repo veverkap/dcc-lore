@@ -3,11 +3,8 @@ title: "Grimaldi's World O' Freaks"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Grimaldi's World O' Freaks
 
-title: "Grimaldi's World O' Freaks"
-type: Location
-tags: [dcc-lore-graph]
----
-# Grimaldi's World O' Freaks
-The circus encampment of the chapter: three massive tents, multiple wagons, cages of beasts, and many mob types (lemurs, clowns, stilt clowns, giraffes, ogre-like creatures). Entrance sign reads "Admission One Gold Coin."
+# grimaldis_world_o_freaks
+
+• The [[circus]] [[encampment]] of Grimaldi's World O' Freaks consists of three massive tents, multiple wagons, cages of beasts, and various mob types, including lemur, clowns, stilt clowns, giraffes, and [[ogre]]-like creatures.
+• The entrance sign reads "Admission One Gold Coin."

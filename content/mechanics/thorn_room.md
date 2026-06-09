@@ -3,27 +3,10 @@ title: "Thorn Room"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Thorn Room
 
-title: "Thorn Room"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Thorn Room
-Dungeon mechanic that presents players with mutually exclusive choices, each granting both positive and negative outcomes. In this instance: seven shrines, one Sun of Reawakening, and the rule "You can only fix one," forcing trade-offs that affect ascensions, smites, boons, and potential boss fights.
+# thorn_room
 
-## Additional Observations
-title: "Thorn room"
-type: Location
-tags: [dcc-lore-graph]
----
-# [[Thorn room]]
-Earlier dungeon description referenced as containing god clues; cited as the place where [[dungeon crawler carl]] first noticed hints linking the floor to lightning and the presence of [[Taranis]].
-
-## Additional Observations
-title: "Thorn Room"
-type: Location
-tags: [dcc-lore-graph]
----
-# Thorn Room
-Earlier-referenced dungeon room that contained god descriptions; Carl uses clues from the [[Thorn Room]] descriptions to deduce the presence of [[Taranis]] and lightning-related hints.
+• The Thorn Room is a [[dungeon]] mechanic that presents mutually exclusive choices with positive and negative outcomes, affecting ascensions, smites, boons, and boss fights.
+• The room contains seven shrines, one Sun of Reawakening, and the rule "You can only fix one," forcing trade-offs.
+• The Thorn Room is also a location that contains god clues, including hints linking the floor to lightning and the presence of [[Taranis]].
+• [[Dungeon [[Crawler]] Carl]] first noticed these hints in the Thorn Room.

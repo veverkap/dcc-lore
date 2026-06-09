@@ -3,11 +3,8 @@ title: "Hallway Bathroom Bug"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Hallway Bathroom Bug
 
-title: "Hallway Bathroom Bug"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Hallway Bathroom Bug
-A named system bug mentioned in the announcement: previously, opening a hallway bathroom while someone else entered could cause an explosion. The patch notes state this has been fixed and that hallway bathrooms are personal spaces.
+# hallway_bathroom_bug
+
+• A named system bug, the [[Hallway]] Bathroom Bug, was previously exploitable by opening a [[hallway]] bathroom while someone else entered, causing an explosion.
+• The bug has been fixed, and [[hallway]] [[bathrooms]] are now considered personal spaces.

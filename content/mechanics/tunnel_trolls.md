@@ -3,19 +3,8 @@ title: "Tunnel trolls"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Tunnel trolls
 
-title: "Tunnel trolls"
-type: Character
-tags: [dcc-lore-graph]
----
-# [[Tunnel trolls]]
-Named hostile race mentioned in lore as hunters of Grulke. Referenced to explain Grulke vulnerability and local dungeon threat ecology.
+# tunnel_trolls
 
-## Additional Observations
-title: "Tunnel trolls"
-type: Character
-tags: [dcc-lore-graph]
----
-# Tunnel trolls
-Mob race mentioned as predators of the [[Grulke]]; described as odd and violent creatures that hunt and lick Grulke.
+• Named hostile race, mentioned as hunters of [[Grulke]], referenced to explain Grulke vulnerability and local [[dungeon]] threat ecology.
+• Mob race, predators of the [[Grulke]], described as odd and violent creatures that hunt and lick Grulke.

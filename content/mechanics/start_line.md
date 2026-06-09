@@ -3,11 +3,8 @@ title: "Start line"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Start line
 
-title: "Start line"
-type: Location
-tags: [dcc-lore-graph]
----
-# [[Start line]]
-The race starting area where the vehicles are positioned in rows under a giant awning. The scene of the pre-race confrontation, hail explosion, and the initial green-light launch.
+# start_line
+
+• The race starting area is under a giant awning, where vehicles are positioned in rows.
+• The scene of the pre-race confrontation, hail explosion, and initial green-light launch occurs here.

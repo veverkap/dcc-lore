@@ -3,11 +3,8 @@ title: "Outer Kobold Boss Chamber"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Outer Kobold Boss Chamber
 
-title: "Outer Kobold Boss Chamber"
-type: Location
-tags: [dcc-lore-graph]
----
-# Outer Kobold Boss Chamber
-The kennel-style approach area described as a former municipal dog pound. The [[Outer Kobold Boss Chamber]] contains long hallways flanked by cages holding [[Danger Dingo]]s and other captured critters.
+# outer_kobold_boss_chamber
+
+• The Outer [[Kobold]] Boss Chamber is a former municipal dog pound with kennel-style approach areas.
+• The chamber contains long hallways flanked by cages holding captured critters, including Danger Dingo.

@@ -3,11 +3,7 @@ title: "Golem spell bug"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Golem spell bug
 
-title: "Golem spell bug"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# [[Golem spell bug]]
-A system-level announcement warning that a [[Golem]] spell is malfunctioning this season and should be avoided if encountered.
+# golem_spell_bug
+
+• A system-level announcement warns of a malfunctioning [[Golem]] spell this season, advising against its use if encountered.

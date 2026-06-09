@@ -3,11 +3,9 @@ title: "The Hoarder's Lair"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# The Hoarder's Lair
 
-title: "The Hoarder's Lair"
-type: Location
-tags: [dcc-lore-graph]
----
-# The Hoarder's Lair
-The garbage-filled chamber where the fight occurs: a large room stacked 15 feet high with trash, burning piles, skull-headed torches, and the focal point of the boss encounter with [[The Hoarder]].
+# the_hoarders_lair
+
+• The Hoarder's Lair is a location.
+• The fight takes place in a large room filled with trash, burning piles, and skull-headed torches, stacked 15 feet high.
+• The focal point of the boss encounter is with [[The Hoarder]].

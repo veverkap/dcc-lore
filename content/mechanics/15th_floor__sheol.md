@@ -3,19 +3,9 @@ title: "15th Floor / Sheol"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# 15th Floor / Sheol
 
-title: "15th Floor / Sheol"
-type: Location
-tags: [dcc-lore-graph]
----
-# 15th Floor / Sheol
-The deeper floor referenced in relation to demonic leakage: "the world of Sheol on the 15th floor." A location/floor in the dungeon hierarchy associated with demons and corruption, used as contextual geography for why Ifrits might appear near the [[Penis Parade]].
+# 15th_floor__sheol
 
-## Additional Observations
-title: "15th floor / Sheol"
-type: Location
-tags: [dcc-lore-graph]
----
-# 15th floor / Sheol
-A segregated floor referred to as "Sheol" that the system notes is effectively absent or outside the playing field; the party might be able to skip it during post-[[Scolopendra]] progression.
+• The 15th floor, also known as Sheol, is a location associated with demons and corruption.
+• The floor is referenced in relation to demonic leakage and is used as contextual geography for the appearance of Ifrits near the [[Penis Parade]].
+• The 15th floor/Sheol is a segregated floor that the system notes is effectively absent or outside the playing field, allowing the party to potentially skip it during post-[[Scolopendra]] progression.

@@ -3,11 +3,7 @@ title: "Love Vampire"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Love Vampire
 
-title: "Love Vampire"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Love Vampire
-An example skill used by [[Donut]] referenced by [[Mordecai]] as a charm-like ability that saps or manipulates targets; used to illustrate how [[domination magic]] functions.
+# love_vampire
+
+• An example skill used by [[Donut]] that saps or manipulates targets, illustrating how [[domination magic]] functions.

@@ -3,11 +3,8 @@ title: "Warning: You have empty slots in your squad. Collecting this card will a
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Warning: You have empty slots in your squad. Collecting this card will automatically activate and place this totem into your squad...
 
-title: "Warning: You have empty slots in your squad. Collecting this card will automatically activate and place this totem into your squad..."
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Warning: You have empty slots in your squad. Collecting this card will automatically activate and place this totem into your squad...
-System card-squad mechanic message associated with the [[T’Ghee Card]] / [[Skylar Spinach]] Totem Card that warns about forced squad activation and removal restrictions.
+# warning_you_have_empty_slots_in_your_squad_collecting_this_card_will_automatically_activate_and_plac
+
+• Collecting the [[T’Ghee Card]] / [[Skylar Spinach]] Totem Card will automatically activate and place the totem into your squad.
+• This card has a system card-squad mechanic message that warns about forced squad activation and removal restrictions.

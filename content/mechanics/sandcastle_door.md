@@ -3,11 +3,8 @@ title: "Sandcastle Door"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Sandcastle Door
 
-title: "Sandcastle Door"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# [[Sandcastle Door]]
-The magical doorway on the sandcastle that only opens once per sandstorm when the paired towers are energized by lightning. Explicit dungeon rule: the door creates a glass hallway that appears briefly, allowing limited entry.
+# sandcastle_door
+
+• The [[Sandcastle]] Door is a magical doorway that only opens once per sandstorm when the paired [[towers]] are energized by lightning.
+• When open, it creates a glass [[hallway]] that allows limited entry.

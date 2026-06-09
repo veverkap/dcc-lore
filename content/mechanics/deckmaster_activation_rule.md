@@ -3,11 +3,8 @@ title: "Deckmaster Activation Rule"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Deckmaster Activation Rule
 
-title: "Deckmaster Activation Rule"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Deckmaster Activation Rule
-An explicit dungeon rule observed in the chapter: enemy deckmasters and their minion decks remain incorporeal/frozen and only become active/corporeal when the squad leader approaches, preventing many preemptive traps or deployments from affecting them.
+# deckmaster_activation_rule
+
+• Enemy deckmasters and their minion decks remain frozen and incorporeal until the squad leader approaches.
+• They only become active and corporeal when the squad leader is near, preventing preemptive traps or deployments from affecting them.

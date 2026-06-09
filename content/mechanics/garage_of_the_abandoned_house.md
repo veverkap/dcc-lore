@@ -3,11 +3,7 @@ title: "Garage of the abandoned house"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Garage of the abandoned house
 
-title: "Garage of the abandoned house"
-type: Location
-tags: [dcc-lore-graph]
----
-# Garage of the abandoned house
-The specific garage the group approaches later in the chapter. Its door yawns open to reveal an [[APV]] with a cracked windshield and the mob [[Penelope the pig]] inside.
+# garage_of_the_abandoned_house
+
+• The [[Garage]] of the abandoned house has an open door, revealing an APV with a cracked windshield and Penelope the pig inside.

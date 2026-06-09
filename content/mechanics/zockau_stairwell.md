@@ -3,11 +3,7 @@ title: "Zockau stairwell"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Zockau stairwell
 
-title: "Zockau stairwell"
-type: Location
-tags: [dcc-lore-graph]
----
-# Zockau stairwell
-The destination the narrator instructs [[Bomo]] to send the party to via spellcasting near the chapter's end.
+# zockau_stairwell
+
+• The [[Zockau]] [[stairwell]] is a destination instructed by the narrator for the party to reach via spellcasting near the chapter's end.

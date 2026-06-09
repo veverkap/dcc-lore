@@ -3,11 +3,7 @@ title: "Entering the Outreach Guild."
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Entering the Outreach Guild.
 
-title: "Entering the Outreach Guild."
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Entering the Outreach Guild.
-System log-style entry or achievement indicating the protagonist's next affiliation or guild entry following quest completion and exit negotiations.
+# entering_the_outreach_guild
+
+• Entering the Outreach Guild is a mechanic that indicates the protagonist's next affiliation or guild entry following quest completion and exit negotiations.

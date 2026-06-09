@@ -3,11 +3,9 @@ title: "System Message: Crawler Paz Lo has slain the goddess, Ysalte"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# System Message: Crawler Paz Lo has slain the goddess, Ysalte
 
-title: "System Message: Crawler Paz Lo has slain the goddess, Ysalte"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# System Message: Crawler Paz Lo has slain the goddess, Ysalte
-A world/system announcement generated when [[Paz Lo]] kills [[Ysalte]]. It includes follow-up effects (mark for death by deities, memorial crystal generation, worshipper debuffs) and significantly alters the meta-state of the realm.
+# system_message_crawler_paz_lo_has_slain_the_goddess_ysalte
+
+• A world/system announcement generated when [[Paz Lo]] kills [[Ysalte]].
+• Follow-up effects include marking for death by deities, generating memorial crystals, and applying worshipper debuffs.
+• The event significantly alters the meta-state of the realm.

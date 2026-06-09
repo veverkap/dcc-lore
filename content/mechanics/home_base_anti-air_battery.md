@@ -3,11 +3,8 @@ title: "Home Base Anti-Air Battery"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Home Base Anti-Air Battery
 
-title: "Home Base Anti-Air Battery"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# [[Home Base Anti-Air Battery]]
-System trap and asset whose activation triggers a system notification ("Your Silent Alarm trap labeled 'Home base Anti-Air Battery' has been triggered!") and whose destruction is broadcast as a campaign system message; its loss exposes the base to aerial threats.
+# home_base_anti-air_battery
+
+• System trap and asset that triggers a system notification when activated, and a campaign system message when destroyed.
+• Its loss exposes the base to aerial threats.

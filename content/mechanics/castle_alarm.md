@@ -3,11 +3,8 @@ title: "Castle Alarm"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Castle Alarm
 
-title: "Castle Alarm"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# [[Castle Alarm]]
-The castle’s old alarm system that broadcasts a distinct pattern ("ah-luga, ah-luga") indicating attackers at the main gate; its behavior (mass defender convergence) is exploited by the assault plan.
+# castle_alarm
+
+• The castle's old alarm system broadcasts a distinct pattern ("ah-luga, ah-luga") to indicate attackers at the main [[gate]].
+• The alarm system's behavior is exploited by the assault plan, causing mass defender convergence.

@@ -3,19 +3,8 @@ title: "Silk Pavilion"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Silk Pavilion
 
-title: "Silk Pavilion"
-type: Location
-tags: [dcc-lore-graph]
----
-# Silk Pavilion
-The [[Silk Pavilion]] is a market on the [[Hunting Grounds level]] of the [[desperado club]] that Carl hopes to reach; it is sign-posted from the bar area.
+# silk_pavilion
 
-## Additional Observations
-title: "Silk Pavilion"
-type: Location
-tags: [dcc-lore-graph]
----
-# Silk Pavilion
-A market area accessible from the [[Hunting Grounds level]] of the [[desperado club]]; [[dungeon crawler carl]] notes it as a place he needs to reach (implying gear/trade opportunities).
+• The Silk Pavilion is a market on the Hunting Grounds level of the Desperado Club, accessible from the [[bar]] area.
+• It is a place Carl hopes to reach, implying gear or trade opportunities.

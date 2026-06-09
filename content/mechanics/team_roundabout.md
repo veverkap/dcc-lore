@@ -3,19 +3,9 @@ title: "Team Roundabout"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Team Roundabout
 
-title: "Team Roundabout"
-type: Location
-tags: [dcc-lore-graph]
----
-# Team Roundabout
-The circular safe-room area (a cul-de-sac) teams spawn into on the [[Hungry Eyes Village]] floor; described as ringed by nine garage doors and containing team garages and a small paved path to a shimmering portal. Linked to the announcement [[Entering your Team Roundabout]] and the rule [[Safe room rules apply.]].
+# team_roundabout
 
-## Additional Observations
-title: "Team Roundabout"
-type: Location
-tags: [dcc-lore-graph]
----
-# Team Roundabout
-The circular, safe-area cul-de-sac where teams assemble and cannot be attacked. Identified by the system and used as the immediate staging area for [[Carl]]'s team and other competitors.
+• The circular safe-room area, ringed by nine [[garage]] doors, contains team garages and a small paved path to a shimmering [[portal]].
+• Linked to the announcements [[Entering your Team Roundabout]] and [[Safe room rules apply.]].
+• The area is identified by the system and used as the immediate staging area for teams, including [[Carl]]'s team.

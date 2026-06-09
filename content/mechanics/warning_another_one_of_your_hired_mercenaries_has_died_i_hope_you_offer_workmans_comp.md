@@ -3,11 +3,8 @@ title: "Warning: Another one of your hired mercenaries has died! I hope you offe
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Warning: Another one of your hired mercenaries has died! I hope you offer workman’s comp.
 
-title: "Warning: Another one of your hired mercenaries has died! I hope you offer workman’s comp."
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Warning: Another one of your hired mercenaries has died! I hope you offer workman’s comp.
-System announcement following the death of a second hired mercenary (ghoul), delivered with in-world commentary.
+# warning_another_one_of_your_hired_mercenaries_has_died_i_hope_you_offer_workmans_comp
+
+• Another one of your hired mercenaries has died.
+• I hope you offer workman's comp.

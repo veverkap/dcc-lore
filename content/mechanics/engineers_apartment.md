@@ -3,27 +3,11 @@ title: "Engineer’s apartment"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Engineer’s apartment
 
-title: "Engineer’s apartment"
-type: Location
-tags: [dcc-lore-graph]
----
-# [[Engineer’s apartment]]
-A small cabin in the engine car (bed, table, mantaur-sized toilet) where [[Katia]] rests and where [[dungeon crawler carl]] searches and loots before returning to the main room.
+# engineers_apartment
 
-## Additional Observations
-title: "Engineer’s apartment"
-type: Location
-tags: [dcc-lore-graph]
----
-# Engineer’s apartment
-A small compartment used to rest [[Katia]] after the fight; contains a bed and sparse furnishings oriented toward a ManTauR user. Used as temporary shelter and looting spot.
-
-## Additional Observations
-title: "Engineer’s Apartment"
-type: Location
-tags: [dcc-lore-graph]
----
-# Engineer’s Apartment
-A small room in the engine car where [[Katia]] rests briefly; noted to have a mantaur-sized toilet and personal posters and where [[dungeon crawler carl]] loots unsecured items.
+• A small cabin or compartment in the engine car with a bed, table, and mantaur-sized toilet.
+• Used as a temporary [[shelter]] and looting spot for [[Katia]] and [[dungeon [[crawler]] carl]].
+• Contains sparse furnishings oriented towards a ManTauR user.
+• Has personal posters.
+• Features a mantaur-sized toilet.

@@ -3,27 +3,9 @@ title: "Bahamas"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Bahamas
 
-title: "Bahamas"
-type: Location
-tags: [dcc-lore-graph]
----
-# Bahamas
-Region referenced repeatedly (including a lore book and speculation about [[Prepotente]] and others being there); relevant because of previous events and possible phase-two targeting.
+# bahamas
 
-## Additional Observations
-title: "Bahamas"
-type: Location
-tags: [dcc-lore-graph]
----
-# Bahamas
-One of the relocation choice options shown to players during the spawn selection glitch.
-
-## Additional Observations
-title: "Bahamas"
-type: Location
-tags: [dcc-lore-graph]
----
-# Bahamas
-Region discussed as another possible starting location and reported location of [[Prepotente]]; relevant to Carl’s concerns about where NPCs/ghosts of interest might appear in phase sequencing.
+• Region referenced repeatedly, including in a lore book, and speculated to be connected to [[Prepotente]] and others.
+• One of the relocation choice options shown to players during the spawn selection glitch.
+• Region discussed as a possible starting location and reported location of [[Prepotente]], relevant to Carl's concerns about NPC/ghost appearances in phase sequencing.

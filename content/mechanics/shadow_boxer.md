@@ -3,19 +3,11 @@ title: "Shadow Boxer"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Shadow Boxer
 
-title: "Shadow Boxer"
-type: Location
-tags: [dcc-lore-graph]
----
-# Shadow Boxer
-A popular weekly production/show hosted by [[rosetta]] and funded by the [[Open Intellect Pacifist Network]]. The interview segment and production studio described in the chapter are part of the [[Shadow Boxer]] program.
+# shadow_boxer
 
-## Additional Observations
-title: "Shadow Boxer"
-type: Location
-tags: [dcc-lore-graph]
----
-# Shadow Boxer
-The weekly program/show hosted by [[rosetta]] and funded by the [[Open Intellect Pacifist Network]]. It is the production in which [[dungeon crawler carl]] and [[Donut]] are participating and is the context for liaison presence rules.
+• A popular weekly production/show hosted by [[rosetta]] and funded by the [[Open Intellect [[Pacifist]] Network]].
+• The production includes an interview segment and a production [[studio]].
+• The program is hosted by [[rosetta]] and funded by the [[Open Intellect [[Pacifist]] Network]].
+• [[Dungeon [[Crawler]] Carl]] and [[Donut]] participate in the program.
+• The program is the context for liaison presence rules.

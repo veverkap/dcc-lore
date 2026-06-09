@@ -3,11 +3,8 @@ title: "The Key location has been marked on your map."
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# The Key location has been marked on your map.
 
-title: "The Key location has been marked on your map."
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# The Key location has been marked on your map.
-System notification indicating the [[Key]] marker placement; later updated after a map glitch and relocation event.
+# the_key_location_has_been_marked_on_your_map
+
+• The Key location has been marked on your map.
+• The Key marker placement is indicated by a system notification.

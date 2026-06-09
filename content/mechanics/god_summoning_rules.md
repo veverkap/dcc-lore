@@ -3,11 +3,8 @@ title: "God Summoning Rules"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# God Summoning Rules
 
-title: "God Summoning Rules"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# God Summoning Rules
-System announcement text stating when a god is summoned to a location and that summoning rules apply (e.g., "This god has been summoned to this location. Summoning rules apply.").
+# god_summoning_rules
+
+• God summoning rules apply when a god is summoned to a location.
+• System announcement text is used to indicate when a god is summoned and summoning rules apply.

@@ -3,19 +3,9 @@ title: "Small Arena"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Small Arena
 
-title: "Small Arena"
-type: Location
-tags: [dcc-lore-graph]
----
-# Small Arena
-The venue where the panel discussion takes place; crowded with spectators and used as a public forum discussing mantid strategy and inter-faction politics.
+# small_arena
 
-## Additional Observations
-title: "Small Arena"
-type: Location
-tags: [dcc-lore-graph]
----
-# [[Small Arena]]
-Venue where the panel and audience interaction occurs; includes a round door, crowd seating managed by the [[Soothers]], and visibility of a throng outside.
+• The Small [[Arena]] is a venue for panel discussions and public forums, where mantid strategy and inter-faction politics are discussed.
+• The venue is crowded with spectators and managed by the Soothers, who oversee crowd seating.
+• The round door and throng outside are notable features of the Small [[Arena]].

@@ -3,11 +3,8 @@ title: "Meadowlark Elder Care facility"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Meadowlark Elder Care facility
 
-title: "Meadowlark Elder Care facility"
-type: Location
-tags: [dcc-lore-graph]
----
-# Meadowlark Elder Care facility
-A local Wenatchee facility adjacent to [[Agatha]]'s alley where entrances are likely to spawn; its staff (including Brandon and Chris) are mentioned as potential catalysts for an entrance.
+# meadowlark_elder_care_facility
+
+• Meadowlark Elder Care facility is a local [[Wenatchee]] facility adjacent to [[Agatha]]'s alley, where entrances are likely to spawn.
+• The facility's staff, including Brandon and Chris, are potential catalysts for an entrance.

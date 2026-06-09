@@ -3,19 +3,10 @@ title: "Big Top"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Big Top
 
-title: "Big Top"
-type: Location
-tags: [dcc-lore-graph]
----
-# [[Big Top]]
-The main tent of Grimaldi’s Traveling Circus that is magically protected on the exterior. Entry into the interior requires a magical Big Top Ticket and the objective inside is to collapse three central poles (one per ring) to remove the protection.
+# big_top
 
-## Additional Observations
-title: "Big Top"
-type: Location
-tags: [dcc-lore-graph]
----
-# [[Big Top]]
-The circus tent / central location of the show’s horrors where the [[Parasitic Infestation]]-ridden performers live, where [[Signet]] stands polishing the calliope, and where Carl confronts [[Grimaldi]] and the transformed clowns.
+• The main tent of Grimaldi's Traveling [[Circus]], magically protected on the exterior, requires a magical Big Top Ticket for entry.
+• The interior objective is to collapse three central poles (one per ring) to remove the protection.
+• The [[circus]] tent is the central location of the show's horrors, where Parasitic Infestation-ridden performers live, and where Signet stands polishing the calliope.
+• Carl confronts Grimaldi and the transformed clowns in this location.

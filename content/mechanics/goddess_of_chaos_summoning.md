@@ -3,11 +3,10 @@ title: "Goddess of Chaos summoning"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Goddess of Chaos summoning
 
-title: "Goddess of Chaos summoning"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Goddess of Chaos summoning
-A system announcement: "The battlefield conditions have triggered a summoning! The Goddess of Chaos has been spontaneously summoned." Signals an unscripted deity appearance (later identified as [[Eris]]) and influences summon-related mechanics.
+# goddess_of_chaos_summoning
+
+• The Goddess of Chaos summoning is triggered by [[battlefield]] conditions.
+• A system announcement signals the summoning, stating "The [[battlefield]] conditions have triggered a summoning! The Goddess of Chaos has been spontaneously summoned."
+• The summoned deity is later identified as [[Eris]].
+• The summoning influences summon-related mechanics.

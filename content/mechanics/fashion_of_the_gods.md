@@ -3,19 +3,10 @@ title: "Fashion of the Gods"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Fashion of the Gods
 
-title: "Fashion of the Gods"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Fashion of the Gods
-An achievement/system notification triggered when Carl acquires and equips a divine item (the [[Scavenger’s Daughter Patch]]). The announcement explains divine items' special behavior (hidden bonuses, interactions with deities, possible debuffs) and acts as an in-game informational mechanic.
+# fashion_of_the_gods
 
-## Additional Observations
-title: "Fashion of the Gods!"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Fashion of the Gods!
-An achievement unlocked when [[dungeon crawler carl]] acquires a divine item (the [[Scavenger's Daughter Patch]]). The in-game announcement explains divine item behavior: hidden effects, proximity interactions with deities/demons, and potential for both beneficial and harmful effects.
+• An achievement/achievement notification triggered when Carl acquires and equips a divine item (the [[Scavenger’s Daughter Patch]]).
+• The announcement explains divine items' special behavior, including hidden bonuses, interactions with deities, and possible debuffs.
+• The achievement is unlocked when Carl acquires a divine item (the [[Scavenger’ Daughter Patch]]).
+• Divine items have hidden effects, proximity interactions with deities/demons, and potential for both beneficial and harmful effects.

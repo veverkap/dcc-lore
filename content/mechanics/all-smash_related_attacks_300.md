@@ -3,11 +3,7 @@ title: "All-Smash Related Attacks +300%"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# All-Smash Related Attacks +300%
 
-title: "All-Smash Related Attacks +300%"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# All-Smash Related Attacks +300%
-Temporary system effect applied during the Scavenger’s Daughter's opening that increases "All-Smash" related attack power by 300%. Announced in-world as a temporary benefit.
+# all-smash_related_attacks_300
+
+• All-Smash Related Attacks +300%: Temporary system effect that increases "All-Smash" related attack power by 300% during the Scavenger's Daughter's opening, announced in-world as a temporary benefit.

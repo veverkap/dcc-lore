@@ -3,19 +3,8 @@ title: "Pet Stable"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Pet Stable
 
-title: "Pet Stable"
-type: Location
-tags: [dcc-lore-graph]
----
-# Pet Stable
-New barn-door area appearing in the personal space indicating a place to house pets, discovered by [[Donut]].
+# pet_stable
 
-## Additional Observations
-title: "pet stable"
-type: Location
-tags: [dcc-lore-graph]
----
-# pet stable
-The area where [[Rend]] and [[Mongo]] are playing with [[Gonk]] and [[Simoom]]; a communal space for the group's animals.
+• New barn-door area in personal space for housing pets, discovered by [[Donut]].
+• Area where [[Rend]], [[Mongo]], [[Gonk]], and [[Simoom]] play with their animals, a communal space for the group's pets.

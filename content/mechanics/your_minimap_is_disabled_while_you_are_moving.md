@@ -3,19 +3,9 @@ title: "Your minimap is disabled while you are moving."
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Your minimap is disabled while you are moving.
 
-title: "Your minimap is disabled while you are moving."
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Your minimap is disabled while you are moving.
-An explicit system/dungeon rule displayed to [[dungeon crawler carl]] when attempting to view the minimap at speed. This mechanic prevents map interaction during movement and directly affects navigation choices in [[Heat number one of seven]].
+# your_minimap_is_disabled_while_you_are_moving
 
-## Additional Observations
-title: "Your minimap is disabled while you are moving."
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Your minimap is disabled while you are moving.
-An explicit dungeon/system rule message that disables the minimap when a vehicle is in motion. Appears as an active mechanic during the race heat, preventing map use while driving.
+• Your [[minimap]] is disabled while you are moving.
+• This mechanic is displayed as an explicit system/[[dungeon]] rule, preventing map interaction during movement and affecting navigation choices in [[Heat number one of seven]].
+• The [[minimap]] is disabled when a vehicle is in motion, appearing as an active mechanic during the race [[heat]].

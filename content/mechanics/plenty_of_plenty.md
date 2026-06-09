@@ -3,27 +3,9 @@ title: "Plenty of Plenty"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Plenty of Plenty
 
-title: "Plenty of Plenty"
-type: Location
-tags: [dcc-lore-graph]
----
-# [[plenty]]
-The live show/program the narrator and [[Donut]] are being taken to appear on; the production context for the chapter and the location of the greenroom and onstage interlocution.
+# plenty_of_plenty
 
-## Additional Observations
-title: "Plenty of Plenty"
-type: Location
-tags: [dcc-lore-graph]
----
-# [[Plenty of Plenty]]
-The live program/show the characters are summoned to appear on. The production of [[Plenty of Plenty]] continues despite system chaos and is overseen by staff like [[Lexis]] and [[Zev]].
-
-## Additional Observations
-title: "Plenty of Plenty"
-type: Location
-tags: [dcc-lore-graph]
----
-# Plenty of Plenty
-A location referenced by [[Carl]] when comforting [[Prepotente]] — a place the narrator has spent time and uses as an example of community or herd belonging.
+• The live show/program [[plenty]] where the narrator and [[Donut]] appear, featuring a [[greenroom]] and onstage interlocution.
+• The production of [[Plenty of Plenty]] continues despite system chaos, overseen by staff like [[Lexis]] and [[Zev]].
+• [[Plenty of Plenty]] is a location referenced by [[Carl]] when comforting [[Prepotente]], representing community or herd belonging.

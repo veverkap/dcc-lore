@@ -3,11 +3,10 @@ title: "Enemy Castle"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Enemy Castle
 
-title: "Enemy Castle"
-type: Location
-tags: [dcc-lore-graph]
----
-# [[Enemy Castle]]
-The small, ramshackle headquarters (castle/warehouse) belonging to the [[Prism]], approached and infiltrated by Carl’s team; contains protection spells and the throne room.
+# enemy_castle
+
+• The Enemy Castle is a small, ramshackle [[headquarters]] belonging to the Prism.
+• It is located in a castle/[[warehouse]] and contains protection spells.
+• The castle has a throne room.
+• Carl's team approached and infiltrated the castle.

@@ -3,19 +3,8 @@ title: "Smushed for Daddy"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Smushed for Daddy
 
-title: "Smushed for Daddy"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Smushed for Daddy
-A crass, voiced achievement for being stepped on by a deity and surviving; rewards a Platinum Spicy Box. Noted for its odd AI commentary.
+# smushed_for_daddy
 
-## Additional Observations
-title: "Smushed for Daddy"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Smushed for Daddy
-Achievement: A flavor/achievement for surviving being stepped on by a deity; rewards a [[platinum spicy box]] and includes a lewd AI narration in the chapter.
+• A crass, voiced achievement for being stepped on by a deity and surviving; rewards a Platinum Spicy Box. Noted for its odd AI commentary.
+• A flavor/achievement for surviving being stepped on by a deity; rewards a [[platinum spicy box]] and includes a lewd AI narration in the chapter.

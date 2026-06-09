@@ -3,11 +3,8 @@ title: "Open-Top Towers"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Open-Top Towers
 
-title: "Open-Top Towers"
-type: Location
-tags: [dcc-lore-graph]
----
-# Open-Top Towers
-The pencil-thin towers at the elf castle corners housing magic-wielding guards; accessible via narrow staircases with entrances on the third floor.
+# open-top_towers
+
+• The Open-Top [[Towers]] are pencil-thin [[towers]] located at the corners of the elf castle, housing magic-wielding guards.
+• The [[towers]] are accessible via narrow staircases with entrances on the third floor.

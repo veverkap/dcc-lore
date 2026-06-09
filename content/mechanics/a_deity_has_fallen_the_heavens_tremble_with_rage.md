@@ -3,19 +3,10 @@ title: "A deity has fallen. The heavens tremble with rage."
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# A deity has fallen. The heavens tremble with rage.
 
-title: "A deity has fallen. The heavens tremble with rage."
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# [[A deity has fallen. The heavens tremble with rage.]]
-A global system announcement triggered when [[Dodola]] is killed inside the containment. It signals major world/Dungeon ramifications for the death of a deity and is broadcast as a mechanistic event in the chapter.
+# a_deity_has_fallen_the_heavens_tremble_with_rage
 
-## Additional Observations
-title: "A deity has fallen. The heavens tremble with rage."
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# A deity has fallen. The heavens tremble with rage.
-A global system announcement triggered when [[Ysalte]] is slain, indicating major realm-level consequences and deity reactions.
+• A deity has fallen. The heavens tremble with rage.
+• Triggered by the death of either [[Dodola]] or [[Ysalte]].
+• Global system announcement signals major world/[[Dungeon]] ramifications.
+• Broadcasts as a mechanistic event in the chapter.

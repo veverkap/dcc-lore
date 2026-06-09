@@ -3,19 +3,10 @@ title: "Protection Seal"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Protection Seal
 
-title: "Protection Seal"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# Protection Seal
-The divine/dungeon rule tied to the [[Butcher’s Masquerade]] and [[Apito]]'s ritual: violent acts break the seal and result in banishment to the Nothing. It also restricts leaving the room while active and is monitored by the ballroom overlay.
+# protection_seal
 
-## Additional Observations
-title: "Protection Seal"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# [[Protection Seal]]
-Dungeon rule/peace seal that prevents hostilities while active. Breaking the seal triggers immediate consequences (e.g., hunters teleporting out, escalated violence, potential banishment). Mentioned as something Vrah enforces and as a trigger for Chaco to teleport away.
+• The Protection [[Seal]] is tied to the Butcher's Masquerade and Apito's ritual, and violent acts break the [[seal]], resulting in banishment to the [[Nothing]].
+• The [[seal]] restricts leaving the room while active and is monitored by the [[ballroom]] overlay.
+• The [[seal]] prevents hostilities while active, but breaking it triggers immediate consequences, such as hunters teleporting out, escalated violence, and potential banishment.
+• Vrah enforces the [[seal]], and it can trigger Chaco to [[teleport]] away.

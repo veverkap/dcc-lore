@@ -3,11 +3,7 @@ title: "Cul-de-sac (Roundabout)"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Cul-de-sac (Roundabout)
 
-title: "Cul-de-sac (Roundabout)"
-type: Location
-tags: [dcc-lore-graph]
----
-# Cul-de-sac (Roundabout)
-The asphalt circular ringed by garages in [[Hungry Eyes Village]]; contains the numbered garage doors and the short walking path to the shimmering portal.
+# cul-de-sac_roundabout
+
+• The [[Cul-De-Sac]] (Roundabout) is a location in [[Hungry Eyes Village]], featuring a circular asphalt ring surrounded by garages, numbered [[garage]] doors, and a short walking path to a shimmering [[portal]].

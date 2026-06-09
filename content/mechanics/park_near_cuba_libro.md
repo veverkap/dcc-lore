@@ -3,11 +3,7 @@ title: "Park (near Cuba Libro)"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Park (near Cuba Libro)
 
-title: "Park (near Cuba Libro)"
-type: Location
-tags: [dcc-lore-graph]
----
-# Park (near Cuba Libro)
-A nearby public park noted for hosting larger, human-sized mobs; identified as the next target area for the group's hunts and captures after clearing the city.
+# park_near_cuba_libro
+
+• Park (near [[Cuba]] Libro): a public park hosting larger, human-sized mobs and identified as a [[target]] area for hunts and captures after clearing the city.

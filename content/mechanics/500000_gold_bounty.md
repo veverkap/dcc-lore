@@ -3,11 +3,7 @@ title: "500,000 Gold Bounty"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# 500,000 Gold Bounty
 
-title: "500,000 Gold Bounty"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# 500,000 Gold Bounty
-A system-awarded bounty granted to [[Katia]] for killing one of the [[Top 10]] (specifically [[Hekla]]), representing an in-game achievement and reward mechanic.
+# 500000_gold_bounty
+
+• A system-awarded [[bounty]] of 500,000 Gold, granted to [[Katia]] for killing [[Hekla]], a member of the [[Top 10]].

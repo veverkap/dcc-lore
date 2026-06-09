@@ -3,19 +3,8 @@ title: "Belgium"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Belgium
 
-title: "Belgium"
-type: Location
-tags: [dcc-lore-graph]
----
-# [[Belgium]]
-Named as a location where Elle’s squad traveled during the key phase and as a Doggie Door destination example.
+# belgium
 
-## Additional Observations
-title: "Belgium"
-type: Location
-tags: [dcc-lore-graph]
----
-# Belgium
-Country where [[elle mcgib]]'s squad was relocated in the glitch distribution.
+• Named as a location where Elle's squad traveled during the key phase and as a Doggie Door destination example.
+• Country where [[elle mcgib]]'s squad was relocated in the glitch distribution.

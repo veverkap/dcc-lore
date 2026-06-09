@@ -3,11 +3,10 @@ title: "Lost City of Upano"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Lost City of Upano
 
-title: "Lost City of Upano"
-type: Location
-tags: [dcc-lore-graph]
----
-# Lost City of Upano
-The larger zone containing the pit stop and surrounding jungle; announced to entrants as [[Entering the Lost City of Upano. Mind the locals.]] and described as extending beyond the suburban pit area.
+# lost_city_of_upano
+
+• The Lost City of [[Upano]] is a location.
+• It contains a pit stop and surrounding [[jungle]].
+• Entrants are announced to enter through [[Entering the Lost City of [[Upano]]. Mind the locals.]].
+• The zone extends beyond the suburban pit area.

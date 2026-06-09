@@ -3,11 +3,9 @@ title: "Tower Maze"
 type: Mechanic
 tags: [dcc-lore-graph]
 ---
-# Tower Maze
 
-title: "Tower Maze"
-type: Location
-tags: [dcc-lore-graph]
----
-# Tower Maze
-The tall, multi-level vertical maze at the center of the grass-covered eighth floor; entrance carried a strict rule and the interior was revealed to be an advertisement trap sponsored by [[Dictum Waystation Controls, Limited.]].
+# tower_maze
+
+• The [[Tower]] Maze is a multi-level vertical maze located at the center of the grass-covered eighth floor.
+• The entrance is subject to a strict rule.
+• The interior is an advertisement trap sponsored by [[Dictum Waystation Controls, Limited]].
