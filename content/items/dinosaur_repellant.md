@@ -3,27 +3,9 @@ title: "Dinosaur Repellant"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Dinosaur Repellant
 
-title: "Dinosaur Repellant"
-type: Item
-tags: [dcc-lore-graph]
----
-# Dinosaur Repellant
-A potion [[Britney]] takes daily to avoid dino attacks (she describes it as “the dinosaur repellant”); it is unreliable against certain creatures like [[Mongo]].
+# dinosaur_repellant
 
-## Additional Observations
-title: "Dinosaur Repellant"
-type: Item
-tags: [dcc-lore-graph]
----
-# Dinosaur Repellant
-A potion Britney takes daily to try to keep the dinosaurs (like [[Tina]] and [[Mongo]]) from tackling her; she reports it does not seem fully effective.
-
-## Additional Observations
-title: "Dinosaur repellant"
-type: Item
-tags: [dcc-lore-graph]
----
-# Dinosaur repellant
-A small referenced item in the chapter (questioned whether [[Prepotente]] or others took it). Used as a mundane protective tool in the group’s preparations.
+• A potion taken daily by Britney to avoid dino attacks, but it is unreliable against certain creatures like [[Mongo]].
+• The potion is used to try to keep dinosaurs (like Tina and [[Mongo]]) from tackling Britney, but it does not seem fully effective.
+• The potion is a small referenced item in the chapter, and its effectiveness is questioned, with some wondering if Prepotente or others took it.

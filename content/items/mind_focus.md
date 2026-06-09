@@ -3,11 +3,7 @@ title: "Mind Focus"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Mind Focus
 
-title: "Mind Focus"
-type: Item
-tags: [dcc-lore-graph]
----
-# Mind Focus
-A personal buff referenced as probably the reason [[dungeon crawler carl]] is less affected by the hyper-chatty side effects of [[Extreme Focus]]. Used to stabilize mental performance under stress.
+# mind_focus
+
+• A personal [[buff]] used to stabilize mental performance under stress, possibly affecting [[dungeon crawler carl]]'s resistance to the hyper-chorus effects of [[Extreme Focus]].

@@ -3,19 +3,8 @@ title: "Former Child Actor accessory kit"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Former Child Actor accessory kit
 
-title: "Former Child Actor accessory kit"
-type: Item
-tags: [dcc-lore-graph]
----
-# [[Former Child Actor accessory kit]]
-Accessory kit delivered to [[Donut]] in the saferoom mailbox; an equipable item set.
+# former_child_actor_accessory_kit
 
-## Additional Observations
-title: "Former Child Actor accessory kit"
-type: Item
-tags: [dcc-lore-graph]
----
-# Former Child Actor accessory kit
-Accessory kit delivered to [[Donut]] in the saferoom mailbox upon arrival; example of saferoom-sourced cosmetic/equipment loot.
+• Accessory kit delivered to [[Donut]] in the [[saferoom]] [[mailbox]]; an equipable item set.
+• Example of [[saferoom]]-sourced cosmetic/equipment loot.

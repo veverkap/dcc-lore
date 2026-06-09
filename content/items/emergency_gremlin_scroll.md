@@ -3,29 +3,10 @@ title: "Emergency Gremlin scroll"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Emergency Gremlin scroll
 
-title: "Emergency Gremlin scroll"
-type: Item
-tags: [dcc-lore-graph]
----
-# Emergency Gremlin scroll
-A consumable scroll used by [[Donut]] and others to summon gremlins; multiple uses in quick succession produce several distinct gremlins that aid in combat.
+# emergency_gremlin_scroll
 
-## Automated Merge Entry (emergency_gremlin_scrolls)
-# Emergency Gremlin scrolls
-
-title: "Emergency Gremlin scrolls"
-type: Item
-tags: [dcc-lore-graph]
-
-# [[emergency gremlin scroll]]
-Consumable scrolls used to generate or distract gremlins; some were used by the team to distract a boss and some were dipped in a pouch or eaten. Cited in the scene as the reason gremlins swarmed the truck.
-
-## Additional Observations
-title: "Emergency Gremlin scroll"
-type: Item
-tags: [dcc-lore-graph]
----
-# Emergency Gremlin scroll
-A consumable scroll item that summons multiple gremlins (the chapter shows Carl and Donut reading it to summon eight gremlins). Summoned gremlins assist briefly and explode when their summoning times out.
+• Consumable scroll used to summon gremlins; multiple uses produce distinct gremlins that aid in combat.
+• Used to generate or distract gremlins; some were used to distract a boss and some were dipped in a pouch or eaten.
+• Summons multiple gremlins (up to 8) that assist briefly and explode when their summoning times out.
+• [[Donut]] and others have used this scroll to summon gremlins.

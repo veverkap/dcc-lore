@@ -3,19 +3,9 @@ title: "Justice Light trap"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Justice Light trap
 
-title: "Justice Light trap"
-type: Item
-tags: [dcc-lore-graph]
----
-# Justice Light trap
-A named trap mechanism referenced in conversation (explained to the narrator by [[Bathin]]). Presented as a known device in the setting, implying use within dungeon or investigative contexts.
+# justice_light_trap
 
-## Additional Observations
-title: "Justice Light trap"
-type: Item
-tags: [dcc-lore-graph]
----
-# Justice Light trap
-A trap referenced in conversation—previously explained to [[Carl]] by [[Bathin]]. Mentioned as part of prior interactions and goat-specific knowledge.
+• A named trap mechanism referenced in conversation, explained by [[Bathin]] to the narrator and [[Carl]].
+• Presented as a known device in the setting, implying use within dungeon or investigative contexts.
+• Mentioned as part of prior interactions and goat-specific knowledge.

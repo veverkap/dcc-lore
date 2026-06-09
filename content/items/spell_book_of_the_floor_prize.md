@@ -3,11 +3,10 @@ title: "Spell book of the floor prize"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Spell book of the floor prize
 
-title: "Spell book of the floor prize"
-type: Item
-tags: [dcc-lore-graph]
----
-# Spell book of the floor prize
-A coveted magical item Donut intends to retrieve; referenced as previously lost when skipping a floor and important for spellcasting options.
+# spell_book_of_the_floor_prize
+
+• A coveted magical item
+• Intended to be retrieved by Donut
+• Previously lost when skipping a floor
+• Important for spellcasting options

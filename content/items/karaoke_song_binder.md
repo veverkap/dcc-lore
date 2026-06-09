@@ -3,11 +3,8 @@ title: "Karaoke Song Binder"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Karaoke Song Binder
 
-title: "Karaoke Song Binder"
-type: Item
-tags: [dcc-lore-graph]
----
-# Karaoke Song Binder
-The stapled-together book at the Lollipop used to pick karaoke songs; contains secret marked songs that can trigger the entrance sequence to the [[Stage Performance Guild]] when performed correctly.
+# karaoke_song_binder
+
+• The Karaoke Song Binder is a stapled book at the Lollipop that contains secret marked songs.
+• Performing these marked songs correctly can trigger the entrance sequence to the [[Stage Performance Guild]].

@@ -3,19 +3,8 @@ title: "Free Table Coupon"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Free Table Coupon
 
-title: "Free Table Coupon"
-type: Item
-tags: [dcc-lore-graph]
----
-# Free Table Coupon
-Coupons that allow purchase of free tables (in-dungeon amenities that level up when floors collapse). [[dungeon crawler carl]] collects other players' coupons to leave for [[Mordecai]] to spend if needed.
+# free_table_coupon
 
-## Additional Observations
-title: "Free Table Coupon"
-type: Item
-tags: [dcc-lore-graph]
----
-# Free Table Coupon
-Coupon items used to claim free tables for base/amenity upgrades; Carl collected others' coupons to leave for [[Mordecai]] to spend if necessary.
+• Coupons allow purchase of free tables, which level up when floors collapse.
+• [[dungeon crawler carl]] collects other players' coupons to leave for [[Mordecai]] to spend if needed.

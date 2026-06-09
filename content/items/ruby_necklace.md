@@ -3,11 +3,7 @@ title: "Ruby Necklace"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Ruby Necklace
 
-title: "Ruby Necklace"
-type: Item
-tags: [dcc-lore-graph]
----
-# [[Ruby Necklace]]
-Unenchanted jewelry (a ruby necklace) found among loot that the narrator identifies as valuable in their inventory.
+# ruby_necklace
+
+• Unenchanted jewelry, specifically a ruby necklace, found among valuable loot in the narrator's inventory.

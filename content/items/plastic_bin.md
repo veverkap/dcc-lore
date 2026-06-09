@@ -3,11 +3,9 @@ title: "Plastic Bin"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Plastic Bin
 
-title: "Plastic Bin"
-type: Item
-tags: [dcc-lore-graph]
----
-# Plastic Bin
-The plastic container holding the [[Residuals]]' stash that [[dungeon crawler carl]] loots and which becomes the subject of seizure negotiations by [[orren the liaison]] and [[Quasar]]. Contains items including [[Valtay Neural Enhancement Pills]] and a [[Communicator]].
+# plastic_bin
+
+• The plastic container holds the [[Residuals]]' stash, which is looted by [[dungeon crawler carl]].
+• The stash is the subject of seizure negotiations between [[orren the liaison]] and [[Quasar]].
+• The container contains items such as [[Valtay Neural Enhancement Pills]] and a [[Communicator]].

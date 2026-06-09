@@ -3,19 +3,8 @@ title: "Li Na chain"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Li Na chain
 
-title: "Li Na chain"
-type: Item
-tags: [dcc-lore-graph]
----
-# Li Na chain
-A lethal or magical device/process that [[Donut]] used to smoosh hostile forces and which got into [[Rosetta]]’s teeth, incapacitating [[Li Na]]’s healing.
+# li_na_chain
 
-## Additional Observations
-title: "Li Na chain"
-type: Item
-tags: [dcc-lore-graph]
----
-# Li Na chain
-A chain/artifact used during the battle sequence that resulted in beings being "smooshed" through it; had lasting effects like [[Li Na]] losing healing ability after something reached [[Rosetta]]’s teeth.
+• A lethal or magical device/process used by [[Donut]] to smoosh hostile forces, which got into [[Rosetta]]'s teeth, incapacitating [[Li Na]]'s healing.
+• Used during a battle sequence, resulting in beings being "smooshed" through it, with lasting effects like [[Li Na]] losing healing ability.

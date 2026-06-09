@@ -3,19 +3,12 @@ title: "Trailer"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Trailer
 
-title: "Trailer"
-type: Item
-tags: [dcc-lore-graph]
----
-# Trailer
-The team's trailer attached to the truck; used for storage and was brought into the garage. Objects fall from it when [[Rend]] and [[Mongo]] play.
+# trailer
 
-## Additional Observations
-title: "Trailer"
-type: Item
-tags: [dcc-lore-graph]
----
-# Trailer
-Trailer attached to the [[Royal Court Truck]]; was brought into [[Hedy]]'s garage and contains cargo that can shift (chains remained after a teleport event). Site of some creature mischief by [[Mongo]] and [[Rend]].
+• The team's trailer, attached to the [[truck]], was brought into the garage and contains cargo that can shift.
+• Objects fall from it when [[Rend]] and [[Mongo]] play.
+• The trailer is attached to the [[Royal Court Truck]].
+• It was brought into [[Hedy]]'s garage.
+• The cargo can shift, with [[chains]] remaining after a [[teleport]] event.
+• [[Mongo]] and [[Rend]] have been known to cause mischief in the trailer.

@@ -3,35 +3,10 @@ title: "Lazarus A-Bang-Bang"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Lazarus A-Bang-Bang
 
-title: "Lazarus A-Bang-Bang"
-type: Item
-tags: [dcc-lore-graph]
----
-# Lazarus A-Bang-Bang
-A totem card (robed figure) that appears wielding an RPG. Its projectile detonated prematurely during the barn fight, causing collateral effects on summoned allies and the environment.
+# lazarus_a-bang-bang
 
-## Additional Observations
-title: "Lazarus A-Bang-Bang"
-type: Item
-tags: [dcc-lore-graph]
----
-# Lazarus A-Bang-Bang
-A totem card present in the active deck; an Item likely tied to resurrection or explosive mechanics by name.
-
-## Additional Observations
-title: "Lazarus A-Bang-Bang"
-type: Item
-tags: [dcc-lore-graph]
----
-# [[Lazarus A-Bang-Bang]]
-A totem card whose manifested form (Lazarus-A-Bang-Bang) appears carrying an RPG; its rocket attack detonates prematurely in the barn environment.
-
-## Additional Observations
-title: "Lazarus A-Bang-Bang"
-type: Item
-tags: [dcc-lore-graph]
----
-# [[Lazarus A-Bang-Bang]]
-A totem card present in the Current Active Deck.
+• A [[totem]] card that appears wielding an [[RPG]], with its projectile detonating prematurely during the barn fight, affecting summoned allies and the environment.
+• A [[totem]] card present in the active deck, likely tied to resurrection or explosive mechanics by name.
+• A [[totem]] card whose manifested form appears carrying an [[RPG]], with its rocket attack detonating prematurely in the barn environment.
+• A [[totem]] card present in the Current Active Deck.

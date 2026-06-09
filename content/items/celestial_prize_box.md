@@ -3,11 +3,8 @@ title: "Celestial prize box"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Celestial prize box
 
-title: "Celestial prize box"
-type: Item
-tags: [dcc-lore-graph]
----
-# Celestial prize box
-The reward container Katia claims to have received at the beginning of the Sixth Floor for opening the [[Gate of the Feral Gods]]; from it came the [[Engaged Lock Box of the Night Wyrm]].
+# celestial_prize_box
+
+• The Celestial prize box is a reward container received by Katia for opening the [[Gate of the Feral Gods]].
+• It contains the [[Engaged Lock Box of the Night Wyrm]].

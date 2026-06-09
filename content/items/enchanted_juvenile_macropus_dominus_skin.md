@@ -3,19 +3,13 @@ title: "Enchanted Juvenile Macropus Dominus Skin"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Enchanted Juvenile Macropus Dominus Skin
 
-title: "Enchanted Juvenile Macropus Dominus Skin"
-type: Item
-tags: [dcc-lore-graph]
----
-# Enchanted Juvenile Macropus Dominus Skin
-A costume/outer garment looted from the engineer corpse ([[Niels]]). Grants Protection from Seeping Acid, a level 10 Jump skill, +5 to Lotion Application, and is a 12-hour timed item; wearing it affects other equipment and player effects.
+# enchanted_juvenile_macropus_dominus_skin
 
-## Additional Observations
-title: "Enchanted Juvenile Macropus Dominus Skin"
-type: Item
-tags: [dcc-lore-graph]
----
-# Enchanted Juvenile Macropus Dominus Skin
-A costume/outer-garment dropped from [[Prison Pocket]]. Description in the chapter: fills a costume slot, worn as an outer garment, grants Protection from Seeping Acid, a level 10 Jump skill, +5 to Lotion Application skill, and is a 12-hour timed item. Has consequences such as negating certain equipped effect slots when worn.
+• Grants Protection from Seeping Acid
+• Level 10 Jump skill
+• +5 to Lotion Application skill
+• 12-hour timed item
+• Fills a costume slot
+• Worn as an outer garment
+• Negates certain equipped effect slots when worn

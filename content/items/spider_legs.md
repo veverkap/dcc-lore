@@ -3,19 +3,9 @@ title: "Spider legs"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Spider legs
 
-title: "Spider legs"
-type: Item
-tags: [dcc-lore-graph]
----
-# [[Spider legs]]
-A vehicle feature engaged by the truck's big red button; warned against touching by [[Carl]] because activation changes vehicle configuration.
+# spider_legs
 
-## Additional Observations
-title: "Spider legs"
-type: Item
-tags: [dcc-lore-graph]
----
-# Spider legs
-Equipment attached to the vehicle that can be activated for movement over terrain; [[Spider legs]] are used to skitter toward exits when tires fail.
+• A vehicle feature engaged by the [[truck]]'s big red button, which changes the vehicle's configuration.
+• Equipment attached to the vehicle that can be activated for movement over terrain, used to skitter toward exits when tires fail.
+• Warned against touching by [[Carl]].

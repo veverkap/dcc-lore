@@ -3,11 +3,7 @@ title: "Dungeon-made Meth (two baggies)"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Dungeon-made Meth (two baggies)
 
-title: "Dungeon-made Meth (two baggies)"
-type: Item
-tags: [dcc-lore-graph]
----
-# Dungeon-made Meth (two baggies)
-[[Dungeon-made Meth (two baggies)]] are the two small baggies of narcotic the protagonist trades; the goblin shamanka recognizes them as dungeon-made and eagerly accepts them as payment.
+# dungeon-made_meth_two_baggies
+
+• [[Dungeon-made Meth (two baggies)]] are two small baggies of narcotic traded by the protagonist, recognized as dungeon-made by the goblin shamanka and accepted as payment.

@@ -3,19 +3,9 @@ title: "Lights Out"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Lights Out
 
-title: "Lights Out"
-type: Item
-tags: [dcc-lore-graph]
----
-# Lights Out
-A level-15 blindness spell used by [[Shi Maria]]; listed among the afflictions that [[Liquid Therapy]] protects against.
+# lights_out
 
-## Additional Observations
-title: "Lights Out"
-type: Item
-tags: [dcc-lore-graph]
----
-# Lights Out
-A level-15 blindness spell listed for [[Shi Maria]] and noted as uncureable without divine help; covered by [[Liquid Therapy]] protections.
+• A level-15 blindness spell used by [[Shi Maria]].
+• Listed among the afflictions that [[Liquid Therapy]] protects against.
+• Uncureable without divine help.

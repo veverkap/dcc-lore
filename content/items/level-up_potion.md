@@ -3,21 +3,8 @@ title: "Level-Up Potion"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Level-Up Potion
 
-title: "Level-Up Potion"
-type: Item
-tags: [dcc-lore-graph]
----
-# Level-Up Potion
-A rare single-use potion in the prize case that grants a level-up; limited to one per buyer.
+# level-up_potion
 
-## Automated Merge Entry (level-up_potions)
-# Level-up potions
-
-title: "Level-up potions"
-type: Item
-tags: [dcc-lore-graph]
-
-# level-up potions
-Consumable reward items listed as part of the bounty for killing [[Orthrus]] in the world quest "Get Orthrus" (five per qualifying winner).
+• Grants a level-up when consumed; limited to one per buyer.
+• Consumable reward items for killing [[Orthrus]] in the "Get Orthrus" world quest (five per qualifying winner).

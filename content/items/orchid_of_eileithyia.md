@@ -3,11 +3,9 @@ title: "Orchid of Eileithyia"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Orchid of Eileithyia
 
-title: "Orchid of Eileithyia"
-type: Item
-tags: [dcc-lore-graph]
----
-# Orchid of Eileithyia
-A consumable summoning item; when [[Katia]] consumes it she is rendered unconscious for an hour and the goddess [[Huanxin Jinx]] is summoned to perform the ceremony.
+# orchid_of_eileithyia
+
+• Consumable summoning item
+• When consumed by [[Katia]], renders her unconscious for an hour
+• Summons the goddess [[Huanxin Jinx]] to perform a ceremony

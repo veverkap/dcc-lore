@@ -3,19 +3,12 @@ title: "Red Beret"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Red Beret
 
-title: "Red Beret"
-type: Item
-tags: [dcc-lore-graph]
----
-# Red Beret
-Magical beret looted from the [[Experience]]. It glowed to indicate magical properties; [[Donut]] donned it and read its stats.
+# red_beret
 
-## Additional Observations
-title: "Red Beret"
-type: Item
-tags: [dcc-lore-graph]
----
-# [[Red Beret]]
-Magical headgear dropped by [[The Experience]]; looted by [[Donut]] and inspected for stats. Displays a glowing/magical status indicator in the text.
+• Magical beret looted from the [[Experience]].
+• Glows to indicate magical properties.
+• Donned by [[Donut]] and read its stats.
+• Dropped by [[The Experience]].
+• Inspected for stats by [[Donut]].
+• Displays a glowing/magical status indicator in the text.

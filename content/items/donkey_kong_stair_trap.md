@@ -3,11 +3,7 @@ title: "Donkey Kong stair trap"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Donkey Kong stair trap
 
-title: "Donkey Kong stair trap"
-type: Item
-tags: [dcc-lore-graph]
----
-# [[Donkey Kong stair trap]]
-A stair-trap mechanism in the [[Nest Tower]] that Donut had switched off to restore normal steps; part of the tower’s defensive environmental gear.
+# donkey_kong_stair_trap
+
+• [[Donkey Kong stair trap]]: a stair-trap mechanism in the [[Nest Tower]] that was switched off by Donut to restore normal steps, part of the tower's defensive environmental gear.

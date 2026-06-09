@@ -3,19 +3,9 @@ title: "Bronze I'm Wet Box"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Bronze I'm Wet Box
 
-title: "Bronze I'm Wet Box"
-type: Item
-tags: [dcc-lore-graph]
----
-# Bronze I'm Wet Box
-Achievement reward box given for the "I was in the pool!" achievement; contained ten [[scroll of water breathing]]s per party member in this chapter.
+# bronze_im_wet_box
 
-## Additional Observations
-title: "Bronze I'm Wet Box"
-type: Item
-tags: [dcc-lore-graph]
----
-# Bronze I'm Wet Box
-Achievement reward for “I was in the pool!” which supplied additional [[scroll of water breathing]]s (ten per party member) and, in [[Donut]]’s case, a silver upgrade and the [[Belt of Buoyancy]].
+• Achievement reward box for "I was in the pool!" achievement
+• Contains ten [[scroll of water breathing]]s per party member
+• In [[Donut]]'s case, also includes a silver upgrade and the [[Belt of Buoyancy]]

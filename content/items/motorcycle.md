@@ -3,43 +3,11 @@ title: "Motorcycle"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Motorcycle
 
-title: "Motorcycle"
-type: Item
-tags: [dcc-lore-graph]
----
-# Motorcycle
-A dented motorcycle that [[dungeon crawler carl]] previously saw in the [[Prize Carousel]] on the [[Fourth Floor]]; its reappearance outside the [[Trailer]] signals the likely presence of a specific adversary (and triggers recognition in [[dungeon crawler carl]]).
+# motorcycle
 
-## Additional Observations
-title: "Motorcycle"
-type: Item
-tags: [dcc-lore-graph]
----
-# Motorcycle
-The father's motorcycle for which [[dungeon crawler carl]] finds keys inside the trailer. Looted by [[dungeon crawler carl]] during the recording.
-
-## Additional Observations
-title: "Motorcycle"
-type: Item
-tags: [dcc-lore-graph]
----
-# Motorcycle
-The personal vehicle retrieved from [[dungeon crawler carl]]’s inventory and used to escape the arena entrance after [[Donut]] teleported them.
-
-## Additional Observations
-title: "Motorcycle"
-type: Item
-tags: [dcc-lore-graph]
----
-# Motorcycle
-[[Motorcycle]] is the distinctive motorcycle with a big dent that Carl recognized from the prize carousel on the [[Fourth Floor]]; its presence outside the trailer is used to identify who’s inside.
-
-## Additional Observations
-title: "Motorcycle"
-type: Item
-tags: [dcc-lore-graph]
----
-# Motorcycle
-Vehicle owned by [[Carl's Father]]; [[dungeon crawler carl]] finds the keys and takes ownership as part of looting the trailer.
+• The motorcycle is a dented bike that [[dungeon crawler carl]] recognized from the [[Prize Carousel]] on the [[Fourth Floor]], and its reappearance outside the [[Trailer]] signals the presence of a specific adversary.
+• The motorcycle is the father's personal vehicle, for which [[dungeon crawler carl]] finds [[keys]] inside the [[trailer]] and loots during the recording.
+• The motorcycle is used to escape the arena entrance after [[Donut]] teleports [[dungeon crawler carl]].
+• [[Motorcycle]] is the distinctive bike with a big dent that Carl recognized from the prize carousel on the [[Fourth Floor]], and its presence outside the [[trailer]] is used to identify who's inside.
+• The motorcycle is owned by [[Carl's Father]], and [[dungeon crawler carl]] takes ownership by finding the [[keys]] and looting the [[trailer]].

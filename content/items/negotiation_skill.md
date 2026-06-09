@@ -3,19 +3,10 @@ title: "Negotiation skill"
 type: Item
 tags: [dcc-lore-graph]
 ---
-# Negotiation skill
 
-title: "Negotiation skill"
-type: Item
-tags: [dcc-lore-graph]
----
-# [[Negotiation skill]]
-Skill Donut retains partial levels of after losing a temporary class; example in-chapter of persistent skill experience across floors. Discussed by [[Mordecai]] as a soft exploit/quirk of the system.
+# negotiation_skill
 
-## Additional Observations
-title: "Negotiation skill"
-type: Item
-tags: [dcc-lore-graph]
----
-# Negotiation skill
-Skill previously gained by [[Donut]] from the Artist Alley class; retains partial levels when classes are lost between floors if the skill was leveled organically.
+• Skill Donut retains partial levels of Negotiation skill after losing a temporary class.
+• The skill retains partial levels when classes are lost between floors if leveled organically.
+• [[Mordecai]] discussed this as a soft exploit/quirk of the system.
+• [[Donut]] previously gained the skill from the Artist Alley class.
