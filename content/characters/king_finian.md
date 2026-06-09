@@ -3,35 +3,14 @@ title: "King Finian"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# King Finian
 
-# King Finian
-The deceased high elf king and father of [[Signet]] whose throne was succeeded by his daughter [[Imogen]]. His rule and the events of his reign are central to [[Signet]]’s backstory and grudges.
+# king_finian
 
-## Additional Observations
-# King Finian
-Deceased high elf king mentioned in [[Signet]]'s backstory as the father of a child who contributed to the political turmoil that exiled [[Signet]].
-
-## Additional Observations
-# King Finian
-A deceased high-elf ruler referenced as already dead, which influences the power vacuum and the revenge-driven objectives targeting the [[elves]] and [[queen imogen of the high elves]].
-
-## Additional Observations
-# King Finian
-Mentioned as [[queen imogen of the high elves]]'s father whose death informs her motivations. [[King Finian]] is part of Imogen's backstory and the reason she fears weakness and death.
-
-## Additional Observations
-# King Finian
-Former high elf king and father of [[Signet]]. He is deceased by the time of the chapter; his lineage and actions contextualize [[Signet]]’s exile and conflict with the [[elves]].
-
-## Additional Observations
-# King Finian
-Deceased high elf king referenced in [[Signet]]'s backstory; father of multiple offspring whose politics contributed to [[Signet]]'s exile.
-
-## Additional Observations
-# [[King Finian]]
-A deceased king whose death shifts the political goals of the questline: with him gone, the focus turns to [[queen imogen of the high elves]] and breaking high-elf control of the Hunting Grounds.
-
-## Additional Observations
-# [[King Finian]]
-Deceased king and father of [[queen imogen of the high elves]], referenced as part of Imogen’s fear of dying and her motivations for seeking power via the masquerade boon.
+• The deceased high elf king and father of [[Signet]] whose throne was succeeded by his daughter [[Imogen]].
+• Father of [[Signet]] and mentioned in [[Signet]]'s backstory as the cause of the political turmoil that led to [[Signet]]'s exile.
+• Deceased high-elf ruler whose death influenced the power vacuum and the revenge- driven objectives targeting the [[elves]] and [[queen [[imogen]] of the high elves]].
+• Father of [[queen [[imogen]] of the high elves]] whose death informs her motivations and fears of weakness and death.
+• Former high elf king and father of [[Signet]] whose lineage and actions contextualize [[Signet]]'s exile and conflict with the [[elves]].
+• Deceased high elf king referenced in [[Signet]]'s backstory as the father of multiple offspring whose politics contributed to [[Signet]]'s exile.
+• Deceased king whose death shifts the political goals of the questline, focusing on [[queen [[imogen]] of the high elves]] and breaking high-elf control of the Hunting Grounds.
+• Deceased king and father of [[queen [[imogen]] of the high elves]] referenced as part of [[Imogen]]'s fear of dying and her motivations for seeking power via the masquerade boon.

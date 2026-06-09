@@ -3,7 +3,7 @@ title: "Diah"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Diah
 
-# Diah
-An identity revealed inside the woman inhabiting [[Lucia]]'s body. She claims children or people are trapped in her mind, pleads for time, and provides critical exposition about switching personas when the dog wanders off.
+# diah
+
+• Diah, [[an]] identity revealed inside the woman inhabiting [[Lucia]]'s body, claims children or people are trapped in her mind and pleads for time.

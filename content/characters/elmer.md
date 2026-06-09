@@ -3,11 +3,9 @@ title: "Elmer"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Elmer
 
-# Elmer
-The pudgy, glasses-wearing ursine Mayor of the [[Large Ursine Settlement]] (Level 40). Attempts to enforce the town’s rules, tries to have [[Donut]] and [[Mongo]] removed, and is subsequently pushed off the slope and killed during the group’s escape.
+# elmer
 
-## Additional Observations
-# [[Elmer]]
-Named ursine (Level 40) who serves as the mayor of the settlement. Presents the town's rigid moral rules, refuses entry to [[Mongo]] and [[Donut]] based on those rules, and is later pushed off the slope and killed during the party's confrontation.
+• The pudgy, glasses-wearing [[ursine]] Mayor of the [[Large [[Ursine]] Settlement]] (Level 40) attempts to enforce the town's rules and tries to have [[Donut]] and [[Mongo]] removed.
+• Named [[ursine]] (Level 40) who serves as the mayor of the settlement, presents the town's rigid moral rules, and refuses entry to [[Mongo]] and [[Donut]] based on those rules.
+• Is later pushed off the slope and killed during the party's confrontation.

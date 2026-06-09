@@ -3,19 +3,12 @@ title: "Edict"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Edict
 
-# Edict
-A mantis merchant introduced as "Edict – Mantis. Level 50. Merchant." Claims to be an accountant and contractor for [[burrowers]] who was in the tavern [[Saferoom]] and attacked [[Bomo]] twice before being auto-ejected under the [[Third-Attack Auto-Eject Rule]]. Drops a large pile of [[gold]] on ejection.
+# edict
 
-## Additional Observations
-# Edict
-Name mentioned in passing as the man Carl and Donut felt "bad for" — an earlier captive or participant forced to play the game; referenced indirectly in conversation.
-
-## Additional Observations
-# [[Edict]]
-A Level 50 mantis merchant from the Dark Hive who claims to be an accountant contracted to deliver gear to [[burrowers]]. Attacks inside the saferoom and is subject to the system punitive teleport when he repeats aggression.
-
-## Additional Observations
-# [[Edict]]
-A possibly referenced crawler or individual mentioned in passing by [[Donut]] ("What was his name? Edict?") after an earlier encounter; identity uncertain but named in-chapter.
+• A Level 50 mantis merchant named Edict, who claims to be [[an]] accountant and contractor for the Burrowers, was ejected from the Saferoom after attacking [[Bomo]] twice.
+• Edict drops a large pile of gold upon ejection.
+• Edict is mentioned as a man [[Carl]] and [[Donut]] felt "bad for", possibly referring to [[an]] earlier captive or participant forced to play the game.
+• Edict is a Level 50 mantis merchant from the Dark Hive, contracted to deliver gear to the Burrowers.
+• Edict attacks inside the Saferoom and is subject to the system punitive teleport when he repeats aggression.
+• Edict is possibly a referenced crawler or individual mentioned in passing by [[Donut]] after [[an]] earlier encounter.

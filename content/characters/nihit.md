@@ -3,31 +3,13 @@ title: "Nihit"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Nihit
 
-# Nihit
-A naga reporter from "Press. Elemental Collection Updates" who aggressively confronts [[dungeon crawler carl]] about alleged cheating and Odette's role; physically intimidating and later incapacitated during the press confrontation.
+# nihit
 
-## Additional Observations
-# Nihit
-A naga who was assaulted by [[dungeon crawler carl]]; his brother is connected by marriage to the [[sultanate]] and he believes [[dungeon crawler carl]] and [[Donut]] are apocalyptic figures.
-
-## Additional Observations
-# Nihit
-A naga adjutant of the Prism who speaks in the throne room and is recognized by Carl as a previously encountered reporter-like figure. Acts as one of the empress's attendants during the confrontation.
-
-## Additional Observations
-# Nihit
-Naga adjutant who was present in the throne room and teleports away to join [[Panford]] on the [[eighteenth floor]].
-
-## Additional Observations
-# Nihit
-A reporter turned adjutant for the defeated Prism team (after being stabbed by [[dungeon crawler carl]]); previously manifested as a four-armed snake in-game and referenced in the council's recollections.
-
-## Additional Observations
-# Nihit
-A naga reporter whose nameplate reads "Nihit. Press. Elemental Collection Updates." He aggressively confronts [[dungeon crawler carl]] and reacts violently when challenged, later being wounded when Carl drives the magical pen into his neck.
-
-## Additional Observations
-# Nihit
-A named naga who was assaulted by [[dungeon crawler carl]]; his brother’s marriage into the [[sultanate]] has led to factional pressure and increased security concerns for [[dungeon crawler carl]] and [[Donut]]. Mentioned as emotionally volatile and politically connected.
+• A [[naga]] reporter from "Press. Elemental Collection Updates" who aggressively confronts [[dungeon crawler carl]] about alleged cheating and [[Odette]]'s role, and is physically intimidated and later incapacitated.
+• A [[naga]] who was assaulted by [[dungeon crawler carl]] and believes he and [[Donut]] are apocalyptic figures, with a brother connected by marriage to the [[sultanate]].
+• A [[naga]] adjutant of the [[Prism]] who speaks in the throne room and is recognized by [[Carl]] as a previously encountered reporter-like figure, and acts as one of the empress's attendants during the confrontation.
+• A [[naga]] who teleports away to join [[Panford]] on the [[eighteenth floor]].
+• A reporter turned adjutant for the defeated [[Prism]] team, previously manifested as a four-armed snake in-game and referenced in the council's recollections.
+• A [[naga]] reporter whose nameplate reads "Nihit. Press. Elemental Collection Updates" and reacts violently when challenged, later being wounded when [[Carl]] drives the magical pen into his neck.
+• A named [[naga]] who was assaulted by [[dungeon crawler carl]] and has a brother's marriage into the [[sultanate]], leading to factional pressure and increased security concerns for [[dungeon crawler carl]] and [[Donut]].

@@ -3,14 +3,8 @@ title: "Princess Chandra, Esquire"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Princess Chandra, Esquire
 
-# Princess Chandra, Esquire
-Attorney assigned to represent [[Donut]] during exit-deal negotiations. Mentioned as having already met with [[Donut]] and declined the offers, with the meeting resulting in dramatic consequences.
+# princess_chandra_esquire
 
-## Automated Merge Entry (princess_chandra)
-# Princess Chandra
-
-
-# Princess Chandra
-A princess whose marriage certificate to [[dungeon crawler carl]] is contained within the contents of the [[Legendary Fan Box]] that disgorged an enormous pile of junk.
+• Attorney assigned to represent [[Donut]] during exit-deal negotiations, having already met with [[Donut]] and declined offers with dramatic consequences.
+• Marriage certificate to [[dungeon crawler carl]] contained within the [[Legendary Fan Box]], which disgorged [[an]] enormous pile of junk.

@@ -3,7 +3,8 @@ title: "Admiral Corinne Whimpleshin"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Admiral Corinne Whimpleshin
 
-# [[Admiral Corinne Whimpleshin]]
-The adjutant for the Blood Sultanate: a single-humped dromedarian camel in a sundress who appears in the room to protest the god summoning and to claim foul despite lacking standing under temple rules.
+# admiral_corinne_whimpleshin
+
+• The adjutant for the Blood Sultanate is a single-humped [[dromedarian]] camel in a sundress.
+• This camel appears in the room to protest the god summoning and claim foul, despite lacking standing under temple rules.

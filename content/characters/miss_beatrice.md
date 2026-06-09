@@ -3,27 +3,12 @@ title: "Miss Beatrice"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Miss Beatrice
 
-# Miss Beatrice
-A previously referenced character used as a comparison by Donut when speaking about another (the Naga woman); appears only in dialog as a point of reference.
+# miss_beatrice
 
-## Additional Observations
-# Miss Beatrice
-Referred to as "Bea" in dialogue; a background NPC who previously insulted [[Billy Maloney]]’s sisters.
-
-## Additional Observations
-# [[Miss Beatrice]]
-Referenced crawler whose therapist shares the same name as the vehicle GPS. Mentioned in passing related to [[Dr. Metcalf]] and past events with the narrator.
-
-## Additional Observations
-# Miss Beatrice
-Named NPC referenced in a joke involving contact lenses and a drawer; social acquaintance of [[Carl]] and others in previous context.
-
-## Additional Observations
-# [[Miss Beatrice]]
-A named character referenced via her therapist (the Dr. Metcalf hologram) and earlier interactions with Donut.
-
-## Additional Observations
-# Miss Beatrice
-Also referred to as “Bea.” A neighbor who reacted angrily to police presence at the apartment complex and who has prior interactions concerning apartment access. Mentioned by [[Carl]] and [[Donut]] in recollection.
+• Miss [[Beatrice]] is a background NPC who previously insulted [[Billy Maloney]]'s sisters and is referred to as "[[Bea]]" in dialogue.
+• She is a named character referenced via her therapist (the Dr. Metcalf hologram) and earlier interactions with [[Donut]].
+• Miss [[Beatrice]] is also referred to as "[[Bea]]" and is a neighbor who reacted angrily to police presence at the apartment complex and has prior interactions concerning apartment access.
+• She is mentioned in passing related to [[Dr. Metcalf]] and past events with the narrator.
+• Miss [[Beatrice]] is a social acquaintance of [[Carl]] and others in previous context.
+• She is referenced in a joke involving contact lenses and a drawer.

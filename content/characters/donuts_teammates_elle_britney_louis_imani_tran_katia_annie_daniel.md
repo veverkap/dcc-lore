@@ -3,7 +3,14 @@ title: "Donut's teammates (Elle, Britney, Louis, Imani, Tran, Katia, Annie, Dani
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Donut's teammates (Elle, Britney, Louis, Imani, Tran, Katia, Annie, Daniel)
 
-# Donut's teammates (Elle, Britney, Louis, Imani, Tran, Katia, Annie, Daniel)
-Group listing of named allies and allies-in-distress referenced in the chapter: [[elle mcgib]], [[Britney]], [[Louis]], [[Imani]], [[Tran]], [[Katia]], [[Annie]], and [[Daniel]]. They are involved in the larger battle and rescue attempts.
+# donuts_teammates_elle_britney_louis_imani_tran_katia_annie_daniel
+
+• [[elle mcgib]]
+• [[Britney]]
+• [[Louis]]
+• [[Imani]]
+• [[Tran]]
+• [[Katia]]
+• [[Annie]]
+• [[Daniel]]

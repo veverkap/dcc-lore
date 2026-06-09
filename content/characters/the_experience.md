@@ -3,7 +3,8 @@ title: "The Experience"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# The Experience
 
-# [[The Experience]]
-A named mob encountered in the park near the coast: a four-legged, doglike body with a large human head (styled like Che Guevara) that emits human-like barking. Described as derived from pre-Colombian Taino folklore; fights the squad and drops loot (including a red beret and a utility card).
+# the_experience
+
+• A named mob, [[The Experience]], is encountered in the park near the coast, featuring a four-legged, doglike body with a large [[human]] head styled like Che Guevara, emitting [[human]]-like barking.
+• It is derived from pre-Colombian Taino folklore and fights the squad, dropping loot including a red beret and a utility card.

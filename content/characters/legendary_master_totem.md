@@ -3,7 +3,7 @@ title: "Legendary Master Totem"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Legendary Master Totem
 
-# Legendary Master Totem
-An unnamed legendary totem whose heart is ripped out and devoured by the [[Zhe Totem]] at the start of the chapter; referenced as a fallen powerful entity.
+# legendary_master_totem
+
+• Legendary Master Totem: its heart is ripped out and devoured by the [[Zhe Totem]] at the start of the chapter, referenced as a fallen powerful entity.

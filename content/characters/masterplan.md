@@ -3,11 +3,9 @@ title: "Masterplan"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Masterplan
 
-# Masterplan
-A guck elemental (translucent, gelatinous humanoid) and occupant of the bright yellow Chevy Bel Air belonging to [[Girth the Trouble]]. Verbally attacks [[Dwight]] and is subsequently shredded by a one-shot cannon from the vine-vehicle, leaving pieces splattered on [[Donut]].
+# masterplan
 
-## Additional Observations
-# [[Masterplan]]
-Named guck elemental (slime creature) riding with Team Girth the Trouble, taunting and shouting threats at [[Dwight]] and [[Team Sparkles]] prior to being destroyed by a tank cannon blast.
+• A guck elemental, translucent and gelatinous, is the occupant of [[Girth the Trouble]]'s bright yellow Chevy Bel Air.
+• It verbally attacks [[Dwight]] and is subsequently shredded by a one-shot cannon from the vine-vehicle, leaving pieces splattered on [[Donut]].
+• The guck elemental, also known as [[Masterplan]], is a slime creature that rides with Team Girth the Trouble and taunts and shouts threats at [[Dwight]] and [[Team Sparkles]] before being destroyed by a tank cannon blast.

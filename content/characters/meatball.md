@@ -3,7 +3,8 @@ title: "Meatball"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Meatball
 
-# Meatball
-The pet meatball that belonged to [[Tsren]] and was taken by [[dungeon crawler carl]] after her death on [[Floor 8]].
+# meatball
+
+• The pet meatball belonged to [[Tsren]].
+• It was taken by Dungeon Crawler [[Carl]] after [[Tsren]]'s death on Floor 8.

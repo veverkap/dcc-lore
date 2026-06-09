@@ -3,27 +3,7 @@ title: "Theobold"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Theobold
 
-# Theobold
-A level-35 High Elf Footman acting as a curt, patronizing escort for the caravan—he explains the entry procedures and enforcement of the masquerade rules.
+# theobold
 
-## Additional Observations
-# [[Theobold]]
-Elf footman who acts as the ballroom announcer and emcee for the Butcher’s Masquerade; introduces the event and enforces buffet/ballroom logistics.
-
-## Additional Observations
-# [[Theobold]]
-Emcee-type present onstage earlier; resumes talking during the pet show. Part of ballroom event operations.
-
-## Additional Observations
-# Theobold
-A level-35 High Elf Footman who escorts Carl’s caravan, explains entry procedures for the masquerade, and enforces the event rules (security sweeps, no weapons/magic in the ballroom, dress requirements). Patronizing and officious.
-
-## Additional Observations
-# Theobold
-An elf footman and the event announcer for the Butcher’s Masquerade. [[Theobold]] delivers the welcome, seating rules (gold vs. black trays), mentions [[queen imogen of the high elves]], and enforces party norms such as non-violence and the pet program.
-
-## Additional Observations
-# Theobold
-Stage host/announcer involved in the pet show portion of the event. Pauses when he sees [[Signet]] in the front row and continues the presentation.
+• [[Theobold]]: A level-35 High Elf Footman who acts as a patronizing escort, emcee, and event announcer for the Butcher's Masquerade, enforcing rules, introducing the event, and hosting the pet show.

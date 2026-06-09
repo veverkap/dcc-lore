@@ -3,7 +3,7 @@ title: "Charles (bartender)"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Charles (bartender)
 
-# Charles (bartender)
-The badger bartender at the club who is verbally harassed by [[Samantha]] and later is briefly a victim/target during the demon rampage.
+# charles_bartender
+
+• [[Charles]] (bartender), the badger bartender at the club, is verbally harassed by [[Samantha]] and later becomes a victim/target during the demon rampage.

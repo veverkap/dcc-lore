@@ -3,7 +3,7 @@ title: "Reaver Industries Security Sentry Dog (The Ditch Digger)"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Reaver Industries Security Sentry Dog (The Ditch Digger)
 
-# Reaver Industries Security Sentry Dog (The Ditch Digger)
-Tech-based security automaton model (latest) deployed inside the [[Reaver castle]]. Known nickname: "The Ditch Digger." Equipped with optional anti-personnel explosive components (some variants have visible bomb modules).
+# reaver_industries_security_sentry_dog_the_ditch_digger
+
+• Tech-based security automaton model deployed inside the [[Reaver castle]]. Known as "The Ditch Digger." Optional anti-personnel explosive components in some variants.

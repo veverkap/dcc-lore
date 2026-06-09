@@ -3,7 +3,8 @@ title: "Nullian"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Nullian
 
-# Nullian
-A species referenced as “the Null” — alien greys that traffic in creatures. In the lore explanation, Nullians brought a Nightgaunt to Earth historically, giving rise to the "Visitor" legend.
+# nullian
+
+• A species known as "the [[Null]]" or "Nullians" that traffic in creatures.
+• They brought a [[Nightgaunt]] to Earth, leading to the "Visitor" legend.

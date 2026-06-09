@@ -3,7 +3,10 @@ title: "Engineer (unnamed)"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Engineer (unnamed)
 
-# Engineer (unnamed)
-Mysterious operator of the engine car for the [[Nightmare Express]]; the interior of the engine is locked and requires an engineer’s key. Never seen by [[Vernon]]; appears to be the only consistently present train staff besides some porters.
+# engineer_unnamed
+
+• Mysterious operator of the engine car for the [[Nightmare Express]];
+• Interior of the engine is locked and requires [[an]] [[engineer]]'s key;
+• Never seen by [[Vernon]];
+• Appears to be the only consistently present train staff besides some [[porters]].

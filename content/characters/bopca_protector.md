@@ -3,11 +3,8 @@ title: "Bopca Protector"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Bopca Protector
 
-# Bopca Protector
-[[bopcas]] is an NPC/bodyguard-type mob stationed behind the counter in the Big Shot Chicken restaurant where survivors shelter.
+# bopca_protector
 
-## Additional Observations
-# Bopca protector
-An NPC-type saferoom attendant/species that stands behind the counter at [[the belly-rubbed pug]] when [[dungeon crawler carl]] and [[Donut]] enter; enforces tavern rules (e.g., asking to sheathe weapons).
+• [[bopcas]] is [[an]] NPC/bodyguard- stationed behind the counter in the Big Shot Chicken restaurant where survivors shelter.
+• Enforces tavern rules, such as asking to sheathe weapons.

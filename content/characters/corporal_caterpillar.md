@@ -3,11 +3,8 @@ title: "Corporal Caterpillar"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Corporal Caterpillar
 
-# Corporal Caterpillar
-Unnamed caterpillar-headed crawler or NPC referenced derisively by [[dungeon crawler carl]] as one of the trapped individuals in the [[desperado club]] incident.
+# corporal_caterpillar
 
-## Additional Observations
-# Corporal Caterpillar
-A mocked member of the trapped group at the Desperado Club (described as a caterpillar-headed alien); derided by [[dungeon crawler carl]] as cowardly for not self-ejecting earlier.
+• Unnamed caterpillar-headed crawler or NPC referenced derisively by [[dungeon crawler carl]] as one of the trapped individuals in the [[desperado club]] incident.
+• A mocked member of the trapped group at the Desperado Club, described as a caterpillar-headed alien, and derided by [[dungeon crawler carl]] as cowardly for not self-ejecting earlier.

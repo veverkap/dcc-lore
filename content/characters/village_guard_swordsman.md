@@ -3,7 +3,8 @@ title: "Village Guard Swordsman"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Village Guard Swordsman
 
-# Village Guard Swordsman
-A specific NPC type standing watch at village gates (example shown as "Level 75") tasked with protecting [[Over City]] population centers during daytime; the guards enforce severe penalties and are numerous.
+# village_guard_swordsman
+
+• A specific NPC type, the Village Guard Swordsman, stands watch at village gates, tasked with protecting population centers in [[Over City]] during daytime.
+• They enforce severe penalties and are numerous.

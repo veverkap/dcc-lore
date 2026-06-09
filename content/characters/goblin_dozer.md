@@ -3,7 +3,7 @@ title: "Goblin Dozer"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Goblin Dozer
 
-# Goblin Dozer
-A named goblin vehicle/mob whose earlier explosion scorched the area the party passes through; referenced as the cause of nearby destruction and blood smears.
+# goblin_dozer
+
+• Goblin Dozer: a named goblin vehicle/mob that caused destruction and blood smears in the area.

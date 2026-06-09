@@ -3,7 +3,7 @@ title: "Sir Ferdinand (Gravy Boat)"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Sir Ferdinand (Gravy Boat)
 
-# Sir Ferdinand (Gravy Boat)
-Princess [[Donut]]’s familiar/pet, also called Gravy Boat; servants dispute any notion of knighthood for him though he is closely associated with the queen and Princess Donut.
+# sir_ferdinand_gravy_boat
+
+• Sir [[Ferdinand]] (Gravy Boat), [[Princess]] [[Donut]]'s familiar/pet, closely associated with the queen and [[Princess]] [[Donut]], despite servants disputing his knighthood.

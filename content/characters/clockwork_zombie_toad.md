@@ -3,7 +3,7 @@ title: "Clockwork Zombie Toad"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Clockwork Zombie Toad
 
-# [[Clockwork Zombie Toad]]
-An automaton in [[Carl]]'s truck crew that operates levers (e.g., activating spider legs) and performs mechanical functions during the descent through the park.
+# clockwork_zombie_toad
+
+• [[Clockwork Zombie Toad]] is [[an]] automaton in [[Carl]]'s truck crew that operates levers and performs mechanical functions.

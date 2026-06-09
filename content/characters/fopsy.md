@@ -3,31 +3,13 @@ title: "Fopsy"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Fopsy
 
-# [[Fopsy]]
-The former prime minister and a tripod-type adjutant for [[dream]]; a non-combatant observer who provides deductions about rules, potions, and the AI’s influence.
+# fopsy
 
-## Additional Observations
-# [[Fopsy]]
-A tripod adjutant associated with [[dream]] who appears in the [[Nest Tower]] and is noted by [[Rosetta]]; he represents the Dream’s presence in the room.
-
-## Additional Observations
-# Fopsy
-Another adjutant of [[dungeon crawler carl]] present on the tower; corroborates tactical assessments with [[Victory]].
-
-## Additional Observations
-# Fopsy
-A named crawler/NPC who vanishes along with [[Victory]] during the chaos, prompting concern from other players.
-
-## Additional Observations
-# Fopsy
-The Dream adjutant described as an odd alien (the one “like a basketball on stilts”) who is suspected to be present among the adjutants around the castle.
-
-## Additional Observations
-# Fopsy
-Ally who appears with [[Victory]] and participates in discussion about [[Tagg]] and the Syndicate upheaval; provides corroborating observations.
-
-## Additional Observations
-# Fopsy
-A member of Carl's circle who provides timing detail—approximately ten seconds for stairwells to appear after a faction victory—and assists [[Victory]] in logistics.
+• [[Fopsy]]: former prime minister, tripod-type adjutant for [[dream]], non-combatant observer providing deductions on rules, potions, and [[AI]] influence.
+• [[Fopsy]]: associated with [[dream]], appears in [[Nest Tower]], noted by [[Rosetta]], represents Dream's presence in the room.
+• [[Fopsy]]: adjutant of [[dungeon crawler carl]], corroborates tactical assessments with [[Victory]].
+• [[Fopsy]]: named crawler/NPC who vanishes with [[Victory]] during chaos, prompting concern from other players.
+• [[Fopsy]]: described as odd alien ("like a basketball on stilts") suspected to be present among adjutants around the castle.
+• [[Fopsy]]: ally who appears with [[Victory]], participates in discussion about [[Tagg]] and Syndicate upheaval, provides corroborating observations.
+• [[Fopsy]]: member of [[Carl]]'s circle, provides timing detail (approximately ten seconds for stairwells to appear after faction [[victory]]), assists [[Victory]] in logistics.

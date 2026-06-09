@@ -3,11 +3,7 @@ title: "Loita the administrator"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Loita the administrator
 
-# Loita the administrator
-Previously encountered dungeon administrator whom [[dungeon crawler carl]] killed (referenced retrospectively), an event that contextualizes current Syndicate scrutiny.
+# loita_the_administrator
 
-## Additional Observations
-# Loita the administrator
-A named administrator previously killed by [[dungeon crawler carl]]; referenced as context for how [[dungeon crawler carl]] came into Orren's office previously.
+• [[Loita]] the administrator, previously killed by [[dungeon crawler carl]], contextualizing current Syndicate scrutiny.

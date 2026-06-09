@@ -3,11 +3,8 @@ title: "Opiee"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Opiee
 
-# [[Opiee]]
-A tiny floating Bune who serves as the Madness adjutant. Participates in the quorum, offers speculation on teleport mechanics and the unusual consciousness behavior between [[dungeon crawler carl]] and [[Katia]].
+# opiee
 
-## Additional Observations
-# Opiee
-A small adjudicative creature (bune-like) and the adjudicator who provides commentary during the hearing. [[Opiee]] questions evidence, presses for confessions, and helps finalize rulings.
+• A tiny floating Bune who serves as the Madness adjutant, participating in the quorum and offering speculation on teleport mechanics and unusual consciousness behavior between [[dungeon crawler carl]] and [[Katia]].
+• A small adjudicative creature (bune-like) and the adjudicator who provides commentary during the hearing, questioning evidence, pressing for confessions, and helping finalize rulings.

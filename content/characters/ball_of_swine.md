@@ -3,23 +3,11 @@ title: "Ball of Swine"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Ball of Swine
 
-# Ball of Swine
-Also called the "Porkchop Express," a Level 15 [[Borough Boss]] formed from dozens of [[Tuskling]] knights and courtesans fused into a rolling, living sphere. The primary antagonist encountered in the borough boss chamber; described as massive, fast, and composed of flesh, cloth, and tusklings.
+# ball_of_swine
 
-## Additional Observations
-# [[Ball of Swine]]
-A rolling swine mass that assaulted the shelter’s ramp, broke a brace, and caused injuries (e.g., smashed [[Yolanda]]'s head) in the televised footage.
-
-## Additional Observations
-# [[Ball of Swine]]
-Named boss from a prior encounter referenced in this chapter; the battle produced loot including items later identified in [[dungeon crawler carl]]'s history inventory (e.g., contents of [[Agatha]]'s cart).
-
-## Additional Observations
-# Ball of Swine
-A previously encountered obstacle referenced as guarding another stairwell; used to contextualize how some staircases are discoverable on the map.
-
-## Additional Observations
-# Ball of Swine
-An earlier boss from the first floor that the [[Rolling Battle Formation Ball]] riffs on; historically a borough boss used as a reference for tactics.
+• A Level 15 [[Borough Boss]] formed from dozens of [[Tuskling]] knights and courtesans, described as massive, fast, and composed of flesh, cloth, and [[tusklings]].
+• Also known as the "Porkchop Express".
+• A rolling swine mass that assaulted the shelter's ramp, broke a brace, and caused injuries (e.g., smashed [[Yolanda]]'s head) in televised footage.
+• Named boss from a prior encounter, producing loot including items later identified in [[dungeon crawler carl]]'s history inventory (e.g., contents of [[Agatha]]'s cart).
+• [[An]] earlier boss from the first floor that the [[Rolling Battle Formation Ball]] riffs on; historically a borough boss used as a reference for tactics.

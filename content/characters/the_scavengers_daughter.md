@@ -3,59 +3,16 @@ title: "The Scavenger’s Daughter"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# The Scavenger’s Daughter
 
-# [[The Scavenger’s Daughter]]
-A deity referenced by the system as having "opened her eyes" and later "closed her eyes." Her awakening triggers a temporary floor-wide benefit (noted in the chapter). Presented as a named god whose presence is announced by System messages.
+# the_scavengers_daughter
 
-## Additional Observations
-title: "The Scavenger’s Daughter"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# The Scavenger’s Daughter
-A system-announced title/event referenced at the chapter's opening and close ("has opened her eyes" / "has closed her eyes"). Presented as a deity-state/system announcement signaling a godly awakening and the transient floor benefit it confers.
-
-## Additional Observations
-# [[The Scavenger’s Daughter]]
-Named totem/being that enhanced [[dungeon crawler carl]]'s fire attacks and externally enhanced vinegar-infused potions; described as "looking away" during the goddess's death while remaining aware of [[Amayon]]. Provides temporary world effects to players.
-
-## Additional Observations
-# The Scavenger’s Daughter
-A named entity referenced in the opening line, "The Scavenger’s Daughter has been fed. Unleash her wrath." Presented as an active, animate force in the scene; treated as a hostile or fearsome entity within the dungeon narrative. Connected contextually to [[dungeon crawler carl]]'s flashback/dream state.
-
-## Additional Observations
-# The Scavenger’s Daughter
-A named presence in the scene who reacts to the strange light; part of the assembled party observing the beacon.
-
-## Additional Observations
-title: "The Scavenger’s Daughter"
-type: Location
-tags: [dcc-lore-graph]
----
-# The Scavenger’s Daughter
-Carl's vessel/homebase that receives a divine proximity buff when [[Yarilo]] comes into range. The ship's environment is affected by nearby deities and temporary effects.
-
-## Additional Observations
-# [[The Scavenger’s Daughter]]
-Ephemeral epithet used for [[Eris]] at the chapter's start ("The Scavenger’s Daughter has opened her eyes"). Functionally an alias/title of [[Eris]] in the scene, indicating her awakening and surge of power.
-
-## Additional Observations
-title: "The Scavenger’s Daughter"
-type: Mechanic
-tags: [dcc-lore-graph]
----
-# The Scavenger’s Daughter
-A system announcement that triggers when [[dungeon crawler carl]]'s [[Essence Bar]] becomes full: "The Scavenger’s Daughter has been fed. Unleash her wrath." It signals the availability of [[The Daughter’s Kiss]].
-
-## Additional Observations
-# The Scavenger’s Daughter
-Named deity whose "opening" and "closing" of awareness trigger realm-wide system messages; her eye-opening grants temporary benefits (e.g., the All-Smash attack bonus) that later fade when she "closes her eyes."
-
-## Additional Observations
-# The Scavenger's Daughter
-A named divine or powerful entity whose effects appear in the interface (it "has looked away" and enhances [[Carl]]'s vinegar-infused potions). [[The Scavenger's Daughter]] provides active buffs described in the chapter.
-
-## Additional Observations
-# The Scavenger’s Daughter
-Alternate title/manifestation used for [[Lucia]] in the chapter. The text shows "The Scavenger’s Daughter blinks," indicating a named persona connected to [[Lucia]]'s sudden, uncanny behavior.
+* [[The [[Scavenger]]’’s Daughter]] is a deity who awakens and triggers temporary floor-wide benefits, announced by system messages.
+* She is a named entity that enhances [[dungeon crawler carl]]'s fire attacks and vinegar-infused potions.
+* She is a hostile or fearsome entity within the dungeon narrative, connected to [[dungeon crawler carl]]'s flashback/ dream state.
+* She reacts to the strange light and is part of the assembled party observing the beacon.
+* She is [[Carl]]'s vessel/homebase that receives a divine proximity buff when [[Yarilo]] comes into range.
+* She is [[an]] alias/title of [[Eris]] at the chapter's start, indicating her awakening and surge of power.
+* She is a system announcement that triggers when [[dungeon crawler carl]]'s [[Essence Bar]] becomes full, signaling the availability of [[The Daughter’’s Kiss]].
+* She is a named deity whose "opening" and "closing" of awareness trigger realm-wide system messages, granting temporary benefits.
+* She is a named divine or powerful entity whose effects appear in the interface, providing active buffs.
+* She is [[an]] alternate title/manifestation used for [[Lucia]] in the chapter, connected to her sudden, uncanny behavior.

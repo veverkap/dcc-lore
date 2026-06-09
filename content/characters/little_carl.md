@@ -3,7 +3,7 @@ title: "Little Carl"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Little Carl
 
-# Little Carl
-Nickname/reference to Carl’s child or child avatar; mentioned by [[Samantha]] when warning [[Carl]] about [[Chalchiuhtlicue]].
+# little_carl
+
+• Nickname/reference to [[Carl]]'s child or child avatar; mentioned by [[Samantha]] when warning [[Carl]] about [[Chalchiuhtlicue]].

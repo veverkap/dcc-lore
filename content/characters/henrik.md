@@ -3,83 +3,25 @@ title: "Henrik"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Henrik
 
-# Henrik
-Named changeling who had been impersonating a dromedarian and appears tied to the interrogation/torture of [[Wynne]]. Originally seen leaving [[Town Hall]] and later implicated by other NPCs in the subterranean plot.
+# henrik
 
-## Additional Observations
-# [[Henrik]]
-An older dromedarian (acting leader) who manages rescue and the collateral watch-code ritual; he possesses a pocket watch linked to the gnomish Commandant and explains how the daily code exchange works.
-
-## Additional Observations
-# Henrik
-Town leader used as part of the hostage/rescue pretense; presented as a corpse to support the changeling story and inspected by [[Leon]] during the negotiation.
-
-## Additional Observations
-# Henrik
-A named defender left in town during the escape; his identity is impersonated as part of the plan to fool [[Leon]] and other investigators. [[Henrik]] possesses one of the pocket watches tied to the larger artifact mystery.
-
-## Additional Observations
-# Henrik
-A changeling principal who disappeared after the [[Wasteland]] fell; connected to a subplot involving changelings and a necropolis ghost.
-
-## Additional Observations
-# Henrik
-A changeling currently in the necropolis in an underwater form; briefly contacted by Carl via the [[pocket watch]]'s mirror signal.
-
-## Additional Observations
-# Henrik
-Identified as Juice Box’s brother and the holder of one remaining watch that belongs in the [[winding box]] pair.
-
-## Additional Observations
-# [[Henrik]]
-Missing individual Carl attempts to contact with a pocket watch alarm; his silence is a small subplot motivating outreach and concern from other characters.
-
-## Additional Observations
-# Henrik
-A Level 50 Changeling Principal whose corpse is found on the [[Akula]] bridge. His inventory contained a [[pocket watch]] and a [[Torn Book Page]]. His team apparently attempted to give a ghost flesh (involving a plan with [[Wynne]]) and were killed by a pissed-off [[Quetzalcoatlus]].
-
-## Additional Observations
-# Henrik
-A deceased crawler referenced as having died trying to prevent recurrence of a past catastrophe; mentioned as part of [[dungeon crawler carl]]'s reflections.
-
-## Additional Observations
-# [[Henrik]]
-Named dromedarian/guard who was observed leaving the [[Town Hall]]. Later identified by others as a changeling in the dromedarian ranks and referenced by [[Wynne]].
-
-## Additional Observations
-# Henrik
-An older dromedarian (camel) who directs rescue efforts in [[Hump Town]] and uses a coded pocket watch to communicate with [[Commandant Kane]]. He is portrayed as exhausted, pragmatic, and a reluctant leader who refers to himself in the third person.
-
-## Additional Observations
-# Henrik
-The town's leader who is presented dead/disabled as part of the party's ruse. He sits on the cart and is used as part of the charade to convince [[Leon]] and the gnomes of the changeling threat.
-
-## Additional Observations
-# Henrik
-Target of the rescue/ruse; a named figure whose pocket watch is sought by Carl and crew and who remains in town among defenders.
-
-## Additional Observations
-# Henrik
-[[Henrik]] is a changeling principal who disappears after the Wasteland strike and is part of a changeling subplot involving the necropolis.
-
-## Additional Observations
-# Henrik
-A changeling currently in the [[Necropolis]] in an underwater form; contacted when [[dungeon crawler carl]] uses the [[pocket watch]] alarm and mirror images to signal him.
-
-## Additional Observations
-# [[Henrik]]
-Brother of [[Juice Box]] who is noted as still holding the last watch needed to fully use the [[winding box]].
-
-## Additional Observations
-# [[Henrik]]
-A referenced crawler (brother of another character) who is being contacted via a pocket watch and expected to respond to an alarm. His lack of reply is noted as a concern by other characters and motivates communication attempts through [[Langley]] and [[Juice Box]].
-
-## Additional Observations
-# Henrik
-A changeling principal and original target of Carl's tracking via the mysterious watch; found dead on the [[Akula]] bridge in faceless humanoid form and looted for a [[Torn Book Page]] and a [[pocket watch]].
-
-## Additional Observations
-# Henrik
-Mentioned deceased crawler who previously died trying to help his people; referenced as a past casualty tied to recent events.
+* [[Henrik]] is a [[changeling]] principal who impersonated a [[dromedarian]] and was involved in the interrogation/torture of [[Wynne]].
+* He is the acting leader of the [[dromedarians]], manages rescue efforts, and possesses a pocket watch linked to the gnomish Commandant.
+* Henrik is a town leader who was used as part of the hostage/ rescue pretense and presented as a corpse to support the [[changeling]] story.
+* He is a named defender left in town during the escape and his identity is impersonated as part of the plan to fool [[Leon]] and other investigators.
+* Henrik is a [[changeling]] principal who disappeared after the Wasteland fell and is connected to a subplot involving [[changelings]] and a necropolis ghost.
+* He is a [[changeling]] currently in the necropolis in [[an]] underwater form and was briefly contacted by [[Carl]] via the pocket watch's mirror signal.
+* Henrik is the brother of Juice Box and holds one of the remaining watches that belongs in the winding box pair.
+* He is a Level 50 [[Changeling]] Principal whose corpse is found on the Akula bridge, containing a pocket watch and a Torn Book Page.
+* Henrik is a deceased crawler who died trying to prevent the recurrence of a past catastrophe and is mentioned as part of [[dungeon crawler carl]]'s reflections.
+* He is a named [[dromedarian]]/ guard who was observed leaving the Town Hall and later identified as a [[changeling]] in the [[dromedarian]] ranks.
+* Henrik is [[an]] older [[dromedarian]] who directs rescue efforts in Hump Town and uses a coded pocket watch to communicate with Commandant Kane.
+* He is the town's leader who is presented dead/ disabled as part of the party's ruse and sits on the cart as part of the charade to convince [[Leon]] and the [[gnomes]] of the [[changeling]] threat.
+* Henrik is the target of the rescue/ruse and a named figure whose pocket watch is sought by [[Carl]] and crew.
+* He is a [[changeling]] principal who disappears after the Wasteland strike and is part of a [[changeling]] subplot involving the necropolis.
+* Henrik is a [[changeling]] currently in the Necropolis in [[an]] underwater form and was contacted when [[dungeon crawler carl]] uses the pocket watch alarm and mirror images to signal him.
+* He is the brother of Juice Box who is noted as still holding the last watch needed to fully use the winding box.
+* Henrik is a referenced crawler who is being contacted via a pocket watch and expected to respond to [[an]] alarm, but his lack of reply is noted as a concern by other characters.
+* He is found dead on the Akula bridge in faceless humanoid form and looted for a Torn Book Page and a pocket watch.
+* Henrik is mentioned as a deceased crawler who previously died trying to help his people and is referenced as a past casualty tied to recent events.

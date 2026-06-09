@@ -3,11 +3,8 @@ title: "Herman"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Herman
 
-# Herman
-An ogre offshoot of the three-headed progenitor [[Di-we]] who resides in [[Larracos]].
+# herman
 
-## Additional Observations
-# [[Herman]]
-An ogre derived from the nodling progenitor [[Di-we]], said to be located down below in [[Larracos]] and represented among [[Signet]]'s tattoos.
+• [[An]] ogre offshoot of the three-headed progenitor [[Di-we]] who resides in [[Larracos]].
+• [[An]] ogre derived from the [[nodling]] progenitor [[Di-we]], said to be located down below in [[Larracos]] and represented among [[Signet]]'s tattoos.

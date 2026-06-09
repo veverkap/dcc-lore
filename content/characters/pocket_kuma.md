@@ -3,15 +3,8 @@ title: "Pocket Kuma"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Pocket Kuma
 
-# [[Pocket Kuma]]
-A small, magic-infused, half-fairy bear-like creature species. Described in-chapter as a bred, capybara-spirit–sugar-glider–bear hybrid originally kept as elite High Elf pets; intelligent but poor fighters and extremely cute. Example individual in the chapter: [[Mordecai]].
+# pocket_kuma
 
-## Additional Observations
-# Pocket Kuma
-A creature form referenced as one of [[Mordecai]]’s previous shapes (tiny, cute form on a prior floor). Mentioned to contrast with his current cyclops form.
-
-## Additional Observations
-# [[Pocket Kuma]]
-A rare, magic-infused small bear-like creature species: non-combatant, designed originally as elite pet fauna. Described in-world as cute, ill-suited for combat, and exemplified by [[Mordecai – Pocket Kuma]].
+• [[Pocket Kuma]]: a small, magic-infused, half-fairy bear-like creature species, bred as elite High Elf pets, intelligent but poor fighters, and extremely cute.
+• A rare, non-combatant, magic-infused small bear-like creature species, designed as elite pet fauna, and exemplified by [[Mordecai – Pocket Kuma]].

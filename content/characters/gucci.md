@@ -3,11 +3,8 @@ title: "Gucci"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Gucci
 
-# Gucci
-A white Maltese dog present in [[Apartment 310]]; notably does not have the X'd-out eyes that appear on the human shells in the apartment.
+# gucci
 
-## Additional Observations
-# Gucci
-A dog belonging to [[Imani]] who barks loudly during the apartment encounter. Mentioned having sewn eyes in a confusion of dialogue.
+• A white Maltese [[dog]], Gucci, is present in [[Apartment 310]] and does not have X'ed-out eyes like the [[human]] shells.
+• Gucci is a [[dog]] belonging to [[Imani]] who barks loudly during the apartment encounter and is mentioned to have sewn eyes.

@@ -3,19 +3,10 @@ title: "Robert the Human"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Robert the Human
 
-# Robert the Human
-A level-40 opponent who appears in [[Donut]]’s choosing-arena fight, described as a deranged old man in a sailor outfit with a nametag reading "Gene."
+# robert_the_human
 
-## Additional Observations
-# Robert the Human
-A named corpse encountered in the house. [[Robert the Human]] was ripped apart by [[Mongo]] and dropped a token and a card deck.
-
-## Additional Observations
-# Robert the Human
-A level 40 deranged-looking man who materializes as [[Donut]]'s first opponent in the choice chamber; he clutches cards and summons totem entities during the encounter.
-
-## Additional Observations
-# Robert the Human
-Corpse encountered in the opening house scene; was killed and being torn apart by [[Mongo]]. Possessed a [[Token]] and a ruined uniform.
+• A level-40 opponent who appears in [[Donut]]'s choosing-arena fight, described as a deranged old man in a sailor outfit with a nametag reading "Gene".
+• A named corpse encountered in the house, ripped apart by [[Mongo]] and dropping a token and a card deck.
+• A level 40 deranged-looked man who materializes as [[Donut]]'s first opponent in the choice chamber, clutching cards and summoning totem entities during the encounter.
+• A corpse encountered in the opening house scene, killed and being torn apart by [[Mongo]], possessing a [[Token]] and a ruined uniform.

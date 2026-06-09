@@ -3,59 +3,17 @@ title: "Vinata"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Vinata
 
-# [[Vinata]]
-The naga princess referenced in the meeting; revealed to have ties to the Blood Sultanate and its entertainment assets, and directly addressed by Donut during the conversation.
+# vinata
 
-## Additional Observations
-# Vinata
-Referenced as a target of vengeance and described as "prone to disappearing." She is associated with the title "Sultana" in the chapter and is implied to be the ruler of the naga addressed by [[Prepotente]].
-
-## Additional Observations
-# Vinata
-Named as one of "the four" targets the group needs to kill; referenced as still active and being tracked by [[dungeon crawler carl]]’s team.
-
-## Additional Observations
-# [[Vinata]]
-The sultana referenced in the chapter whose court and guards used deity-based methods to transfer into temples (specifically implicated in the escape to [[Club Vanquisher]] and possible worship of [[Theia]] or [[Khepri]]). Leader of a six-guard court tied to the [[sultanate]].
-
-## Additional Observations
-# [[Vinata]]
-A naga present inside the [[Temple of Khepri]]. Noted as having a yellow "Immortal" tag above her head and is protected by multiple blessings.
-
-## Additional Observations
-# [[Vinata]]
-Princess Vinata is a white, six-armed naga warlord present in the chapter. She carries an “immortal” status (frozen countdown visible) and is a worshiper of Khepri who deliberately summoned him into his temple as part of a trap. She has two named cousins (one purple, one obsidian/smaller) and multiple personal guards; her secret husband Rishi is noted as absent/dead.
-
-## Additional Observations
-# Vinata
-Princess of the [[sultanate]] encountered in the blast—temporarily [[Immortality]]-protected, later driven mad by the [[Eye of the Bedlam Bride]] and attacking Carl until killed.
-
-## Additional Observations
-# [[Vinata]]
-Also called the Sepsis Whore of the [[sultanate]]; a naga boss killed in the explosion and whose corpse is taken into [[dungeon crawler carl]]'s inventory. Her death triggers system announcements about faction outcomes.
-
-## Additional Observations
-# Vinata
-A character referenced as having been killed earlier by [[Bigs the sluggalette]]; mentioned to provide context for Bigs' reputation.
-
-## Additional Observations
-# [[Vinata]]
-[[Vinata]] is the late crown princess whose public breakdown and violent death became a widely replayed vid. Mentioned as not being related to [[princess chandra esquire]], her on-screen collapse nonetheless dominated the news cycle during the coup that elevated Chandra's uncle.
-
-## Additional Observations
-# Vinata
-A named individual referenced as having been killed by an unnamed slug driving a chicken truck; her death is a background detail noted during the broadcast.
-
-## Additional Observations
-# Vinata
-A referenced cobra-headed figure used as a visual comparison for the shape of the [[Legendary Fan Box]]; invoked to describe the fan-box's aesthetic.
-
-## Additional Observations
-# Vinata
-Vinata is the deceased crown princess whose violent death became public spectacle. Her downfall is repeatedly referenced by [[Chandra]] and is part of the political turmoil that reshaped the Naga court.
-
-## Additional Observations
-# Vinata
-Named individual referenced as having been killed earlier by a slug who drove the puttering chicken truck; cited in passing conversation during the broadcast.
+* [[Vinata]]: [[Naga]] [[princess]] with ties to the Blood Sultanate and its entertainment assets, addressed by [[Donut]], and associated with the title "[[Sultana]]".
+* Target of vengeance, prone to disappearing, and implied to be the ruler of the [[naga]] addressed by [[Prepotente]].
+* One of "the four" targets the group needs to kill, still active and being tracked by [[dungeon crawler carl]]'s team.
+* Leader of a six-guard court tied to the [[sultanate]], present inside the [[Temple of Khepri]], and protected by multiple blessings.
+* White, six-armed [[naga]] warlord with [[an]] "immortal" status, worshiper of [[Khepri]], and deliberately summoned him into his temple as part of a trap.
+* [[Princess]] of the [[sultanate]] encountered in the blast, temporarily [[Immortality]]-protected, later driven mad by the [[Eye of the Bedlam Bride]] and attacking [[Carl]] until killed.
+* Also called the Sepsis Whore of the [[sultanate]]; a [[naga]] boss killed in the explosion and whose corpse is taken into [[dungeon crawler carl]]'s inventory.
+* Killed earlier by [[Bigs the sluggalette]] and mentioned to provide context for [[Bigs]]' reputation.
+* Late crown [[princess]] whose public breakdown and violent death became a widely replayed vid.
+* Killed by [[an]] unnamed slug driving a chicken truck, and her death is a background detail noted during the broadcast.
+* Deceased crown [[princess]] whose violent death became public spectacle, and her downfall is repeatedly referenced by [[Chandra]] and is part of the political turmoil that reshaped the [[Naga]] court.

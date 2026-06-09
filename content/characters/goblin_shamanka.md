@@ -3,7 +3,7 @@ title: "Goblin Shamanka"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Goblin Shamanka
 
-# Goblin Shamanka
-[[Goblin Shamanka]] refers to the female shamans of the goblin clans (example: level 7). Shamankas specialize in Anguish Magic and occupy high leadership status beneath the chieftain or warlord.
+# goblin_shamanka
+
+• [[Goblin Shamanka]] refers to the female shamans of the goblin clans, specializing in Anguish Magic and holding high leadership status beneath the chieftain or warlord.

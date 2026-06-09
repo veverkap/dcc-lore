@@ -3,34 +3,13 @@ title: "Todd"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Todd
 
-# Todd
-Another ursine cub with [[Randy]]; identifies [[Big Tina]]'s theropod type (says "allosaurus") in the pub scene.
+# todd
 
-## Additional Observations
-# Todd
-Small ursine companion who plays with [[Samantha]] alongside [[Randy]].
-
-## Additional Observations
-# Todd
-An orphaned ursine cub and trainee who accompanies [[Randy]] and [[Clint]], brandishing a training spear and making crude declarations.
-
-## Additional Observations
-# Todd
-Prudence's other cub (child NPC) who identifies dinosaur anatomy (labels [[Big Tina]] an allosaurus) and provides comic commentary in the pub scene.
-
-## Additional Observations
-# Todd
-The other small ursine sibling who plays with [[Samantha]] alongside [[Randy]].
-
-## Additional Observations
-# Todd
-Randy's older brother, a bear cub standing behind him during the guildhall scenes.
-
-## Automated Merge Entry (little_todd)
-# Little Todd
-
-
-# Little Todd
-One of Prudence's cubs; vocal about dinosaur-movie accuracy while the party is present in the pub.
+• Identifies [[Big Tina]]'s theropod type (says "allosaurus") in the pub scene.
+• Small [[ursine]] companion who plays with [[Samantha]] alongside [[Randy]].
+• Orphaned [[ursine]] cub and trainee who accompanies [[Randy]] and [[Clint]], brandishing a training spear and making crude declarations.
+• Provides comic commentary in the pub scene.
+• Plays with [[Samantha]] alongside [[Randy]].
+• [[Randy]]'s older brother, a bear cub standing behind him during the guildhall scenes.
+• One of [[Prudence]]'s cubs; vocal about dinosaur-movie accuracy while the party is present in the pub.

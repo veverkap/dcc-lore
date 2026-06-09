@@ -3,11 +3,10 @@ title: "Mudskipper Cascadia"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Mudskipper Cascadia
 
-# Mudskipper Cascadia
-Lead engineer and executive producer of [[Dungeon Crawler World: Earth]] in this season’s production. Portrayed as stressed and humiliated over recent floor disasters and the botched card-fight mechanics.
+# mudskipper_cascadia
 
-## Additional Observations
-# Mudskipper Cascadia
-Lead engineer and executive producer of [[Dungeon Crawler World: Earth]] referenced by the system achievement text; responsible for the design and oversight of the [[Eighth Level]] card system and emotionally invested in the floor’s outcome.
+• Lead [[engineer]] and executive producer of [[Dungeon Crawler World: Earth]].
+• Responsible for the design and oversight of the [[Eighth Level]] card system.
+• Emotionally invested in the floor's outcome.
+• Portrayed as stressed and humiliated over recent floor disasters and botched card-fight mechanics.

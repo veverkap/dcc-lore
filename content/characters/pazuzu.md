@@ -3,11 +3,8 @@ title: "Pazuzu"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Pazuzu
 
-# [[Pazuzu]]
-A recurring monstrous type (often feral) in the campaign; feral pazuzu appear at night and pose a danger to landing zones and towns (e.g., the pub owner at Cuttlefish Point).
+# pazuzu
 
-## Additional Observations
-# Pazuzu
-Race/species of half-human, half-scorpion centaur-like inhabitants of the town [[Pandinus]] encountered by Carl’s group after leaving the necropolis quadrant.
+• A recurring monstrous type, often feral, that appears at night and poses a danger to landing zones and towns.
+• Pazuzu is a race/species of half-[[human]], half-scorpion centaur-like inhabitants of the town [[Pandinus]].

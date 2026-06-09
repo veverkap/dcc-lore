@@ -3,7 +3,8 @@ title: "Wepwawet"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Wepwawet
 
-# Wepwawet
-A god named as the origin of the spell Donut received; worship of [[Wepwawet]] is presented as an option on Donut's spell.
+# wepwawet
+
+• Wepwawet, a god, is the origin of the spell [[Donut]].
+• Worship of [[Wepwawet]] is [[an]] option on [[Donut]]'s spell.

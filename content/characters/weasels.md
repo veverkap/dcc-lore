@@ -3,7 +3,9 @@ title: "Weasels"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Weasels
 
-# Weasels
-Pack-hunting, often-invisible mobs (referred to as night weasels) that paralytically assault travelers. They can be wild or controlled by outworlders or elves and were responsible for attacking the party earlier; vulnerable to area and visibility effects.
+# weasels
+
+• Pack-hunting, often-invisible mobs referred to as night weasels that paralytically assault travelers.
+• Can be wild or controlled by outworlders or [[elves]].
+• Vulnerable to area and visibility effects.

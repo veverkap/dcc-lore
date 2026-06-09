@@ -3,11 +3,9 @@ title: "Oshun"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Oshun
 
-# Oshun
-Ethereal, highly charismatic goddess (appears as a glowing woman in yellow). Her [[Shrine of Oshun]] offers charisma boosts and protective/healing benefits if repaired; she actively tries to charm party members during the thorn room.
+# oshun
 
-## Additional Observations
-# Oshun
-An ethereal, high-charisma goddess who appears to charm players. Repairing her shrine grants protection from fatal blows, charisma boosts, and a level 10 [[Heal Party]] spell; she will ascend if repaired.
+• Ethereal, highly charismatic goddess who appears as a glowing woman in yellow.
+• Her [[Shrine of Oshun]] offers charisma boosts, protective/healing benefits if repaired, and a level 10 [[Heal Party]] spell.
+• She actively tries to charm party members during the thorn room and will ascend if her shrine is repaired.

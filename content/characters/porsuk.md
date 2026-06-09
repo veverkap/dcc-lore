@@ -3,19 +3,9 @@ title: "Porsuk"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Porsuk
 
-# Porsuk
-A race of badger-headed beings referenced in the chapter (e.g., [[Burcu]] and the bartenders at the [[desperado club]]). Noted as an identifiable racial type among crawlers and NPC staff.
+# porsuk
 
-## Additional Observations
-# Porsuk
-In-game badger race (used to identify the bartender [[Charles]] as a level-25 Porsuk). Mentioned as a racial descriptor within the club.
-
-## Additional Observations
-# Porsuk
-The badger race in the game; the bartender [[Charles]] is a level-25 [[Porsuk]] serving at the club's bar.
-
-## Additional Observations
-# Porsuk
-A badger-like member of the group (referred to as "the Porsuk") who comments on party interactions; noted in dialogue during the diner scene.
+• A race of badger-headed beings, referenced in the chapter, including [[Burcu]] and bartenders at the [[desperado club]], and identified as a racial type among [[crawlers]] and NPC staff.
+• The badger race in the game, with [[Charles]] being a level-25 [[Porsuk]] serving at the club's bar.
+• A badger-liked member of the group, referred to as "the Porsuk", who comments on party interactions in the diner scene.

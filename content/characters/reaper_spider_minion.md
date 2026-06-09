@@ -3,11 +3,9 @@ title: "Reaper Spider Minion"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Reaper Spider Minion
 
-# Reaper Spider Minion
-A mob archetype noted in the descriptive book: common fifteenth-floor spiders with celestial blood. They can act as traveling merchants; some grow into powerful individuals like [[Shi Maria]]. They are associated with dangerous special attacks and contagion of certain effects.
+# reaper_spider_minion
 
-## Additional Observations
-# Reaper Spider Minion
-Mob type on the fifteenth floor; has celestial blood and dangerous special attacks (includes merchants and minions). [[Shi Maria]] is a notable, unusually powerful example of this mob class. Warnings associated with them include high-level effects and travel/merchant behavior when found off-floor.
+• A mob archetype with celestial blood, commonly found on the fifteenth floor, with some growing into powerful individuals like [[Shi Maria]].
+• They can act as traveling merchants and are associated with dangerous special attacks and contagion of certain effects.
+• They are a mob type that can be found off-floor, with warnings including high-level effects and travel/merchant behavior.

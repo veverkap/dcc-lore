@@ -3,19 +3,10 @@ title: "Algos"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Algos
 
-# Algos
-Named god of pain that [[Maggie My]] chose to worship via a scroll; the [[Celestial Grenade]] she possessed would have summoned [[Algos]] if detonated.
+# algos
 
-## Additional Observations
-# Algos
-Named host referenced in a joking comparison about gore and game-night; part of the social milieu surrounding Carl.
-
-## Additional Observations
-# Algos
-The god of pain; identified as the deity that [[Maggie My]] would have summoned with the [[Celestial Grenade]] she was carrying. Noted as especially cruel and suitable for torturous targets.
-
-## Additional Observations
-# [[Algos]]
-Referenced as a past host of game night; used as a cultural touchstone for gore comparisons.
+• Named god of pain chosen to worship via a scroll by [[Maggie My]], with the [[Celestial Grenade]] summoning him if detonated.
+• Host referenced in a joking comparison about gore and game-night, part of the social milieu surrounding [[Carl]].
+• God of pain, identified as the deity that [[Maggie My]] would have summoned with the [[Celestial Grenade]] she was carrying, known for being especially cruel and suitable for torturous targets.
+• Referenced as a past host of game night, used as a cultural touchstone for gore comparisons.

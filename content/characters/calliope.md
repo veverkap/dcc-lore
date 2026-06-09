@@ -3,11 +3,8 @@ title: "Calliope"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Calliope
 
-# Calliope
-The cybernetic Bleached Drake pet (Level 130) circling above the [[Reaver castle]] and identified as a pet of [[warlord fang of the reavers]].
+# calliope
 
-## Additional Observations
-# Calliope
-A bleached drake (named) that spiraled from the sky and exploded on impact near the group during the aftermath of the [[no disassemble]] detonation.
+• The cybernetic Bleached Drake pet (Level 130) is identified as a pet of [[warlord [[fang]] of the reavers]] and is seen circling above the [[Reaver castle]].
+• A bleached drake (named) spiraled from the sky, exploded on impact near the group, and was likely related to the aftermath of the [[no disassemble]] detonation.

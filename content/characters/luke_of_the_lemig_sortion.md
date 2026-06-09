@@ -3,11 +3,9 @@ title: "Luke of the Lemig Sortion"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Luke of the Lemig Sortion
 
-# Luke of the Lemig Sortion
-A goblin representative from the [[lemig sortition]] who laughs at Juice Box’s self-awareness claim and suggests evacuation to the high congress.
+# luke_of_the_lemig_sortion
 
-## Additional Observations
-# [[Luke of the Lemig Sortion]]
-A goblin-aligned representative from the faction [[lemig sortition]]. He is dismissive of Juice Box’s self-awareness claim and later considers evacuation for his people via the [[High Congress]].
+• A goblin representative from the [[lemig sortion]] who laughs at Juice Box’’s self-awareness claim and suggests evacuation to the [[High Congress]].
+• He is a goblin-aligned representative from the faction [[lemig sortion]].
+• He is dismissive of Juice Box’’s self-awareness claim and later considers evacuation for his people via the [[High Congress]].

@@ -3,19 +3,10 @@ title: "Clockwork Mongos"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Clockwork Mongos
 
-# Clockwork Mongos
-Clockwork dinosaur automata (plurals) employed by the crawlers. Two prematurely exploded in [[Bonnie's House]], injuring [[Mongo]] and contributing to the chaotic combat environment.
+# clockwork_mongos
 
-## Additional Observations
-# [[Clockwork Mongos]]
-Clockwork minions that Katia or the party deploys as distractions. They jump down the stairs into the ooze chamber and are quickly destroyed; their twin shrieks are noted during the distraction phase.
-
-## Additional Observations
-# [[Clockwork Mongos]]
-Mechanical monkey constructs used by the party to assist in encounters. Multiple clockwork Mongos appear in the treetops and contribute to the fight against the boss.
-
-## Additional Observations
-# Clockwork Mongos
-Small clockwork automata (plural) deployed by the crawlers; two explode prematurely in the house, causing collateral damage and injuring [[Mongo]]. They are notable environmental/trigger elements in the fight sequence.
+• Clockwork dinosaur automata employed by the [[crawlers]], two of which prematurely exploded in [[Bonnie's House]], injuring [[Mongo]].
+• Clockwork minions deployed as distractions, jumping down stairs into the ooze chamber and quickly destroyed.
+• Mechanical monkey constructs used by the party to assist in encounters, appearing in the treetops and contributing to the fight against the boss.
+• Small clockwork automata deployed by the [[crawlers]], two of which exploded prematurely in the house, causing collateral damage and injuring [[Mongo]].

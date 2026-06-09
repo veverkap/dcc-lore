@@ -3,11 +3,8 @@ title: "Contessa Purrington"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Contessa Purrington
 
-# Contessa Purrington
-A named female “cat” discovered and scanned by [[Sadir]] and [[Gennrik]]; tagged as containing a human microchip and linked to a collected human owner. Considered a potential Walk-On capture.
+# contessa_purrington
 
-## Additional Observations
-# Contessa Purrington
-A named female cat encountered by [[Sadir]] and [[Gennrik]] during a hunt. Identified by microchip data linking her to an initial collection; temporarily detained in a small device before being released by the hunters.
+• Contessa Purrington, a named female "cat" discovered and scanned by [[Sadir]] and [[Gennrik]], contains a [[human]] microchip linked to a collected [[human]] owner, considered a potential Walk-On capture.
+• Encountered by [[Sadir]] and [[Gennrik]] during a hunt, Contessa Purrington was identified by microchip data and temporarily detained in a small device before being released.

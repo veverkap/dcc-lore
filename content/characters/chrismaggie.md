@@ -3,7 +3,7 @@ title: "Chris/Maggie"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Chris/Maggie
 
-# Chris/Maggie
-A combined reference to a crawler or crawlers ("Chris/Maggie") who remain entombed and are visible as a map dot to Donut when she stands nearby; their room is partially flooded and dark.
+# chrismaggie
+
+• [[Chris]]/[[Maggie]]: a crawler or [[crawlers]] entombed and visible as a map dot to [[Donut]] when standing nearby, with a partially flooded and dark room.

@@ -3,7 +3,8 @@ title: "Kevin the announcer"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Kevin the announcer
 
-# Kevin the announcer
-On-screen host/announcer for the broadcast. Mentioned in connection with a on-screen gleener identified as [[Prime Minister Glory]] who appeared beside him during the recap episode.
+# kevin_the_announcer
+
+• On-screen host/announcer for the broadcast
+• Mentioned in connection with [[Prime Minister Glory]], who appeared beside him during the recap episode

@@ -3,11 +3,8 @@ title: "The Armored Sai"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# The Armored Sai
 
-# The Armored Sai
-Named guard type described as "regular guards of the [[Larracos level]]" — likened to samurai rhinoceroses and mentioned as targets of [[Astrid]]'s psionic control.
+# the_armored_sai
 
-## Additional Observations
-# The Armored Sai
-A class/type of guard on the [[Larracos]] level described as samurai rhinoceroses; they are among the forces [[Astrid]] can control and are part of the security threat profile.
+• Named guard type, likened to samurai rhinoceroses, and targets of [[Astrid]]'s psionic control.
+• Class/type of guard on the [[Larracos]] level, part of the security threat profile.

@@ -3,7 +3,10 @@ title: "The Traitor"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# The Traitor
 
-# The Traitor
-An enemy agent referenced repeatedly as a major threat to the [[Eulogist]] plan. The Traitor coordinates mass recruitment attempts, attempts to contact crawlers, and pushes a hidden upgrade program that both sides fear.
+# the_traitor
+
+• [[An]] enemy agent referenced repeatedly as a major threat to the [[Eulogist]] plan.
+• Coordinates mass recruitment attempts.
+• Attempts to contact [[crawlers]].
+• Pushes a hidden upgrade program that both sides fear.

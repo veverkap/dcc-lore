@@ -3,11 +3,7 @@ title: "Doctor El"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Doctor El
 
-# Doctor El
-A funeral bell guard in [[Point Mongo]] nicknamed "Doctor El" by [[Donut]], one of the guards who receives a missile launcher from [[dungeon crawler carl]].
+# doctor_el
 
-## Additional Observations
-# [[Doctor El]]
-A funeral bell guard (mushroom-type) in [[Point Mongo]] named by [[Donut]]; receives a missile launcher from [[dungeon crawler carl]] during town armament.
+• A funeral bell guard in [[Point Mongo]] nicknamed "Doctor El" by [[Donut]], who receives a missile launcher from [[dungeon crawler carl]].

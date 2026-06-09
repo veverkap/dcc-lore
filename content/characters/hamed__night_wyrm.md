@@ -3,7 +3,7 @@ title: "Hamed / Night Wyrm"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Hamed / Night Wyrm
 
-# Hamed / Night Wyrm
-Mentioned as Astrid’s husband and called the Night Wyrm. Runs a lair on the top floor and is connected to fairy politics; referenced by Astrid in her final moments. Also connected to circus lore (ringmaster Grimaldi) and the larger world.
+# hamed__night_wyrm
+
+• [[Hamed]], also known as the Night Wyrm, is [[Astrid]]'s husband and runs a lair on the top floor, with connections to fairy politics and the circus lore of ringmaster [[Grimaldi]].

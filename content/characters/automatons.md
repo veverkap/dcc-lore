@@ -3,7 +3,7 @@ title: "automatons"
 type: Character
 tags: [dcc-lore-graph]
 ---
+
 # automatons
 
-# [[automatons]]
-Enemy machine units being armed in clusters with [[satchel of gunpowder]] and used to create explosive traps; their emplacement leads to a massive crater after [[Tripper]] is cast.
+• Enemy machine units armed in clusters with [[satchel of gunpowder]] to create explosive traps, leading to a massive crater after [[Tripper]] is cast.

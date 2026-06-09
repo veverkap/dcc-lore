@@ -3,7 +3,7 @@ title: "Bugs"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Bugs
 
-# [[Bugs]]
-Hostile insect-like mobs that previously swarmed the dance floor; described as dispersing when awnings were open and being kept away by Jamal.
+# bugs
+
+• [[Bugs]]: hostile insect-like mobs that previously swarmed the dance floor, dispersing when awnings were open and kept away by [[Jamal]].

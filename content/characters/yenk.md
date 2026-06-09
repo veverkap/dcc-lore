@@ -3,11 +3,10 @@ title: "Yenk"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Yenk
 
-# Yenk
-Humanoid alien race (tall, ridged foreheads, bony exoskeleton) described in the chapter. Includes hunters like [[Bravvo]] and notable individuals such as [[Ikicha]]; male Yenks are typically bounty hunters/mercenaries in the setting.
+# yenk
 
-## Additional Observations
-# [[Yenk]]
-A tall, hairy alien race/person encountered injured and carried into the field hospital during the breach; one Yenk was seen severely wounded by pulse fire.
+• Humanoid alien race with tall, ridged foreheads, and bony exoskeleton
+• Includes [[hunters]] like [[Bravvo]] and notable individuals such as [[Ikicha]]
+• Male Yenks are typically bounty [[hunters]]/[[mercenaries]]
+• A tall, hairy Yenk was encountered injured and carried into the field hospital during the breach

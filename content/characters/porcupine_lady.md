@@ -3,11 +3,8 @@ title: "Porcupine Lady"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Porcupine Lady
 
-# Porcupine Lady
-A hostile crawler/character who inflicted grievous wounds during the fight, described as having "stuck her points in your eyeballs" and contributed to [[dungeon crawler carl]]'s injuries.
+# porcupine_lady
 
-## Additional Observations
-# Porcupine Lady
-[[Porcupine Lady]] is a hostile crawler-enemy who inflicted severe damage (including to Carl’s eyes) during the fight described in the chapter.
+• Porcupine Lady is a hostile crawler/character who inflicted grievous wounds, including sticking her points in someone's eyeballs, and contributed to [[dungeon crawler carl]]'s injuries.
+• Inflicted severe damage, including to [[Carl]]'s eyes, during the fight.

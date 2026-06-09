@@ -3,27 +3,12 @@ title: "Mrs. Parsons"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Mrs. Parsons
 
-# Mrs. Parsons
-An upstairs neighbor in [[dungeon crawler carl]]'s building who is explicitly shown among the victims when the apartment building is crushed during the transformation.
+# mrs_parsons
 
-## Additional Observations
-# Mrs. Parsons
-Referenced as [[dungeon crawler carl]]'s former downstairs neighbor who was beheaded in the collapse. Her missing body parts are speculated to have been used in creating creatures like the [[Shambling Berserker]].
-
-## Additional Observations
-# Mrs. Parsons
-[[dungeon crawler carl]]'s neighbor on the first floor whose personal circumstances (widowed and alone) are referenced during [[dungeon crawler carl]]'s introspection.
-
-## Additional Observations
-# Mrs. Parsons
-Carl’s downstairs neighbor from before the cataclysm, mentioned as having been beheaded and possibly used as parts in undead creations like the [[Shambling Berserker]].
-
-## Additional Observations
-# Mrs. Parsons
-[[dungeon crawler carl]]’s neighbor on the first floor whose husband has been dead for years; cited as another example of someone left alone in the narrator’s reflections.
-
-## Additional Observations
-# Mrs. Parsons
-Neighbor referenced in recollections about the recent police presence and interactions surrounding [[Marjory Williams]] and the building. Offers contextual neighborhood perspective in the chapter.
+• Mrs. Parsons, [[an]] upstairs neighbor in [[dungeon crawler carl]]'s building, is shown among the victims when the apartment building is crushed during the transformation.
+• Her former downstairs neighbor, also Mrs. Parsons, was beheaded in the collapse and her missing body parts may have been used to create creatures like the [[Shambling Berserker]].
+• Mrs. Parsons was also [[dungeon crawler carl]]'s neighbor on the first floor, who was widowed and alone, and whose personal circumstances were referenced during [[dungeon crawler carl]]'s introspection.
+• [[Carl]]'s downstairs neighbor from before the cataclysm, Mrs. Parsons, was beheaded and possibly used as parts in undead creations like the [[Shambling Berserker]].
+• Mrs. Parsons, [[dungeon crawler carl]]'s neighbor on the first floor, had been widowed for years and was cited as another example of someone left alone in the narrator's reflections.
+• Mrs. Parsons was also referenced in recollections about the recent police presence and interactions surrounding [[Marjory Williams]] and the building, offering a contextual neighborhood perspective in the chapter.

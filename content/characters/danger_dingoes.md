@@ -3,23 +3,10 @@ title: "Danger Dingoes"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Danger Dingoes
 
-# [[Danger Dingoes]]
-The mounts used by [[kobold]] — described as canine creatures used like steeds. They vary in strength (one displayed a "Septic" debuff) and are targeted by [[Donut]]'s magic missiles during combat.
+# danger_dingoes
 
-## Additional Observations
-# Danger Dingoes
-A pack of thirteen aggressive dingoes encountered earlier. The dots for the [[Danger Dingoes]] run down the main passage and disappear after moving off-screen.
-
-## Additional Observations
-# [[Danger Dingoes]]
-A non-sapient enemy type that [[dungeon crawler carl]] previously fed to remove hostility, triggering the "PETA Enthusiast!" achievement. Example of aggravated mobs that can be pacified for benefit.
-
-## Additional Observations
-# [[Danger Dingoes]]
-A type of hostile creature referenced in a misquoted threat; used in group gossip but not directly encountered in this chapter.
-
-## Additional Observations
-# [[Danger dingoes]]
-Named dangerous beasts referenced in a threatening remark misquoted during the encounter; part of in-world menaces used rhetorically.
+• The mounts used by [[kobold]] are canine creatures used like steeds, varying in strength and targeted by [[Donut]]'s magic missiles during combat.
+• A pack of thirteen aggressive dingoes was encountered earlier, with dots running down the main passage and disappearing off-screen.
+• [[Danger Dingoes]] are a non-sapient enemy type that can be pacified for benefit, as demonstrated by [[dungeon crawler carl]]'s [[experience]].
+• [[Danger Dingoes]] are referenced in a misquoted threat and used in group gossip, but were not directly encountered in this chapter.

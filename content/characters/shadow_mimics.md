@@ -3,7 +3,9 @@ title: "Shadow Mimics"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Shadow Mimics
 
-# Shadow Mimics
-[[Shadow Mimics]] are a dangerous, sapient mimic species that grow in intelligence and power indefinitely, are hard to detect, prone to ideation breaking, and include forms like the Adolescent Shadow Mimic.
+# shadow_mimics
+
+• [[Shadow Mimics]] are a sapient, dangerous mimic species that grow in intelligence and power indefinitely.
+• They are hard to detect and prone to ideation breaking.
+• Forms include the Adolescent Shadow Mimic.

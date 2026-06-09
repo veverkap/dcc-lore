@@ -3,31 +3,13 @@ title: "Ikicha"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Ikicha
 
-# Ikicha
-A yenk who authored the eleventh edition of a cookbook; cited as an example of the [[Yenk]] race’s cultural details (three genders, male bounty hunters). Provides worldbuilding context for the [[Yenk]] species.
+# ikicha
 
-## Additional Observations
-# [[Ikicha]]
-A crawler who left an edition note in the text ("Gods, I am so lonely."); appears as an annotating player voice in the chapter.
-
-## Additional Observations
-# Ikicha
-A crawler credited as the author of the appended note ("crawler Ikicha, 11th Edition") who reflects on isolation and previous crawlers like [[York]]. Contextual narrator/reference for the chapter's framing.
-
-## Additional Observations
-# Ikicha
-A crawler quoted by [[Crawler Drakea]] (from the 11th edition) whose line “The burning Yenk needs only to embrace their enemies.” is cited as counsel to [[justice lights team]].
-
-## Additional Observations
-# [[Ikicha]]
-Mentioned reference: author of the 11th edition of a cookbook and a castrated male yenk. Used in exposition on [[Yenk]] biology and background; not present in the scene but part of the lore context.
-
-## Additional Observations
-# [[Ikicha]]
-A crawler whose final entry (11th Edition) is quoted in the chapter. Ikicha warns about the emotional danger of mistaking fabricated returns for genuine recovery, a sentiment that haunts [[dungeon crawler carl]] and others after the appearance of recreated loved ones.
-
-## Additional Observations
-# Ikicha
-A crawler who left a brief editorial note ("Gods, I am so lonely.") appended to the chapter (11th Edition).
+• A [[yenk]] who authored the eleventh edition of a cookbook, providing worldbuilding context for the [[Yenk]] species.
+• A crawler who left [[an]] edition note ("Gods, I am so lonely.") and appears as [[an]] annotating player voice in the chapter.
+• A crawler credited as the author of the appended note ("crawler Ikicha, 11th Edition") who reflects on isolation and previous [[crawlers]] like [[York]].
+• A crawler quoted by [[Crawler Drakea]] (from the 11th edition) whose line "The burning [[Yenk]] needs only to embrace their enemies" is cited as counsel to [[justice lights team]].
+• Author of the 11th edition of a cookbook and a castrated male [[yenk]], used in exposition on [[Yenk]] biology and background.
+• A crawler whose final entry (11th Edition) is quoted in the chapter, warning about the emotional danger of mistaking fabricated returns for genuine recovery.
+• A crawler who left a brief editorial note ("Gods, I am so lonely.") appended to the chapter (11th Edition).

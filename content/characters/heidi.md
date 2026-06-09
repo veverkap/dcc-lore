@@ -3,27 +3,11 @@ title: "Heidi"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Heidi
 
-# [[Heidi]]
-Mentioned by [[Jurgen]] as a person he loves; referenced in passing as not physically present in camp but spoken of frequently.
+# heidi
 
-## Additional Observations
-# Heidi
-Mentioned by [[Jurgen]] as ready to fight alongside him; a member of the [[105th]]'s contingent.
-
-## Additional Observations
-# [[Heidi]]
-A briefly invoked entity referenced by [[Jurgen]] when claiming a “sixth sense”; identity unclear from the scene but presented as an associated companion or presence.
-
-## Additional Observations
-# [[Heidi]]
-Jurgen's pregnant wife, not physically present in the dungeon; located in the "kinder facility" on the surface according to chapter context.
-
-## Additional Observations
-# Heidi
-A named entity referenced by [[Jurgen]] when claiming "I have a sixth sense about these things. Isn’t that right, [[Heidi]]?" Likely a companion or mount associated with [[Jurgen]]'s group.
-
-## Additional Observations
-# [[Heidi]]
-Person important to [[Jurgen]] who is pregnant and has not been heard from recently; Jurgen fears she is in danger.
+• Mentioned by [[Jurgen]] as a person he loves; ready to fight alongside him; a member of the [[105th]]'s contingent.
+• A briefly invoked entity referenced by [[Jurgen]] when claiming a "sixth sense"; identity unclear but presented as [[an]] associated companion or presence.
+• [[Jurgen]]'s pregnant wife, located in the "kinder facility" on the surface.
+• A named entity referenced by [[Jurgen]] when claiming "I have a sixth sense about these things. Isn’t that right, [[Heidi]]?"; likely a companion or mount associated with [[Jurgen]]'s group.
+• Person important to [[Jurgen]] who is pregnant and has not been heard from recently; [[Jurgen]] fears she is in danger.

@@ -3,11 +3,10 @@ title: "Mongoliensis"
 type: Character
 tags: [dcc-lore-graph]
 ---
-# Mongoliensis
 
-# Mongoliensis
-Species name of the small chicken‑dinosaur pet in the cage. The entry describes typical behavior and growth to level 15; the captured specimen is a [[Mongoliensis]] nicknamed [[Mongo]].
+# mongoliensis
 
-## Additional Observations
-# Mongoliensis
-The scientific name used in the chapter for [[Mongo]]’s species; discussed by [[Odette]] as the basis for the translated common name (velociraptor).
+• Species name of the small chicken-dinosaur pet in the cage: Mongoliensis
+• Nicknamed [[Mongo]]
+• Scientific name used for the species: Mongoliensis
+• Basis for the translated common name: velociraptor
