@@ -2,8 +2,14 @@
 title: "Epitome Noflex of the Dream"
 type: Character
 tags: [dcc-lore-graph]
+aliases: ["Epitome Noflex"]
 ---
+
 
 # epitome_noflex_of_the_dream
 
-• One of the photographed mothers from the lawsuit-related loot is a bald elf of the [[Dream]] faction, provoking reactions from [[Louis]] and the group.
+* One of the photographed mothers from the lawsuit-related loot is a bald elf of the [[Dream]] faction, provoking reactions from [[Louis]] and the group.
+* Named as the mother of the leader of [[dream]]; her photograph is held by [[dungeon crawler carl]] and referenced when identifying the pale [[hunters]] associated with [[dream]].
+* Famous dream-elf and mother of [[Epitome Tagg]] who appears as [[an]] NPC/illusion during the meeting, provoking controversy and breaking meeting decorum.
+* Leader of the elven faction [[dream]]; described as striking and bald. Her photograph was in [[dungeon crawler carl]]'s inventory and was the subject of a confrontation with [[Louis]].
+* The beautiful, bald dream-elf who appears during the meeting and taunts Epitome [[Tagg]] as his mother figure; operates as [[an]] NPC/illusive presence that regenerates and is not easily controlled by warlords.

@@ -2,7 +2,9 @@
 title: "King Rust"
 type: Character
 tags: [dcc-lore-graph]
+aliases: [Rust]
 ---
+
 
 # king_rust
 
@@ -24,3 +26,4 @@ tags: [dcc-lore-graph]
 * He is a monarch of the [[skull clan]] referenced in discussion of the royal family's status, noted as "supposedly in the dungeon" with uncertain whereabouts.
 * King [[Rust]] is a named ruler referenced in the sponsors' conversation; his children are described as trying to murder each other, indicating palace instability tied into crawl politics.
 * He is referenced as [[an]] outside influence that might attempt to bribe or whisper to advocates, mentioned by [[Quasar]] as a potential corrupting force from which a lawyer might take orders.
+* Then-Prince Rust, [[an]] orc who killed [[Brooks]] with a whip, was later decapitated by [[Colonel Rosetta]].

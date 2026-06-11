@@ -2,11 +2,11 @@
 title: "Miriam Dom"
 type: Character
 tags: [dcc-lore-graph]
+aliases: [Miriam]
 ---
 
-# miriam_dom
 
-Here is the consolidated markdown list:
+# miriam_dom
 
 * [[Miriam]] Dom, a goatlike crawler (Shepherd) appearing on the [[Current Leaderboard]] (Level 27).
 * Leaderboard crawler ([[Human]] – Shepherd – Level 30) appearing in post-recap standings.
@@ -25,3 +25,17 @@ Here is the consolidated markdown list:
 * Partner or associate of [[Prepotente]] referenced alongside the feral-god [[turkey]]; part of the chapter's broader lore references.
 * Crawler who entered the dungeon with a herd of goats and who previously used enhanced pet biscuits; recounted a bad outcome where a goat killed others.
 * Giant pianist depicted in the what-if room, appearing in pajamas and playing a frenzied Beethoven piece while the team watches.
+* Party member who scouted the southern entrance of the [[Small Bugbear Settlement]] and reported that the funeral bell mushroom guards deactivate traps.
+* Communicates with [[Carl]] via chat and participates in the group's saferoom activities.
+* Provides scouting intel about caravan routes, trap defenses, and local settlements.
+* Favors shadowy, hedge-surrounded towns.
+* Implicated in the larger intrigue involving [[plenty]].
+* Death/loot catalyzes events in the chapter.
+* Death previously affected other [[crawlers]].
+* Marked by [[dungeon crawler carl]] with the ring of Divine Suffering.
+* Identifies herself as the mother in a pair, tends to [[Milk]]'s burns, and interacts civilly despite being a crawler.
+* Scouted the town earlier, described entrance paths and trap deactivation by the funeral bell mushroom guards.
+* Reports caravan routes, trap-clearance due to anti-trap spells, and the location of a large [[Ursine settlement (town near bridge)]].
+* Likely associated with or located near [[Prepotente Town Number Four]].
+* Deceased NPC whose death and loot drive parts of the chapter's conflict.
+* Death is linked to the curing of [[Li Jun]].

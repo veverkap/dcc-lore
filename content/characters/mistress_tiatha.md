@@ -2,7 +2,9 @@
 title: "Mistress Tiatha"
 type: Character
 tags: [dcc-lore-graph]
+aliases: [Tiatha]
 ---
+
 
 # mistress_tiatha
 
@@ -18,3 +20,4 @@ tags: [dcc-lore-graph]
 * She is a curator of a pile of recovered jewelry and items, including Petey Motteux's Little Secret.
 * She is a knowledgeable NPC who believes the "Negative ROI" effect is actually Separation Anxiety.
 * She is a drunken guild member who asserts the procedure "has happened before" and provides a grudging vote of confidence to [[Mordecai]]'s plan.
+* Operator of the wire hack, "Tiatha's wire hack", which amplifies [[Li Na]]'s auras via the antenna/network, enabling dread effects to reach a wide area.

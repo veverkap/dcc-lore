@@ -2,11 +2,15 @@
 title: "Province Boss (Stop 48)"
 type: Character
 tags: [dcc-lore-graph]
+aliases: ["Province Boss"]
 ---
+
 
 # province_boss_stop_48
 
-• The colossal frankenmonster formed when multiple [[Festering Ghoul]]s combine at [[Stop 48]], filling the room and producing a discovery achievement for players who observe it.
-• It is described as room-filling, covered in mouths, and slurping when it moves.
-• The giant frankenmonster is formed when many [[Festering Ghoul]] bodies fuse at stop 48, completely filling the room and screaming constantly.
-• It earns discoverers [[an]] achievement and is treated as a province-level boss threat.
+* The colossal frankenmonster formed when multiple [[Festering Ghoul]]s combine at [[Stop 48]], filling the room and producing a discovery achievement for players who observe it.
+* It is described as room-filling, covered in mouths, and slurping when it moves.
+* The giant frankenmonster is formed when many [[Festering Ghoul]] bodies fuse at stop 48, completely filling the room and screaming constantly.
+* It earns discoverers [[an]] achievement and is treated as a province-level boss threat.
+* A large, composite boss-type mob composed of wrath [[ghouls]], capable of filling [[an]] entire station and wiping groups quickly.
+* A powerful boss entity suspected to inhabit the area, potentially affected by a mass-explosion strategy.

@@ -2,7 +2,9 @@
 title: "Doctor Bones"
 type: Character
 tags: [dcc-lore-graph]
+aliases: ["Dr. Bones", "dr bones"]
 ---
+
 
 # doctor_bones
 
@@ -17,3 +19,4 @@ tags: [dcc-lore-graph]
 * He is a member of the group who, along with [[Mordecai]], advised that [[Minion Army]] would create chaos and was consulted about the plan.
 * He is a companion of [[Splash Zone]] who is headed to see [[Hamed]] with [[Gluteus]] to inquire about locating [[Splash Zone]]'s wife.
 * He is a member of the wider party/associates present at the Desperado Club who also received the mercenary missing- floor system warning.
+* A skeleton DJ and party member who provides maps and tactical input during the infiltration of the [[Reaver castle]].

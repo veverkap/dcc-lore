@@ -2,7 +2,9 @@
 title: "Prince Maestro"
 type: Character
 tags: [dcc-lore-graph]
+aliases: [Maestro, "The Maestro"]
 ---
+
 
 # prince_maestro
 
@@ -25,3 +27,23 @@ tags: [dcc-lore-graph]
 * Member of the Skull Empire who at one point inhabits the body of [[Grull]]; a named noble connected to the bolting/bolt narrative.
 * Royal relation of [[Baroness Victory]] referenced to contextualize her background; part of the larger nobility tied to the [[Princess]] Posse.
 * Named prince whose body was occupied by [[Grull]]; associated with the plot threads around the bolt and the Skull Empire.
+* [[Maestro]] is the host of the live program segment "Death Watch", controlling studio displays and enforcing show rules.
+* [[Maestro]] is referenced in a scandal ("Maestro sex tape") that impacts public viewership and ratings.
+* [[Maestro]] is the royal son of the Skull Empire, tied to interstellar politics.
+* [[Maestro]] gifted a [[Legendary Skill Potion]] to [[Maggie]] during a show.
+* [[Maestro]] is a powerful figure who contributed to generator explosions and chaos in the pit.
+* [[Maestro]] drove [[Grull]] during the arena/Death Challenge scenario.
+* [[Maestro]] is a sponsored opponent involved in a prior confrontation.
+* [[Maestro]] is a notable orc figure referenced in relation to driving [[Grull]] and faction-war participation.
+* [[Maestro]] is a named authority/figure referenced by [[Victory]] regarding sponsor-cause deity behavior and faction war rules.
+* [[Maestro]] is the host of the in-world show that airs recap and other footage.
+* [[Maestro]] is [[an]] antagonist who was teleported/abandoned into the [[Abyss]], causing additional ghoul generator explosions and influencing sponsorship dynamics.
+* [[Maestro]] is the operator/ driver credited with controlling [[Grull]] during the arena event.
+* [[The Maestro]]: host of [[death watch extreme]], orc host of a televised stage show, brash and theatrical, mocks [[crawlers]], gifts items, claims lineage to [[Skull Clan]].
+* Public figure and prince, produced interview show, abrasive, connected to [[Skull Clan]], central to a viral snick humiliating [[dungeon crawler carl]].
+* Powerful figure, referenced as [[Princess]] [[Formidable]]'s sibling, notable presence among higher-tier players/gods in the game.
+* Targeted by a crossbow bolt gifted by [[princess [[formidable]] of the skull empire]], part of [[Formidable]]'s internal machinations.
+* Named member of [[Skull Clan]]'s nobility, could assume power depending on succession outcomes, supposedly disowned by his father.
+* Claimant to kingship ("the [[Maestro]] is the king") after recent chaos, political figure whose fate and family are tangled in current events.
+* Antagonist from whom some [[crawlers]] were previously saved, mentioned historically, not active in this chapter but part of characters' backgrounds.
+* Immortal touring participant, ejected from [[Grull]]'s chest, splattered but not permanently killable on the tenth floor, return anticipated on the twelfth floor.
